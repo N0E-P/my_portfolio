@@ -2,7 +2,6 @@ import styles from "../styles/Home.module.css"
 import Head from "next/head"
 import Header from "../components/fr/Header"
 import Presentation from "../components/fr/Presentation"
-import Summary from "../components/fr/Summary"
 import Crypto from "../components/fr/Crypto"
 import Projects from "../components/fr/Projects"
 import Tools from "../components/fr/Tools"
@@ -12,7 +11,7 @@ import Footer from "../components/fr/Footer"
 export default function Home() {
 	return (
 		<div className={styles.container}>
-			<h1>hola mi amigo</h1>
+			<h1 className="text-3xl font-bold underline">oui</h1>
 			<Head>
 				<title>Mon Portfolio</title>
 				<meta name="description" content="Mon Portfolio" />
@@ -20,7 +19,6 @@ export default function Home() {
 			</Head>
 			<Header />
 			<Presentation />
-			<Summary />
 			<Crypto />
 			<Projects />
 			<Tools />
