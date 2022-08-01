@@ -40,11 +40,11 @@ const Header = () => {
               <li className="ml-8 text-m uppercase hover:border-b">Outils</li>
             </Link>
             <Link href="/fr">
-              <li className="ml-8 text-m uppercase hover:border-b">Contact</li>
+              <li className="ml-8 text-m uppercase hover:border-b ">Contact</li>
             </Link>
             <Link href="/fr">
               <img
-                className="ml-10"
+                className="ml-10 rounded-xl hover:scale-105 ease-in duration-300"
                 src={"flags/fr.png"}
                 alt="Français"
                 width="50"
@@ -53,7 +53,7 @@ const Header = () => {
             </Link>
             <Link href="/">
               <img
-                className="ml-6"
+                className="ml-6 rounded-xl hover:scale-105 ease-in duration-300"
                 src={"flags/en.png"}
                 alt="English"
                 width="50"
@@ -105,7 +105,7 @@ const Header = () => {
           <div className="py-3 flex flex-col">
             <ul className="uppercase">
               <Link href="/fr">
-                <li className="py-3 text-sm">Présentation</li>
+                <li className="py-3 text-sm ">Présentation</li>
               </Link>
               <Link href="/fr">
                 <li className="py-3 text-sm">Crypto</li>
