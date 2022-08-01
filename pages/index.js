@@ -1,29 +1,21 @@
-import styles from "../styles/Home.module.css"
-import Head from "next/head"
-import Header from "../components/fr/Header"
-import Presentation from "../components/fr/Presentation"
-import Crypto from "../components/fr/Crypto"
-import Projects from "../components/fr/Projects"
-import Tools from "../components/fr/Tools"
-import Conclusion from "../components/fr/Conclusion"
-import Footer from "../components/fr/Footer"
+import Head from "next/head";
+import Link from "next/link";
 
 export default function Home() {
-	return (
-		<div className={styles.container}>
-			<h1 className="text-3xl font-bold underline">oui</h1>
-			<Head>
-				<title>Mon Portfolio</title>
-				<meta name="description" content="Mon Portfolio" />
-				<link rel="icon" href="/favicon.ico" />
-			</Head>
-			<Header />
-			<Presentation />
-			<Crypto />
-			<Projects />
-			<Tools />
-			<Conclusion />
-			<Footer />
-		</div>
-	)
+  return (
+    <div>
+      <Head>
+        <title>My Portfolio</title>
+        <meta name="description" content="My Portfolio" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      <Link href="/fr">
+        <img src={"flags/fr.png"} alt="Français" width="60" height="40"></img>
+      </Link>{" "}
+      <Link href="/">
+        <img src={"flags/en.png"} alt="English" width="60" height="40"></img>
+      </Link>
+      <h1>Version anglaise en cours de construction...</h1>
+    </div>
+  );
 }
