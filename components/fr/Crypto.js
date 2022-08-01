@@ -1,9 +1,9 @@
 export default function Crypto() {
   return (
     <div className="w-full md:h-screen p-2 flex items-center py-16">
-      <div className="max-w-[1240px] m-auto md:grid grid-colos-3 gap-8">
+      <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8">
         <div className="col-span-2">
-          <h2>Mon début chaotique dans les cryptos</h2>
+          <h1>Mon début chaotique dans les cryptos</h1>
           <p className="py-2 text-gray-700">
             Fin juillet 2021, alors que je m'ennuyais profondément en plein
             millieux de mes vacances :

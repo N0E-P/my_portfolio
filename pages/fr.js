@@ -5,7 +5,6 @@ import Crypto from "../components/fr/Crypto";
 import Projects from "../components/fr/Projects";
 import Tools from "../components/fr/Tools";
 import Conclusion from "../components/fr/Conclusion";
-import Footer from "../components/fr/Footer";
 
 export default function Home() {
   return (
@@ -21,7 +20,6 @@ export default function Home() {
       <Projects />
       <Tools />
       <Conclusion />
-      <Footer />
     </div>
   );
 }

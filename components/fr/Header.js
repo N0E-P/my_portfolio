@@ -11,14 +11,15 @@ const Header = () => {
     setNav(!nav);
   };
 
+  //Pour avoir le header qui reste sur le haut de l'écarn tout le temps, ajouter :
   return (
-    <div className="fixed w-full h20 shadow-xl z-[100]">
+    <div className=" fixed bg-[#ecf0f3] w-full h20 shadow-xl z-[100]">
       <div className="py-2 flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/fr">
           <img
             className=" rounded-full shadow-lg shadow-gray-400 p-1 cursor-pointer hover:scale-105 ease-in duration-300"
             src={"me/profile-photo.jpg"}
-            alt="Profile Photo"
+            alt="Noé Pecci"
             width="120"
             height="120"
           />

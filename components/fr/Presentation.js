@@ -4,7 +4,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 
 export default function Presentation() {
   return (
-    <div className="w-full h-screen text-center">
+    <div className="w-full text-center h-screen">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <h1 className="py-4 text-gray-800">
@@ -16,7 +16,8 @@ export default function Presentation() {
             je compte bien m'y mettre à plein temps. J’ai réaliser mon portfolio
             pour montrer et raconter comment est-ce-que je me suis lancé la
             dedans, qu’est-ce-que j’ai déjà construit comme projets et qu’est ce
-            que je sais utiliser comme outils.
+            que je sais utiliser comme outils. / que j'ai appris en parrallèle
+            de mes études
           </p>
           <div className="flex items-center justify-between max-w-[400px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
