@@ -2,7 +2,6 @@ import Link from "next/link";
 import React, { useState, useEffect } from "react";
 import { AiOutlineClose, AiOutlineMenu, AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const Header = () => {
   const [nav, setNav] = useState(false);
@@ -62,9 +61,6 @@ const Header = () => {
               <li className="ml-8 text-m uppercase hover:border-b ">
                 Conclusion
               </li>
-            </Link>
-            <Link href="/fr#contact">
-              <li className="ml-8 text-m uppercase hover:border-b ">Contact</li>
             </Link>
             <Link href="/fr">
               <img
@@ -153,11 +149,6 @@ const Header = () => {
                   Conclusion
                 </li>
               </Link>
-              <Link href="/fr#contact">
-                <li onClick={() => setNav(false)} className="py-3 text-sm">
-                  Contact
-                </li>
-              </Link>
             </ul>
             <div className="pt-8">
               <p className="uppercase tracking-widest text-[#5651e5]">
@@ -189,21 +180,27 @@ const Header = () => {
               <p className="uppercase tracking-widest text-[#5651e5]">
                 Mes réseaux
               </p>
-              <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
-                <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                  <FaLinkedinIn />
-                </div>
-                <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                  <FaGithub />
-                </div>
-                <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                  <FaTelegram />
-                </div>
-                <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                  <AiOutlineMail />
-                </div>
-                <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                  <BsFillPersonLinesFill />
+              <div className="flex items-center justify-between my-4 w-full sm:w-[90%]">
+                <a href="https://www.linkedin.com">
+                  <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300">
+                    <FaLinkedinIn size={20} />
+                  </div>
+                </a>
+                <a href="https://github.com/N0E-P/">
+                  <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300">
+                    <FaGithub size={20} />
+                  </div>
+                </a>
+                <a href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
+                  <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300">
+                    <AiOutlineMail size={20} />
+                  </div>
+                </a>
+                <div className="rounded-full grid grid-cols-4 max-w-[125px] shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300">
+                  <FaTelegram size={20} />
+                  <a href="https://t.me/&#064;&#078;&#048;&#069;&#095;&#080;">
+                    &#064;&#078;&#048;&#069;&#095;&#080;
+                  </a>
                 </div>
               </div>
             </div>

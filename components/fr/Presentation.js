@@ -1,6 +1,6 @@
 import { AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import Link from "next/link";
 
 export default function Presentation() {
   return (
@@ -19,22 +19,27 @@ export default function Presentation() {
             que je sais utiliser comme outils. / que j'ai appris en parrallèle
             de mes études
           </p>
-          <div className="flex items-center justify-between max-w-[400px] m-auto py-4">
-            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <FaLinkedinIn />
-            </div>
-            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <FaGithub />
-            </div>
-            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <FaTelegram />
-            </div>
-            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <AiOutlineMail />
-            </div>
-            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <BsFillPersonLinesFill />
-            </div>
+          <div className="flex items-center justify-between max-w-[400px] m-auto ">
+            <a href="https://www.linkedin.com">
+              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                <FaLinkedinIn size={25} />
+              </div>
+            </a>
+            <a href="https://github.com/N0E-P/">
+              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                <FaGithub size={25} />
+              </div>
+            </a>
+            <a href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
+              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                <AiOutlineMail size={25} />
+              </div>
+            </a>
+            <Link href="/fr#contact">
+              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+                <FaTelegram size={25} />
+              </div>
+            </Link>
           </div>
         </div>
       </div>
