@@ -4,7 +4,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 
 export default function Presentation() {
   return (
-    <div className="w-full text-center h-screen">
+    <div id="presentation" className="w-full text-center h-screen">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <h1 className="py-4 text-gray-800">

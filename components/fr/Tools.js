@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Tools() {
   return (
-    <div className="w-full lg:h-screen p-2">
+    <div id="outils" className="w-full lg:h-screen p-2">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full">
         <h1 className="py-4">Les outils que je sais utiliser :</h1>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
@@ -92,9 +92,12 @@ export default function Tools() {
             </div>
           </Link>
         </div>
-        Ipfs, pinata, npm, yarn, c, c++, metamask, remix, replit, vscode,
-        github, react, Material-UI, prettier, mocha, chai, waffle, nextJS,
-        web3uikit, css, discordjs, discordpy, infura, alchemy, typescript
+        <p>En bonus :</p>
+        <p>
+          Ipfs, pinata, npm, yarn, c, c++, metamask, remix, replit, vscode,
+          github, react, Material-UI, prettier, mocha, chai, waffle, nextJS,
+          web3uikit, css, discordjs, discordpy, infura, alchemy, typescript
+        </p>
       </div>
     </div>
   );
