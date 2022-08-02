@@ -1,96 +1,275 @@
-import Link from "next/link";
+import Image from "next/image";
 
 export default function Tools() {
   return (
     <div id="outils" className="w-full  md:h-screen p-2 ">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full ">
         <h1 className="py-4 text-center">Les outils que j'utilise :</h1>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-          <Link href="https://docs.soliditylang.org/en/latest/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img
-                src={"tools/solidity.png"}
-                alt="/"
-                width="100px"
-                height="100px"
-              />
-            </div>
-          </Link>
-          <Link href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img
-                src={"tools/javascript.png"}
-                alt="/"
-                width="100px"
-                height="100px"
-              />
-            </div>
-          </Link>
-          <Link href="https://www.python.org/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/python.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://docs.ethers.io/v5/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img
-                src={"tools/ethersjs.png"}
-                alt="/"
-                width="100"
-                height="100"
-              />
-            </div>
-          </Link>
-          <Link href="https://hardhat.org/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/hardhat.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://eth-brownie.readthedocs.io/en/stable/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/brownie.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://web3py.readthedocs.io/en/stable/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/web3py.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://usedapp.io/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/usedapp.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://moralis.io/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/moralis.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://trufflesuite.com/ganache/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img src={"tools/ganache.png"} alt="/" width="100" height="100" />
-            </div>
-          </Link>
-          <Link href="https://www.openzeppelin.com/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img
-                src={"tools/openzeppelin.png"}
-                alt="/"
-                width="100"
-                height="100"
-              />
-            </div>
-          </Link>
-          <Link href="https://chain.link/">
-            <div className="p-6 m-auto shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-              <img
-                src={"tools/chainlink.png"}
-                alt="/"
-                width="100"
-                height="100"
-              />
-            </div>
-          </Link>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-8">
+          <a
+            href="https://docs.soliditylang.org/en/latest/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/solidity.png"}
+              width="75px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/javascript.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://www.python.org/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/typescript.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://www.typescriptlang.org/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/typescript.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/css.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://github.com/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/github.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://docs.ethers.io/v5/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/ethersjs.png"}
+              width="100px"
+              height="75px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://hardhat.org/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/hardhat.png"}
+              width="100px"
+              height="90px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://eth-brownie.readthedocs.io/en/stable/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/brownie.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://web3py.readthedocs.io/en/stable/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/web3py.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://usedapp.io/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/usedapp.png"}
+              width="160px"
+              height="75px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://moralis.io/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/moralis.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://trufflesuite.com/ganache/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/ganache.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://github.com/web3ui/web3uikit#web3uikit"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/web3uikit.svg"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://www.openzeppelin.com/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/openzeppelin.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://chain.link/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/chainlink.png"}
+              width="80px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://infura.io/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/infura.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://www.alchemy.com/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/alchemy.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://metamask.io/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/metamask.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://reactjs.org/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/react.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://nextjs.org/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/nextjs.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://mui.com/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/materialui.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://ipfs.io/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/ipfs.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://www.pinata.cloud/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/pinata.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
         </div>
       </div>
     </div>
