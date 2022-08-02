@@ -4,8 +4,8 @@ export default function Tools() {
   return (
     <div id="outils" className="w-full  md:h-screen p-2 ">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full ">
-        <h1 className="py-4 text-center">Les outils que j'utilise :</h1>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-8">
+        <h1 className="py-6 text-center">Les outils que j'utilise :</h1>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8">
           <a
             href="https://docs.soliditylang.org/en/latest/"
             className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
@@ -29,7 +29,7 @@ export default function Tools() {
             />
           </a>
           <a
-            href="https://www.python.org/"
+            href="https://www.typescriptlang.org/"
             className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
           >
             <Image
@@ -40,11 +40,11 @@ export default function Tools() {
             />
           </a>
           <a
-            href="https://www.typescriptlang.org/"
+            href="https://www.python.org/"
             className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
           >
             <Image
-              src={"/../public/tools/typescript.png"}
+              src={"/../public/tools/python.png"}
               width="100px"
               height="100px"
               alt="/"
@@ -117,17 +117,6 @@ export default function Tools() {
             />
           </a>
           <a
-            href="https://usedapp.io/"
-            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-          >
-            <Image
-              src={"/../public/tools/usedapp.png"}
-              width="160px"
-              height="75px"
-              alt="/"
-            />
-          </a>
-          <a
             href="https://moralis.io/"
             className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
           >
@@ -144,17 +133,6 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/ganache.png"}
-              width="100px"
-              height="100px"
-              alt="/"
-            />
-          </a>
-          <a
-            href="https://github.com/web3ui/web3uikit#web3uikit"
-            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-          >
-            <Image
-              src={"/../public/tools/web3uikit.svg"}
               width="100px"
               height="100px"
               alt="/"
@@ -179,6 +157,28 @@ export default function Tools() {
               src={"/../public/tools/chainlink.png"}
               width="80px"
               height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://usedapp.io/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/usedapp.png"}
+              width="160px"
+              height="65px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://github.com/web3ui/web3uikit#web3uikit"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/web3uikit.png"}
+              width="140px"
+              height="65px"
               alt="/"
             />
           </a>
