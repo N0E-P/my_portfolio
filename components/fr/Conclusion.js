@@ -5,6 +5,9 @@ export default function Conclusion() {
         <div className="col-span-2">
           <h1>Conclusion</h1>
           <p className="py-2 text-gray-700">
+            Je n’ai pas encore beaucoup d’experiences mais je suis pret a
+            travailler et a apprendre en entreprise pour développer mes
+            connaissances et (apporter qqch a l’entreprise / etre benefique);
             résumé de tout ce que je sais faire en gros coder des smart
             contract, faire des dapps… = embauchez moi
           </p>
