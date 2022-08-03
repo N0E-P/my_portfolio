@@ -79,7 +79,7 @@ export default function Tools() {
             <Image
               src={"/../public/tools/ethersjs.png"}
               width="100px"
-              height="75px"
+              height="60px"
               alt="/"
             />
           </a>
@@ -155,7 +155,7 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/chainlink.png"}
-              width="80px"
+              width="85px"
               height="100px"
               alt="/"
             />
@@ -166,8 +166,8 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/usedapp.png"}
-              width="160px"
-              height="65px"
+              width="180px"
+              height="70px"
               alt="/"
             />
           </a>
@@ -178,7 +178,7 @@ export default function Tools() {
             <Image
               src={"/../public/tools/web3uikit.png"}
               width="140px"
-              height="65px"
+              height="57px"
               alt="/"
             />
           </a>
