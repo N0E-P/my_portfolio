@@ -177,7 +177,7 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/web3uikit.png"}
-              width="140px"
+              width="120px"
               height="57px"
               alt="/"
             />

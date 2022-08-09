@@ -30,11 +30,11 @@ export default function Presentation() {
                 <FaGithub size={25} />
               </div>
             </a>
-            <a href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
+            <Link href="/fr#contact">
               <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
                 <AiOutlineMail size={25} />
               </div>
-            </a>
+            </Link>
             <Link href="/fr#contact">
               <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaTelegram size={25} />

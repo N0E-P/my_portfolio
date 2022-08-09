@@ -1,5 +1,3 @@
-import { HiOutlineChevronDoubleUp } from "react-icons/hi";
-import Link from "next/link";
 import { AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
 
@@ -22,15 +20,16 @@ export default function Conclusion() {
             moi et discuttons de votre projet.
           </p>
         </div>
-        <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-5 grid grid-cols-1 ">
+        <div
+          id="contact"
+          className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-5 grid grid-cols-1 "
+        >
           <img
             className="rounded-xl hover:scale-105 ease-in duration-300"
             src={"/me/crypto.jpeg"}
             alt=""
           />
-          <h2 id="contact" className="py-4 text-center">
-            Contactez-moi !
-          </h2>
+          <h2 className="py-4 text-center">Contactez-moi !</h2>
           <div className=" rounded-full grid grid-cols-5 w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
             <AiOutlineMail size={25} />
             <a href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
