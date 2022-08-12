@@ -6,6 +6,7 @@ texte FR
     Essayer de rendre ça intéressant avec storytelling et arc narratif
     Essayer de caler des ptites blagues et tout
     Regarder des tutos pour avoir des idées de choses à mettre
+    intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
 mettre les liens et photos et vidéos pour chaque projets
 
@@ -49,6 +50,7 @@ Héberger le site
     https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website
     https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website/#set-up-a-domain
     Regarder la fin de l’article ici : https://docs.fleek.co/domain-management/ens-domains/
+    https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514
 
 Faire tout renvoyer vers mon site
 
