@@ -2,9 +2,9 @@
 
 texte FR
 
+    M'enregistrer en parlant de ça pour avoir beaucoup d'idées, puis reprendre des notes de ce que j'ai dit ensuite
     Essayer de rendre ça intéressant avec storytelling et arc narratif
     Essayer de caler des ptites blagues et tout
-    M’inspirer du site de major
     Regarder des tutos pour avoir des idées de choses à mettre
 
 mettre les liens et photos et vidéos pour chaque projets

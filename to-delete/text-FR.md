@@ -1,5 +1,3 @@
-ceci est un texte
-
 # Bien le bonjour, je suis Noé
 
 # Développeur junior en Solidity
@@ -56,7 +54,9 @@ Commencé 1er Mars par un tuto de 16H Depart sur les chapeaux de roues. J’ai p
 
 1er Mai : vacances car plus de cours, donc beaucoup plus simple pour pouvoir travailler sur solidity, je m’y suis mis a plein temps bot discord + dapp, avec moralis
 
-## Lien devpost pour le hackaton chailink et nft detector
+Lien devpost pour le hackaton chailink et nft detector
+
+---
 
 ---
 
