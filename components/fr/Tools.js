@@ -61,17 +61,7 @@ export default function Tools() {
               alt="/"
             />
           </a>
-          <a
-            href="https://github.com/"
-            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-          >
-            <Image
-              src={"/../public/tools/github.png"}
-              width="100px"
-              height="100px"
-              alt="/"
-            />
-          </a>
+
           <a
             href="https://docs.ethers.io/v5/"
             className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
@@ -133,6 +123,17 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/ganache.png"}
+              width="100px"
+              height="100px"
+              alt="/"
+            />
+          </a>
+          <a
+            href="https://thegraph.com/en/"
+            className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
+          >
+            <Image
+              src={"/../public/tools/thegraph.png"}
               width="100px"
               height="100px"
               alt="/"

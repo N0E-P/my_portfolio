@@ -10,15 +10,7 @@ export default function Conclusion() {
       <div className="max-w-[1240px] py-16 m-auto lg:grid grid-cols-3 gap-8">
         <div className="col-span-2">
           <h1>Conclusion</h1>
-          <p className="py-2 text-gray-700">
-            Je n’ai pas encore beaucoup d’experiences mais je suis pret a
-            travailler et a apprendre en entreprise pour développer mes
-            connaissances et (apporter qqch a l’entreprise / etre benefique);
-            résumé de tout ce que je sais faire en gros coder des smart
-            contract, faire des dapps… = embauchez moi. Je suis disponible pour
-            une simple mission en freelance ou pour du temps plein. Contactez
-            moi et discuttons de votre projet.
-          </p>
+          <p className="py-2 text-gray-700">ceci est un texte</p>
         </div>
         <div
           id="contact"
@@ -26,7 +18,7 @@ export default function Conclusion() {
         >
           <img
             className="rounded-xl hover:scale-105 ease-in duration-300"
-            src={"/me/crypto.jpeg"}
+            src={"example-to-delete.jpeg"}
             alt=""
           />
           <h2 className="py-4 text-center">Contactez-moi !</h2>
@@ -59,11 +51,3 @@ export default function Conclusion() {
     </div>
   );
 }
-
-/*      <div className="flex justify-center py-20">
-        <Link href="/fr">
-          <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-            <HiOutlineChevronDoubleUp className="text-[#5651e5]" size={30} />
-          </div>
-        </Link>
-      </div>*/

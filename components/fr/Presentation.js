@@ -12,12 +12,7 @@ export default function Presentation() {
           </h1>
           <h1 className="py-3 text-gray-800">Développeur junior en Solidity</h1>
           <p className="py-4 text-gray-700 max-w-[70%] m-auto">
-            J'ai 18 ans, je travaille dessus en parrallèle de mes études. Mais
-            je compte bien m'y mettre à plein temps. J’ai réaliser mon portfolio
-            pour montrer et raconter comment est-ce-que je me suis lancé la
-            dedans, qu’est-ce-que j’ai déjà construit comme projets et qu’est ce
-            que je sais utiliser comme outils. / que j'ai appris en parrallèle
-            de mes études
+            ceci est un texte
           </p>
           <div className="flex items-center justify-between max-w-[400px] m-auto ">
             <a href="https://www.linkedin.com">
@@ -46,10 +41,3 @@ export default function Presentation() {
     </div>
   );
 }
-
-/*
-https://github.com/N0E-P/
-linkedin.com
-@N0E_P
-pecci.noe@gmail.com
-*/

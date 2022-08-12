@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { AiOutlineClose, AiOutlineMenu, AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
 
-const Header = () => {
+export default function Header() {
   const [nav, setNav] = useState(false);
   const [shadow, setShadow] = useState(false);
 
@@ -209,6 +209,4 @@ const Header = () => {
       </div>
     </div>
   );
-};
-
-export default Header;
+}
