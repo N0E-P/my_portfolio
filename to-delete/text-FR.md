@@ -2,23 +2,32 @@
 
 # Développeur junior en Solidity
 
-J'ai 18 ans, je travaille dessus en parrallèle de mes études. Mais je compte bien m'y mettre à plein temps. J’ai réaliser mon portfolio pour montrer et raconter comment est-ce-que je me suis lancé la dedans, qu’est-ce-que j’ai déjà construit comme projets et qu’est ce que je sais utiliser comme outils. / que j'ai appris en parrallèle de mes études
+Je suis un jeune ... de 18 ans. Et J’ai réalisé ce portfolio pour présenter mes compétences, les projets que j'ai réalisé, et expliquer comment et pourquoi est-ce-que je me suis lancé la dedans.
 
 ---
 
 ---
 
-# Mon début chaotique dans les cryptos
+# Mon début (très) chaotique dans les cryptos
 
 Fin juillet 2021, alors que je m'ennuyais profondément en plein millieux de mes vacances :
 
-J'ai eu l'excellente idée de commencer à m'intéresser à la blockchain... en passant par l'univers fantastique des shitcoins. Donc pour faire très simple, j'ai vu une opportunité de faire de l'argent. Et j'ai réussi à perdre $200 d'un coup sans rien voir venir ! 🤦‍♂️
+J'ai eu l'idée de commencer à m'intéresser à la blockchain. (Ce qui jusque là, est une très bonne idée.)
+Mais en passant par l'univers terrible des shitcoins... 🤦‍♂️
+
+Donc pour faire très simple, on m'avait fait la promotion d'une crypto-monaie qui avait déjà fait \* 50. Et n'y connaissant rien, j'ai eu la bonne idée d'en acheter au plus haut, pensant que ça allait encore monter.
+Evidemment, tout s'est écroulé car il n'y avait aucun fondement derrière, c'était juste de la spéculation.
+Et c'est comme ça que j'ai réussi à perdre tout d'un coup sans rien voir venir ! Bravo Noé !
 
 Heureusement, j'ai eu la chance de ne pas avoir abandonné et de m'y être ré-intéressé 3 mois plus tard, début novembre. Et à partir de là, j'ai vraiment commencé à comprendre l'écosystème et tout l'aspect technologique derrière la blockchain.
 
-Mais bien sur, ça aurait été trop simple si ça n'avait pas été pile au moment du début du bearmarket... Donc malgré que j'ai appris [énormément de choses / à me servir de tout sur l'écosystème / découvert monde defi / m'y connaitre vraiment]. Avec tout les investissements foireux que j'ai fais, j'ai atteint un bon total de plus de $1000 de pertes. (Sachant que j'étais étudiant, et que tout venais de mes économies.)
+Mais bien sur, ça aurait été trop simple si ça n'avait pas été pile au moment du début du bearmarket...
+Donc malgré que j'ai appris énormément de choses sur la defi, avec tout les investissements foireux que j'ai fais, j'ai réussi à perdre encore plus d'argent ! (Sachant que j'étais étudiant, et que tout venais de mes économies.)
 
-Bref, tout ça m'a fais comprendre que j'adorais l'univers de la defi. Mais que je n'étais pas forcément fait pour l'investissement, et qu'il allait faloir trouver un autre moyen de faire de l'argent...
+Bref, tout ça m'a fais comprendre que même si j'adorais l'univers de la defi, je n'étais pas forcément fait pour l'investissement. Et qu'il allait faloir trouver un autre moyen de faire de l'argent...
+
+Je possède toujours mon million de Checoin : https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2
+Photo du chart avec flèche là où j'ai acheté
 
 ---
 
@@ -26,15 +35,46 @@ Bref, tout ça m'a fais comprendre que j'adorais l'univers de la defi. Mais que 
 
 # Comment et pourquoi est-ce-que je me suis mis à la programmation
 
-Petit paragraphe d’intro avec les raisons pour lequels je me suis mis au code J’ai toujours aimé construire des trucs moi meme : Legos Minecraft Scratch (code pour les enfants) jeux plutot développés avec Arduino (voiture telecommandée) Je m'en foutait de la NSI
+    Comment et pourquoi est-ce-que je me suis mis à la programmation
+    Je crois que j'aime bien créer des trucs
+    Ma passion pour la construction
+    Je pense être fait pour créer des trucs
+    Je crois bien que je suis fait pour créer des trucs
+    Ma passion ... pour construire des trucs
+            inssasiable
 
-Mi / fin Février, j’ai aider ma soeur sur un projet arduino, et je me suis rendu compte que ça me plaisais vachement bien quand meme ! Et que je me debrouillais pas trop mal ! Vidéo du robot de ma soeur en fonctionnement Et en parrallèle, j’avais déjà entendu parler du job de dev solidity, du fait que ça payais bien, et que ça mellait 2 choses que j’aimmait (programmation + web3) Donc je me suis dit, tient, ça serais intéressant d’apprendre a coder en solidity... (et puis ça a l’air vachement bien payé en plus)
+Depuis tout petit, j'ai toujours aimé construire des choses.
+
+J'ai commencé avec les Lego, je restais enfermé dans mon cabanon à construire des voitures et des maisons que je finissais par faire détruire en faisant plein de bruits d'explosion avec ma bouche.
+C'était ça tout le temps : tout les week ends, tout les mercredi après midi, et tout les soirs en rentrant de l'école. J'étais devenu completement addict aux Lego.
+(Je le suis encore, mais j'ai quand même arrêté les bruits avec ma bouche.)
+Malgré tout, après toutes ces années, j'ai commençé a me lasser de jouer avec ces petites briques. Il me fallait plus de liberté, plus de possibilités et un univers plus grand que juste mon petit cabanon.
+
+C'est comme ça que j'ai découvert le monde merveilleux de Minecraft. Je pouvais créer et recréer tout ce que je voulais, je restais scotcher devant mon écran toute la journée à chasser des zombies et à faire des maisons dans les montagnes.
+[AJOUTER UNE PHRASE LA]
+Sauf qu'évidemment, au bout de quelques années, c'était redevenu la même chose. Des cubes partout à la place des briques, moi qui construit et qui casse tout, et la quantité de choses possibles à faire restait forcément limitée par le jeux lui même.
 
 ---
 
+Plus tard, mon Père avait acheté des cartes Arduino. C'est des petites cartes embarquées sur lequels on peux y mettre du code en C ou C++, et lier ça avec des petits moteurs, des leds et des boutons. Ce qui permet de faire a peut pret ce que l'on veut comme système physiques. Je me suis beaucoup amusé avec ça et je me débrouillais plutot pas mal. J'avais même commencé a faire ma propre voiture radiocommandée en LEGO, controlée à distance par des Arduino. Mais je m'en suis un peu désintéressé a cause de mes cours et des études. Je n'avais le temps de jouer avec que pendant les vacances, et je suis passé à autre chose.
+
+Bien plus tard, aux alentours de mi Février, Ma grande soeur avait un projet en arduino a faire pour son école. Et j’ai proposer de l'aider à avancer dessus, vu que j'avais déjà un peu d'experience là dedans.
+
+Et en fait, je me suis vite rendu compte que ça me plaisais vachement bien de programmer quand meme ! Et qu'en plus je me debrouillais pas trop mal !
+Bien sur je n'ai pas énormément aidé sur le projet. Mais je sais que c'est ça qui m'a fait un déclic.
+
+Car en parrallèle, j’avais déjà entendu parler du métier de développeur solidity. (et aussi du fait que ça payais bien, évidemment)
+Et je me suis dit qu'en fait, ça mellait pile 2 choses que j’aimait particulièrement bien : La programmation, et la blockchain.  
+Donc je me suis dit, tient, je pense tenir quelque chose qui pourrait être très intéressant, pourquoi pas aller apprendre à programmer en solidity...
+
+[Vidéo du robot de ma soeur en fonctionnement]
+[Photo de moi avec ma tour effel en Lego]
+
 ---
 
-# Projet #1 : 16H de Solidity
+# Projet #1 : Le plus long tuto de ma vie
+
+16H de Solidity
 
 Commencé 1er Mars par un tuto de 16H Depart sur les chapeaux de roues. J’ai pas tout de suitr compris que j’allais prendre plus d’un mois a finir le tuto, mais ça c’est pas bien grave j’ai suivi et fait tout les trucs du tuto de 16H de patrick Va d’écrire 3 lignes sur remix jusqu’a construire toute une plateforme dapp avec son front end où tu peux stacker et déstacker nimporte quels tokens, recevoir des tokens de la plateforme et y connecter ton metamask. Tout ça en passant par apprendre à faire des tests et utiliser Python avec VSCode pour créer des projets Solidity plus facilement. Mettre une petite liste de tout ce qu’on apprend dedans
 

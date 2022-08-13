@@ -30,6 +30,7 @@ Linkedin
 favicon
 
     Ma tête ?
+    changer de photo de profil aussi, faire qqch de plus propre
 
 tout tester et tout revérifier
 
