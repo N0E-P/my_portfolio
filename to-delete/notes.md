@@ -1,5 +1,7 @@
 # Trucs à faire :
 
+Mettre un effet prograssif sur le texte qui change
+
 texte FR
 
     M'enregistrer en parlant de ça pour avoir beaucoup d'idées, puis reprendre des notes de ce que j'ai dit ensuite

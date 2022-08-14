@@ -2,7 +2,12 @@
 
 # Développeur junior en Solidity
 
-J’ai fais ce portfolio pour présenter mes compétences, les projets que j'ai réalisé, et expliquer comment et pourquoi est-ce-que je me suis lancé la dedans.
+J’ai fais ce portfolio pour présenter :
+
+    mon parcours trépidant dans la blockchain.
+    la raison pour laquelle je me suis retrouvé développeur alors que je suis en fac de sport.
+    les projets que j'ai réalisé, avec toutes les galères par lequelles je suis passé.
+    mes compétences de développeur dont je suis plutot fier ! 😁
 
 ---
 
