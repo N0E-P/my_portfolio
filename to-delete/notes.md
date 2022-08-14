@@ -16,6 +16,7 @@ mettre les liens et photos et vidéos pour chaque projets
     ajouter et modifier un peu de texte en rapport avec les photos et vidéos
     mettre les dossiers de code que je n’utilise plus sur mon disque dur
     Trouver des idées de choses interactives a mettre dessus, qui change d'un portfolio classique
+    Mettre un petit slider ou un truc où on peut faire défiler plusieurs images
 
 Version EN
 
@@ -46,7 +47,6 @@ Héberger le site
         https://www.hostgator.com/
         https://www.hostinger.fr/
         https://www.youtube.com/watch?v=_bPSWABggX8
-
 
 Faire tout renvoyer vers mon site
 

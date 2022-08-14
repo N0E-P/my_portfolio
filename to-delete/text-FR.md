@@ -15,7 +15,7 @@ Fin juillet 2021, alors que je m'ennuyais profondément en plein millieux de mes
 J'ai eu l'idée de commencer à m'intéresser à la blockchain. (Ce qui jusque là, est une très bonne idée.)
 Mais, en passant par l'univers terrible des shitcoins... 🤦‍♂️
 
-Donc pour faire très simple, on m'avait fait la promotion d'une crypto-monaie qui avait déjà fait \* 50. Et n'y connaissant rien, j'ai eu la bonne idée d'en acheter au plus haut, pensant que ça allait encore monter.
+Donc pour faire très simple, on m'avait fait la promotion d'une crypto-monaie qui avait déjà fait × 50. Et n'y connaissant rien, j'ai eu la bonne idée d'en acheter au plus haut, pensant que ça allait encore monter.
 Evidemment, tout s'est écroulé car il n'y avait aucun fondement derrière, c'était juste de la spéculation.
 Et c'est comme ça que j'ai réussi à perdre tout d'un coup sans rien voir venir ! Bravo Noé !
 
@@ -26,23 +26,14 @@ Donc malgré que j'ai appris énormément de choses sur la defi, avec tout les i
 
 Bref, tout ça m'a fais comprendre que même si j'adorais l'univers de la defi, je n'étais pas forcément fait pour l'investissement. Et qu'il allait faloir trouver un autre moyen de gagner de l'argent...
 
-[Je possède toujours mon million de Checoin : https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2]
 [Photo du chart avec flèche là où j'ai acheté]
+[PS : Je possède toujours mon million de Checoin, et j'en suis fier 💪 : https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2]
 
 ---
 
 ---
 
-# Comment et pourquoi est-ce-que je me suis mis à la programmation
-
-    Comment et pourquoi est-ce-que je me suis mis à la programmation
-    Je crois que j'aime bien créer des trucs
-    Ma passion pour la construction
-    Je pense être fait pour créer des trucs
-    Je crois bien que je suis fait pour créer des trucs
-    Ma passion ... pour construire des trucs
-            inssasiable
-    J'aime bien construire des trucs
+# C'est cool de créer
 
 Depuis tout petit, j'ai toujours aimé construire des choses.
 
@@ -69,20 +60,38 @@ Donc je me suis dit : Tient, je pense tenir quelque chose qui pourrait être tr�
 
 ---
 
-# Projet #1 : Le plus long tuto de ma vie
+# Projet #1 : Le tuto le plus long de ma vie
 
-24 Février debut
-16H de Solidity
+Fin février 2022, après m'être rendu compte que j'avais pas mal de potentiel en programmation, j'ai décidé de me lancer dans l'apprentissage du Solidity. Le language permettant de créer des smart contracts, afin d'interragir avec la blockchain.
 
-Commencé 1er Mars par un tuto de 16H Depart sur les chapeaux de roues. J’ai pas tout de suitr compris que j’allais prendre plus d’un mois a finir le tuto, mais ça c’est pas bien grave j’ai suivi et fait tout les trucs du tuto de 16H de patrick Va d’écrire 3 lignes sur remix jusqu’a construire toute une plateforme dapp avec son front end où tu peux stacker et déstacker nimporte quels tokens, recevoir des tokens de la plateforme et y connecter ton metamask. Tout ça en passant par apprendre à faire des tests et utiliser Python avec VSCode pour créer des projets Solidity plus facilement. Mettre une petite liste de tout ce qu’on apprend dedans
+Le petit problème, c'est que je ne me suis pas juste lancé dans un petit tutoriel comme ça... Mais dans une foutu formation complète de 16 HEURES !!!
+Honnêtement, je ne sais pas ce qui c'est passé dans ma tête quand mon cerveau c'est dit : "Oue oue ça va le faire, pas de soucis 👌"
+Je ne savais vraiment pas dans quoi je m'embarquais, mais je savais qu'il fallait que je le fasse.
 
-9 MArs a la moitié du tuto
+C'est comme ça que j'ai passé 2 mois à réfléchir, comprendre, résoudre des problèmes et à recopier tout ce que Patrick montrait.
+Patrick, c'est le formateur, celui qui explique et montre tout ce qu'il y a à faire. Et honnêtement, j'ai rarement vu quelqu'un expliquer aussi bien et aussi facilement les choses.
+Je le remercie infiniment d'avoir fait ce cours, et je le remercie aussi pour tout les autres qu'il a fait, car ça ne va pas être la dernière fois que je vais parler de lui...
+
+J'ai finalement réussi à finir de suivre ces 16 Heures interminables de cours. Et j'en ai beauuuucoup appris !
+Ca va d’écrire 3 lignes pour s'amuser sur Remix, jusqu’a construire toute une Dapp entière. Tout ça en passant évidemment par apprendre à créer des smart contracts, à faire des tests et à utiliser Python pour créer des projets entiers plus facilement.
+
+Il était maintenant temps pour moi d'essayer de me mettre à faire mon vrai propre projet !
+
+[Minitature du tuto]
+[lien du tuto : https://www.youtube.com/watch?v=M576WGiDBdQ]
+[Mon github avec tout ce que j'ai suivi et recopié : https://github.com/N0E-P/solidity-with-python-fcc-tutorial]
+[La liste de tout ce que l'on apprend ici : https://github.com/smartcontractkit/full-blockchain-solidity-course-py#table-of-contents]
 
 ---
 
 ---
 
-# Projet #2 : mes NFTs débiles
+# Projet #2 : J'ai fais des NFTs débiles
+
+Attention, je préviens qu'aucune critique sur mon humour nul, ni mon talent d'artiste ratté n'est autorisée !
+(En vrai c'est un désastre mais ça m'a fait marré donc c'est pas grave.)
+
+Mi-avril,
 
 9 avril commencé
 
@@ -95,11 +104,16 @@ dates avec mes videos yt dessus
 27 avril fini ? mais en meme temps fini le tuto de patrick a ce moment la ?
 Je crois que je me suis remis a taffer le 27 avril en fait, et que j'avais pas fini le tuto de patrick avant.
 
----
+[Le github : https://github.com/N0E-P/Kevin-s-Holidays]
+[Lien du tuto : https://www.youtube.com/watch?v=cLB7u0KQFIs]
 
 ---
 
-# Projet #3 : NFT Detector
+---
+
+# Projet #3 : Mon premier vrai projet
+
+NFT Detector
 
 1er Mai : vacances car plus de cours, donc beaucoup plus simple pour pouvoir travailler sur solidity, je m’y suis mis a plein temps
 
@@ -111,6 +125,9 @@ Lien devpost pour le hackaton chailink et nft detector
 
 24 mai encore avec discord.py
 changé pour discord.js
+
+Fin du concours lundi 6 juin, mais j'étais pas pret, j'avais pas fini
+Je suis resté éveillé toute la nuit jusqu'a 7H le lendemain matin pour travailler dessus
 
 ---
 
@@ -140,20 +157,23 @@ Par contre, la liaison entre les LEGO et le moteur était tellement foireuse, qu
 Mais ça n'est qu'un détail, le plus important c'est qu'elle roule enfin, et que maintenant je peux jouer avec comme un gamin ! (Sauf quand je la crash et qu'il y a des LEGO qui explosent partout)
 
 fini fin JUIN
+
+Faire une voiture RC c'est sympa, mais il fallait que je retourne aux choses sérieuses si je voulais trouver du boulot en temps que Développeur Solidity.
+
 github : https://github.com/N0E-P/RC_Car
 
 ---
 
 ---
 
-# Projet #5 : 32 Heures de Formation solidity
+# Projet #5 : Patrick est de retour !
 
-J'avais fait la formation de 16H avec Patrick Colins, sur solidity avec Python.
+Patrick Colins, c'est le génie qui a fait la formation de 16 Heures que j'ai suivi sur Solidity avec Python.
 
-Et ...[date] qu'est ce que je vois arriver ? Un nouveau tutoriel, 2 fois plus long, sur Solidity, mais cette fois ci avec javascript.
-a ce moment là je travaillais encore sur... je savais que ça allait prendre un temps fou, mais je savais aussi que si je voulais un job en temps que dev solidity, je devais autant savoir magner python que javascript avec solidity. Donc il fallait que je le fasse !
+Et le 26 Mai 2022, qu'est ce que je vois arriver ? Un nouveau tutoriel, 2 fois plus long, sur Solidity, mais cette fois ci avec javascript.
+A ce moment là je travaillais encore sur mon détecteur d'NFTs. Je savais que ça allait prendre un temps fou, mais je savais aussi que si je voulais un job en temps que dev solidity, je devais autant savoir magner python que javascript avec solidity. Donc il fallait que je le fasse !
 
-Arrivé début Juillet dans le cours, J'ai travaillé dessus sans arret, matin et soir. A la place de sortir et d'aller a la plage, je me forçais a avancer sur ce foutu tutoriel.
+J'ai commencé à suivre le cours début Juillet, J'ai travaillé dessus sans arret, matin et soir. A la place de sortir et d'aller a la plage, je me forçais a avancer sur ce foutu tutoriel.
 
 J'avais pas le choix, j'avais commencé, il fallait que je le finnisse.
 
@@ -182,6 +202,9 @@ Envie d'apprendre un peu plus a faire des sites web, car très utile pour les da
 Et permet de faire un bon moyen de me présenter, de montrer les projets que j'ai accomplis, et potentiellement pour me faire embaucher
 Suivi un tuto Youtube très intéressant. J'ai trouvé que c'était beaucoup plus simple que ce que je pensais.
 Je m'imaginais y passer
+
+Je me suis surpris a adorer raconter ma vie et à travailler le texte pour essayer de faire en sorte que ça ne soit pas trop insupportable à lire
+
 fini [a telle date]
 github : https://github.com/N0E-P/my_portfolio
 
