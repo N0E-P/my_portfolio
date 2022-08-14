@@ -2,7 +2,7 @@
 
 # Développeur junior en Solidity
 
-Je suis un jeune ... de 18 ans. Et J’ai réalisé ce portfolio pour présenter mes compétences, les projets que j'ai réalisé, et expliquer comment et pourquoi est-ce-que je me suis lancé la dedans.
+J’ai fais ce portfolio pour présenter mes compétences, les projets que j'ai réalisé, et expliquer comment et pourquoi est-ce-que je me suis lancé la dedans.
 
 ---
 

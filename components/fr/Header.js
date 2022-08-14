@@ -32,7 +32,7 @@ export default function Header() {
       }
     >
       <div className="py-2 flex justify-between items-center w-full h-full px-2 2xl:px-16">
-        <Link href="/fr">
+        <Link href="/">
           <img
             className=" rounded-full shadow-lg shadow-gray-400 p-1 cursor-pointer hover:scale-105 ease-in duration-300"
             src={"me/profile-photo.jpg"}
@@ -43,26 +43,26 @@ export default function Header() {
         </Link>
         <div>
           <ul className="hidden lg:flex">
-            <Link href="/fr">
+            <Link href="/">
               <li className="ml-9 text-m uppercase hover:border-b">
                 Présentation
               </li>
             </Link>
-            <Link href="/fr#crypto">
+            <Link href="/#crypto">
               <li className="ml-8 text-m uppercase hover:border-b">Crypto</li>
             </Link>
-            <Link href="/fr#projets">
+            <Link href="/#projets">
               <li className="ml-8 text-m uppercase hover:border-b">Projets</li>
             </Link>
-            <Link href="/fr#outils">
+            <Link href="/#outils">
               <li className="ml-8 text-m uppercase hover:border-b">Outils</li>
             </Link>
-            <Link href="/fr#conclusion">
+            <Link href="/#conclusion">
               <li className="ml-8 text-m uppercase hover:border-b ">
                 Conclusion
               </li>
             </Link>
-            <Link href="/fr">
+            <Link href="/">
               <img
                 className="ml-10 rounded-xl hover:scale-105 ease-in duration-300"
                 src={"flags/fr.png"}
@@ -71,7 +71,7 @@ export default function Header() {
                 height="33"
               ></img>
             </Link>
-            <Link href="/">
+            <Link href="/en">
               <img
                 className="ml-6 rounded-xl hover:scale-105 ease-in duration-300"
                 src={"flags/en.png"}
@@ -100,7 +100,7 @@ export default function Header() {
         >
           <div>
             <div className="flex w-full items-center justify-between">
-              <Link href="/fr">
+              <Link href="/">
                 <img
                   className=" rounded-full shadow-lg shadow-gray-400 p-1 cursor-pointer hover:scale-105 ease-in duration-300"
                   src={"me/profile-photo.jpg"}
@@ -124,27 +124,27 @@ export default function Header() {
           </div>
           <div className="py-3 flex flex-col">
             <ul className="uppercase">
-              <Link href="/fr">
+              <Link href="/">
                 <li onClick={() => setNav(false)} className="py-3 text-sm ">
                   Présentation
                 </li>
               </Link>
-              <Link href="/fr#crypto">
+              <Link href="/#crypto">
                 <li onClick={() => setNav(false)} className="py-3 text-sm">
                   Crypto
                 </li>
               </Link>
-              <Link href="/fr#projets">
+              <Link href="/#projets">
                 <li onClick={() => setNav(false)} className="py-3 text-sm">
                   Projets
                 </li>
               </Link>
-              <Link href="/fr#outils">
+              <Link href="/#outils">
                 <li onClick={() => setNav(false)} className="py-3 text-sm">
                   Outils
                 </li>
               </Link>
-              <Link href="/fr#conclusion">
+              <Link href="/#conclusion">
                 <li onClick={() => setNav(false)} className="py-3 text-sm">
                   Conclusion
                 </li>
@@ -155,7 +155,7 @@ export default function Header() {
                 Langues
               </p>
               <div className="flex items-center my-4 w-full sm:w-[80%]">
-                <Link href="/fr">
+                <Link href="/">
                   <img
                     onClick={() => setNav(false)}
                     className="rounded-full shadow-lg shadow-gray-400 p-1 cursor-pointer hover:scale-105 ease-in duration-300"
@@ -165,7 +165,7 @@ export default function Header() {
                     height="33"
                   ></img>
                 </Link>
-                <Link href="/">
+                <Link href="/en">
                   <img
                     className="last:rounded-full ml-3 shadow-lg shadow-gray-400 p-1 cursor-pointer hover:scale-105 ease-in duration-300"
                     src={"flags/en.jpg"}

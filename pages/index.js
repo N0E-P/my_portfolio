@@ -1,21 +1,25 @@
 import Head from "next/head";
-import Link from "next/link";
+import Header from "../components/fr/Header";
+import Presentation from "../components/fr/Presentation";
+import Crypto from "../components/fr/Crypto";
+import Projects from "../components/fr/Projects";
+import Tools from "../components/fr/Tools";
+import Conclusion from "../components/fr/Conclusion";
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>My Portfolio</title>
-        <meta name="description" content="My Portfolio" />
+        <title>Noé | Développeur Solidity</title>
+        <meta name="description" content="Mon Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Link href="/fr">
-        <img src={"flags/fr.png"} alt="Français" width="60" height="40"></img>
-      </Link>{" "}
-      <Link href="/">
-        <img src={"flags/en.png"} alt="English" width="60" height="40"></img>
-      </Link>
-      <h1>Version anglaise en cours de construction...</h1>
+      <Header />
+      <Presentation />
+      <Crypto />
+      <Projects />
+      <Tools />
+      <Conclusion />
     </div>
   );
 }
