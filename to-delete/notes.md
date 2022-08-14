@@ -40,18 +40,13 @@ tout tester et tout revérifier
 
 Héberger le site
 
-    noe-pecci.com / noepecci.com / noe-pecci.eth  / noe-pecci.eth.link / noe-pecci.eth.limo
-
-    Normal website
+        noe-pecci.com
         acheter nom de domaine
+        héberger
+        https://www.hostgator.com/
+        https://www.hostinger.fr/
+        https://www.youtube.com/watch?v=_bPSWABggX8
 
-    Ipfs + Ens domain :
-    Bonne idée pour le coter tech. Mais il faut que ça fonctionne sans probleme sur nimporte quel browser (a l’air possible avec .link ou .limo)
-    pouvoir changer et mettre à jour le site web
-    https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website
-    https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website/#set-up-a-domain
-    Regarder la fin de l’article ici : https://docs.fleek.co/domain-management/ens-domains/
-    https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514
 
 Faire tout renvoyer vers mon site
 
@@ -77,3 +72,13 @@ Faire tout renvoyer vers mon site
 email address encoder :
 
 [http://www.wbwip.com/wbw/emailencoder.html](http://www.wbwip.com/wbw/emailencoder.html)
+
+Ipfs + Ens domain + Fleek :
+noe-pecci.eth
+Bonne idée pour le coter tech. Mais il faut que ça fonctionne sans probleme
+https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website
+https://docs.ipfs.tech/how-to/websites-on-ipfs/multipage-website
+https://docs.ipfs.tech/how-to/websites-on-ipfs/link-a-domain
+https://docs.fleek.co/domain-management/ens-domains/
+https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514
+video d'une madame qui le fait la : https://www.youtube.com/watch?v=oA4oOY5zgU0
