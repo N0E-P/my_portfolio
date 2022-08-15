@@ -2,7 +2,13 @@ import Head from "next/head";
 import Header from "../components/fr/Header";
 import Presentation from "../components/fr/Presentation";
 import Crypto from "../components/fr/Crypto";
-import Projects from "../components/fr/Projects";
+import Project from "../components/fr/Project";
+import Project1 from "../components/fr/Project1";
+import Project2 from "../components/fr/Project2";
+import Project3 from "../components/fr/Project3";
+import Project4 from "../components/fr/Project4";
+import Project5 from "../components/fr/Project5";
+import Project6 from "../components/fr/Project6";
 import Tools from "../components/fr/Tools";
 import Conclusion from "../components/fr/Conclusion";
 
@@ -17,7 +23,13 @@ export default function Home() {
       <Header />
       <Presentation />
       <Crypto />
-      <Projects />
+      <Project />
+      <Project1 />
+      <Project2 />
+      <Project3 />
+      <Project4 />
+      <Project5 />
+      <Project6 />
       <Tools />
       <Conclusion />
     </div>

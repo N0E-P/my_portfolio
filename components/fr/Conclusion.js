@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
 
@@ -16,10 +17,12 @@ export default function Conclusion() {
           id="contact"
           className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-5 grid grid-cols-1 "
         >
-          <img
-            className="rounded-xl hover:scale-105 ease-in duration-300"
+          <Image
+            className="rounded-xl"
             src={""}
-            alt=""
+            width="1000px"
+            height="1000px"
+            alt="/"
           />
           <h2 className="py-4 text-center">Contactez-moi !</h2>
           <div className=" rounded-full grid grid-cols-5 w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">

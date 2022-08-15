@@ -12,12 +12,10 @@ liens photos vidéos
 
     photo de profil (header * 2 / favicon)
     photo de moi pour contact (une autre)
-    Haut du portfolio en FR
-    Photo voiture RC
+    Photo Haut du portfolio
     video YT voiture rc
     video YT robot de ma soeur
     Video YT NFT detector
-    Ajouter tout les liens au site
 
 Linkedin
 
@@ -40,12 +38,12 @@ tout retester et tout revérifier
 
 Héberger le site
 
-        noe-pecci.com
-        acheter nom de domaine
-        héberger
-        https://www.hostgator.com/
-        https://www.hostinger.fr/
-        https://www.youtube.com/watch?v=_bPSWABggX8
+    noe-pecci.com
+    acheter nom de domaine
+    héberger
+    https://www.hostgator.com/
+    https://www.hostinger.fr/
+    https://www.youtube.com/watch?v=_bPSWABggX8
 
 Faire tout renvoyer vers mon site
 
@@ -67,8 +65,6 @@ Version EN
 
 ---
 
----
-
 # Utile
 
 [https://tailwindcss.com/docs/guides/nextjs](https://tailwindcss.com/docs/guides/nextjs)
@@ -77,8 +73,10 @@ Version EN
 
 [https://github.com/fireclint/portfolio-nextjs](https://github.com/fireclint/portfolio-nextjs)
 
-email address encoder :
+Icons de react :
+https://react-icons.github.io/react-icons
 
+email address encoder :
 [http://www.wbwip.com/wbw/emailencoder.html](http://www.wbwip.com/wbw/emailencoder.html)
 
 Ipfs + Ens domain + Fleek :

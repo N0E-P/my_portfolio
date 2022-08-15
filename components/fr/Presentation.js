@@ -5,13 +5,13 @@ import Link from "next/link";
 
 export default function Presentation() {
   const [changingText, changeText] = useState(
-    "Mon parcours trépidant dans la blockchain."
+    "Mes aventures tourmentées dans la blockchain."
   );
   var words = [
-    "La raison pour laquelle je me suis retrouvé développeur alors que je suis en fac de sport.",
-    "Les projets que j'ai réalisé, avec toutes les galères par lequelles je suis passé.",
-    "Mes compétences de développeur dont je suis plutot fier !",
-    "Mon parcours trépidant dans la blockchain.",
+    "La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport.",
+    "Les projets que j'ai conçu, avec toutes les galères que j'ai traversé.",
+    "Mes compétences de développeur.",
+    "Mes aventures tourmentées dans la blockchain.",
   ];
   var number = 0;
 
