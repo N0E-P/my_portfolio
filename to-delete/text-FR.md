@@ -23,6 +23,13 @@ Donc malgré que j'ai appris énormément de choses sur la defi, vu que tout ét
 
 Bref, tout ça m'a fais comprendre que même si j'adorais l'univers de la defi, je n'étais pas forcément fait pour l'investissement. Et qu'il allait faloir trouver un autre moyen de gagner de l'argent...
 
+PS : Je possède toujours mon million de Checoin, et j'en suis fier
+
+garder ce lien ou balek ?
+https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2
+
+ça serais bien de mettre un lien
+
 ---
 
 ---

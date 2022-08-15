@@ -17,16 +17,10 @@ liens photos vidéos
     video YT robot de ma soeur
     Video YT NFT detector
 
-Linkedin
-
-    Créer compte sans forcément faire ça propre, juste chopper le lien
-    mettre a jour aux 3 endroits
-
 Problèmes techniques
 
     Tout doit marcher sur tout les repos github
     Virer tout ce qui est inutiles dans le code. tout les div en trop...
-    je peux virer le logo css pke en vrai je sais pas en faire du tout, mettre autre chose a la place. github ?
     Mettre un effet progressif sur le texte qui change en haut
     faire en sorte que ça s'affiche bien dans nimporte quel format
 

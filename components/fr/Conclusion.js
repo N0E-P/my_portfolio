@@ -32,7 +32,7 @@ export default function Conclusion() {
             </a>
           </div>
           <div className="py-4 items-center justify-between flex w-[90%] m-auto ">
-            <a href="https://www.linkedin.com">
+            <a href="https://www.linkedin.com/in/no%C3%A9-pecci-3a8a49248/">
               <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaLinkedinIn size={25} />
               </div>

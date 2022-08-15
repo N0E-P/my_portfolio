@@ -51,11 +51,11 @@ export default function Tools() {
             />
           </a>
           <a
-            href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+            href="https://github.com/"
             className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
           >
             <Image
-              src={"/../public/tools/css.png"}
+              src={"/../public/tools/github.png"}
               width="100px"
               height="100px"
               alt="/"

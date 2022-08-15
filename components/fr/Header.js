@@ -181,7 +181,7 @@ export default function Header() {
                 Mes réseaux
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[90%]">
-                <a href="https://www.linkedin.com">
+                <a href="https://www.linkedin.com/in/no%C3%A9-pecci-3a8a49248/">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300">
                     <FaLinkedinIn size={20} />
                   </div>

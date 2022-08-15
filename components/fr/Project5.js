@@ -51,7 +51,12 @@ export default function Projects() {
             href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
             className=" flex p-2 cursor-pointer hover:text-blue-700"
           >
-            <GiCutDiamond size={50} />
+            <Image
+              src={"/../public/projets/nft-logo.png"}
+              width="50px"
+              height="50px"
+              alt="/"
+            />
             <p className="px-3 py-3 ">Mes NFTs</p>
           </a>
         </div>

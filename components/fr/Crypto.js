@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { AiOutlineLink } from "react-icons/ai";
 
 export default function Crypto() {
   return (
@@ -17,16 +16,6 @@ export default function Crypto() {
             height="900px"
             alt="/"
           />
-          <a
-            href="https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2"
-            className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
-          >
-            <AiOutlineLink size={50} />
-            <p className="px-3 py-3">
-              PS : Je possède toujours mon million de Checoin, et j'en suis fier
-              💪
-            </p>
-          </a>
         </div>
       </div>
     </div>

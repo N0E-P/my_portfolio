@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import { AiOutlineLink } from "react-icons/ai";
 
 export default function Home() {
   return (
@@ -10,14 +11,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>English version in construction...</h1>
-      <div className="flex py-4 px-2">
-        <Link href="/">
-          <img src={"flags/fr.png"} alt="Français" width="60" height="40"></img>
-        </Link>
-        <Link href="/en">
-          <img src={"flags/en.png"} alt="English" width="60" height="40"></img>
-        </Link>
-      </div>
+
+      <Link href="/">
+        <div className="flex py-6 px-2 text-blue-700 cursor-pointer">
+          <AiOutlineLink size={25} />
+          <p>Go back to French version</p>
+        </div>
+      </Link>
     </div>
   );
 }
