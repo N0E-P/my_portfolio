@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Tools() {
   return (
-    <div id="outils" className="w-full  md:h-screen p-2 ">
-      <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full ">
+    <div id="outils">
+      <div className="w-full md:h-screen p-2 items-center py-32">
         <h1 className="py-6 text-center">Les outils que j'utilise :</h1>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8">
           <a

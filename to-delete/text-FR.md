@@ -4,10 +4,10 @@
 
 J’ai fais ce portfolio pour présenter :
 
-    mon parcours trépidant dans la blockchain.
-    la raison pour laquelle je me suis retrouvé développeur alors que je suis en fac de sport.
-    les projets que j'ai réalisé, avec toutes les galères par lequelles je suis passé.
-    mes compétences de développeur dont je suis plutot fier ! 😁
+    Mon parcours trépidant dans la blockchain.
+    La raison pour laquelle je me suis retrouvé développeur alors que je suis en fac de sport.
+    Les projets que j'ai réalisé, avec toutes les galères par lequelles je suis passé.
+    Mes compétences de développeur dont je suis plutot fier !
 
 ---
 

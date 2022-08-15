@@ -1,7 +1,5 @@
 # Trucs à faire :
 
-Mettre un effet prograssif sur le texte qui change
-
 texte FR
 
     M'enregistrer en parlant de ça pour avoir beaucoup d'idées, puis reprendre des notes de ce que j'ai dit ensuite
@@ -38,8 +36,9 @@ favicon
 tout tester et tout revérifier
 
     orthographe FR et EN
-    header apparait au dessus du nom des sections quand on clique le raccourcis Pour tools
     supprimer photo de btc "example-to-delete.jpeg"
+    je peux virer le logo css pke en vrai je sais pas en faire du tout, mettre autre chose a la place
+    Mettre un effet progressif sur le texte qui change
 
 Héberger le site
 

@@ -5,7 +5,7 @@ export default function Conclusion() {
   return (
     <div
       id="conclusion"
-      className="w-full md:h-screen p-2 flex items-center py-16"
+      className="w-full md:h-screen p-2 flex items-center py-32"
     >
       <div className="max-w-[1240px] py-16 m-auto lg:grid grid-cols-3 gap-8">
         <div className="col-span-2">
