@@ -8,37 +8,35 @@ texte FR
     Regarder des tutos pour avoir des idées de choses à mettre
     intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
-mettre les liens et photos et vidéos pour chaque projets
+liens photos vidéos
 
-    Tout doit marcher sur tout les repos github
-    Mettre des petits gifs ou vidéos automatiques
-    possibilité de test les projets que j’ai déjà fait avec leur site web et tout les liens
-    ajouter et modifier un peu de texte en rapport avec les photos et vidéos
-    mettre les dossiers de code que je n’utilise plus sur mon disque dur
-    Trouver des idées de choses interactives a mettre dessus, qui change d'un portfolio classique
-    Mettre un petit slider ou un truc où on peut faire défiler plusieurs images
-
-Version EN
-
-    fonctionnalités
-    texte
+    photo de profil (header * 2 / favicon)
+    photo de moi pour contact (une autre)
+    Haut du portfolio en FR
+    Photo voiture RC
+    video YT voiture rc
+    video YT robot de ma soeur
+    Video YT NFT detector
+    Ajouter tout les liens au site
 
 Linkedin
 
-    Créer compte sans forcément faire ça propre, juste chopper le lien de mon compte
-    lien mis a jour sur FR et EN, a TOUT les endroits (6 en tout)
+    Créer compte sans forcément faire ça propre, juste chopper le lien
+    mettre a jour aux 3 endroits
 
-favicon
+Problèmes techniques
 
-    Ma tête ?
-    changer de photo de profil aussi, faire qqch de plus propre
+    Tout doit marcher sur tout les repos github
+    Virer tout ce qui est inutiles dans le code. tout les div en trop...
+    je peux virer le logo css pke en vrai je sais pas en faire du tout, mettre autre chose a la place. github ?
+    Mettre un effet progressif sur le texte qui change en haut
+    faire en sorte que ça s'affiche bien dans nimporte quel format
 
-tout tester et tout revérifier
+tout retester et tout revérifier
 
-    orthographe FR et EN
-    supprimer photo de btc "example-to-delete.jpeg"
-    je peux virer le logo css pke en vrai je sais pas en faire du tout, mettre autre chose a la place
-    Mettre un effet progressif sur le texte qui change
+    orthographe
+    boutons
+    affichage sur tel / tablette / pc
 
 Héberger le site
 
@@ -54,7 +52,16 @@ Faire tout renvoyer vers mon site
     github - telegram - linkedin
     faire rapide présentation sur les sites là
 
-# Me promouvoir partout (étape suivante)
+# Me promouvoir partout
+
+Version EN
+
+    fonctionnalités / liens / photos
+    texte
+    revérifier tout l'orthographe
+    videos EN
+    photo checoin et portfolio en EN
+    mettre index.js en anglais et français en /fr
 
 ---
 

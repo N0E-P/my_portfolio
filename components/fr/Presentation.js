@@ -42,7 +42,7 @@ export default function Presentation() {
             </p>
             <p className=" px-2 text-blue-700">{changingText}</p>
           </div>
-          <div className="flex items-center justify-between max-w-[400px] m-auto ">
+          <div className="py-3 flex items-center justify-between max-w-[400px] m-auto ">
             <a href="https://www.linkedin.com">
               <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaLinkedinIn size={25} />

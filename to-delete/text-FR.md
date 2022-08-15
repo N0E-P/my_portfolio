@@ -4,10 +4,10 @@
 
 J’ai fais ce portfolio pour présenter :
 
-    Mon parcours trépidant dans la blockchain.
-    La raison pour laquelle je me suis retrouvé développeur alors que je suis en fac de sport.
-    Les projets que j'ai réalisé, avec toutes les galères par lequelles je suis passé.
-    Mes compétences de développeur dont je suis plutot fier !
+    Mes aventures tourmentées dans la blockchain.
+    La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport.
+    Les projets que j'ai conçu, avec toutes les galères que j'ai traversé.
+    Mes compétences plutot bonnes de développeur.
 
 ---
 
@@ -32,6 +32,7 @@ Donc malgré que j'ai appris énormément de choses sur la defi, vu que tout ét
 Bref, tout ça m'a fais comprendre que même si j'adorais l'univers de la defi, je n'étais pas forcément fait pour l'investissement. Et qu'il allait faloir trouver un autre moyen de gagner de l'argent...
 
 [Photo du chart avec flèche là où j'ai acheté]
+
 [PS : Je possède toujours mon million de Checoin, et j'en suis fier 💪 : https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2]
 
 ---
@@ -59,8 +60,7 @@ En parrallèle, j’avais déjà entendu parler du métier de développeur solid
 Donc je me suis dit que je tenais quelque chose qui pourrait être très intéressant, alors pourquoi pas aller apprendre à programmer en solidity...
 
 [Photo de moi avec ma tour effel en Lego]
-[retrouver un screenshot ou une de mes création minecraft]
-[Photo d'un de mes anciens montages arduino si je trouve, ou de ma voiture quand elle était pas encore fini]
+
 [Vidéo du robot de ma soeur en fonctionnement]
 [site d'arduino : https://www.arduino.cc/en/Guide/Introduction]
 
@@ -84,6 +84,7 @@ On a commencé en écrivant 3 lignes de code pour s'amuser sur Remix, et on a fi
 Après ça, il était maintenant venu temps pour moi d'essayer de me mettre à faire mon vrai propre projet !
 
 [Minitature du tuto]
+
 [lien du tuto : https://www.youtube.com/watch?v=M576WGiDBdQ]
 [Mon github avec tout ce que j'ai suivi et recopié : https://github.com/N0E-P/solidity-with-python-fcc-tutorial]
 [La liste de tout ce que l'on apprend ici : https://github.com/smartcontractkit/full-blockchain-solidity-course-py#table-of-contents]
@@ -110,6 +111,9 @@ dates avec mes videos yt dessus
 27 avril fini ? mais en meme temps fini le tuto de patrick a ce moment la ?
 Je crois que je me suis remis a taffer le 27 avril en fait, et que j'avais pas fini le tuto de patrick avant.
 
+[Un des NFTs]
+
+[lien de la dapp]
 [Le github : https://github.com/N0E-P/Kevin-s-Holidays]
 [Lien du tuto : https://www.youtube.com/watch?v=cLB7u0KQFIs]
 
@@ -134,6 +138,13 @@ changé pour discord.js
 
 Fin du concours lundi 6 juin, mais j'étais pas pret, j'avais pas fini
 Je suis resté éveillé toute la nuit jusqu'a 7H le lendemain matin pour travailler dessus
+
+[Logo du projet]
+
+[github backend = https://github.com/N0E-P/NFT_detector]
+[github frontend] ?
+[site web] [lien ajout discord] ? je ne maintient pas donc balek non ?
+[video NFT detector]
 
 ---
 
@@ -163,9 +174,10 @@ Par contre, la liaison entre les Lego et le moteur était tellement foireuse, qu
 Mais ça n'est qu'un détail, parce que le plus important c'est qu'elle roule enfin, et que maintenant je peux jouer avec comme un gamin !
 (Sauf quand je la crash et qu'il y a des Lego qui explosent partout parce que je ne sais pas la conduire, mais ça c'est autre chose...)
 
+[Photo stylée de la voiture et de la télécommande]
+
 [github : https://github.com/N0E-P/RC_Car]
 [vidéos de la voiture en foncitonnement additionnées les unes après les autres, avec la voiture qui se crash a la fin]
-[Photo stylée de la voiture et de la télécommande]
 
 ---
 
@@ -190,6 +202,9 @@ Mais ce dont je n'étais pas au courrant, c'était qu'il fallait résoudre des �
 Petite information bonus : Au moment où j'écris ça, on est seulement 40 dans le monde à avoir ces 5 différents NFTs, et donc autant de personnes à avoir entièrement fini le cours et être allé jusqu'au bout. Ce qui ne fait vraiment pas beaucoup par rapport aux plus de 700 000 personnes qui ont cliqués sur la vidéo.
 Je crois que ça veut dire que j'ai un bon petit niveau quand même, il faut pas déconner
 
+[miniature de la vidéo]
+[Mes NFTs]
+
 mes NFTs : [https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37]
 github :https://github.com/N0E-P/solidity-with-javascript-fcc-tutorial/
 youtube : https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s
@@ -209,6 +224,9 @@ Je m'imaginais y passer
 Je me suis surpris a adorer raconter ma vie et à travailler le texte pour essayer de faire en sorte que ça ne soit pas trop insupportable à lire
 
 fini [a telle date] Mais je sais que je continuerais de le mettre a jour au fur et a mesure des projets sur lequels je travaillerais
+
+[Photo du haut de mon portfolio (FR et EN)]
+
 github : https://github.com/N0E-P/my_portfolio
 
 ---
@@ -222,3 +240,5 @@ Je suis pret a travailler et a apprendre en entreprise pour développer mes conn
 J'adorerais travailler pour une entreprise (et en faire mon métier) N'hésitez pas a venir m'en parler si vous etes intéressés
 
 (Attention, dans mon Telegram, il y a un "0" (zero) et pas un "o" (la lettre) à "N0E_P")
+
+[Autre photo de moi]

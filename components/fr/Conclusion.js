@@ -18,7 +18,7 @@ export default function Conclusion() {
         >
           <img
             className="rounded-xl hover:scale-105 ease-in duration-300"
-            src={"example-to-delete.jpeg"}
+            src={""}
             alt=""
           />
           <h2 className="py-4 text-center">Contactez-moi !</h2>
