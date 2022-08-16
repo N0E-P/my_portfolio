@@ -54,7 +54,7 @@ Même si je n'ai pas énormément aidé à l'avancée du projet, j'ai senti que 
 En parrallèle, j’avais déjà entendu parler du métier de développeur solidity. Alors je me suis rendu compte que ça mellait pile 2 choses que j’aimais particulièrement bien : La programmation, et la blockchain.  
 Donc je me suis dit que je tenais quelque chose qui pourrait être très intéressant, alors pourquoi pas aller apprendre à programmer en solidity...
 
-[Vidéo du robot de ma soeur en fonctionnement]
+---
 
 ---
 
@@ -120,6 +120,8 @@ Fin du concours lundi 6 juin, mais j'étais pas pret, j'avais pas fini
 Je suis resté éveillé toute la nuit jusqu'a 7H le lendemain matin pour travailler dessus
 
 [video NFT detector]
+[lien devpost]
+[lien présentation chainlink hackaton]
 
 ---
 
@@ -148,8 +150,6 @@ Donc, après avoir enfin trouver un bon moyen d'accrocher la bête, et de régle
 Par contre, la liaison entre les Lego et le moteur était tellement foireuse, que mon moteur a réussi à faire fondre plusieurs fois les pignons du système de transmission. Donc je n'ai même pas pu essayer de la faire aller à fond.
 Mais ça n'est qu'un détail, parce que le plus important c'est qu'elle roule enfin, et que maintenant je peux jouer avec comme un gamin !
 (Sauf quand je la crash et qu'il y a des Lego qui explosent partout parce que je ne sais pas la conduire, mais ça c'est autre chose...)
-
-[vidéos de la voiture en foncitonnement additionnées les unes après les autres, avec la voiture qui se crash a la fin]
 
 ---
 

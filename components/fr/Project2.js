@@ -25,6 +25,13 @@ export default function Projects() {
             <p className="px-3 py-3 ">Le tutoriel vidéo</p>
           </a>
           <a
+            href="https://youtu.be/u4aM2DMDH20"
+            className=" flex p-2 cursor-pointer hover:text-blue-700"
+          >
+            <AiFillYoutube size={50} />
+            <p className="px-3 py-3 ">Ma présentation vidéo des NFT</p>
+          </a>
+          <a
             href="https://github.com/N0E-P/Kevin-s-Holidays"
             className=" flex p-2 cursor-pointer hover:text-blue-700"
           >

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { SiArduino } from "react-icons/si";
+import { AiFillYoutube } from "react-icons/ai";
 
 export default function Projects() {
   return (
@@ -28,6 +29,14 @@ export default function Projects() {
           >
             <SiArduino size={50} />
             <p className="px-3 py-3 ">Qu'est-ce-qu'Arduino ?</p>
+          </a>
+
+          <a
+            href="https://www.youtube.com/watch?v=nb471gm5Xeg"
+            className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
+          >
+            <AiFillYoutube size={50} />
+            <p className="px-3 py-3 ">Vidéo du robot de ma Soeur</p>
           </a>
         </div>
       </div>

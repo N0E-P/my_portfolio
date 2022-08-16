@@ -1,3 +1,13 @@
+# Trucs à faire avant Vendredi soir:
+
+Faire marcher NFT detector
+
+liens photos vidéos
+
+    photo de profil (header * 2 / favicon)
+    photo de moi pour contact (une autre)
+    Video YT NFT detector
+
 # Trucs à faire :
 
 texte FR
@@ -8,21 +18,14 @@ texte FR
     Regarder des tutos pour avoir des idées de choses à mettre
     intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
-liens photos vidéos
-
-    photo de profil (header * 2 / favicon)
-    photo de moi pour contact (une autre)
-    Photo Haut du portfolio
-    video YT voiture rc
-    video YT robot de ma soeur
-    Video YT NFT detector
-
 Problèmes techniques
 
-    Tout doit marcher sur tout les repos github
+    Photo Haut du portfolio
     Virer tout ce qui est inutiles dans le code. tout les div en trop...
     Mettre un effet progressif sur le texte qui change en haut
     faire en sorte que ça s'affiche bien dans nimporte quel format
+
+# Une fois que tout ce qui est au dessus est fait
 
 tout retester et tout revérifier
 
@@ -42,7 +45,7 @@ Héberger le site
 Faire tout renvoyer vers mon site
 
     github - telegram - linkedin
-    faire rapide présentation sur les sites là
+    faire rapide présentation et profil clean sur les sites là
 
 # Me promouvoir partout
 
