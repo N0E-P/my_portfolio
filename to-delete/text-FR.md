@@ -5,6 +5,22 @@ mettre un adjectif pour montrer que je suis fort, mais sans m'auto sucer
 
 ---
 
+              <a
+                href="https://www.arduino.cc/en/Guide/Introduction"
+                className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
+              >
+                <SiArduino size={50} />
+                <p className="px-3 py-3 ">Qu'est-ce-qu'Arduino ?</p>
+              </a>
+
+              <a
+                href="https://www.youtube.com/watch?v=nb471gm5Xeg"
+                className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
+              >
+                <AiFillYoutube size={50} />
+                <p className="px-3 py-3 ">Vidéo du robot de ma Soeur</p>
+              </a>
+
 # C'est cool de créer des trucs
 
 Depuis tout petit, j'ai toujours aimé construire.
