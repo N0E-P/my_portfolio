@@ -1,14 +1,33 @@
-# Trucs à faire avant Vendredi soir:
+# A changer :
 
-Faire marcher NFT detector
+Texte beaucoup plus cours
 
-liens photos vidéos
+    Pas plus que la taille de l'image sur le coté
+    surtout pour la présentation des projets
+    surtout présenter les projets, plutot que comment est ce que je les ai faits
 
-    photo de profil (header * 2 / favicon)
-    photo de moi pour contact (une autre)
-    Video YT NFT detector
+enlever la possibilité de changer de section
+
+juste avoir bouton "contéctez moi" et drapeaux pour la langue
+
+rajouter des animations en mode les parties appairaisses
+
+    changement de couleur de fond entre les parties
+    pas toujours la meme présentation avec texte a gauche et image a droite
+    faire des trucs qui ressortent et qui changent
+
+aggrandir le texte qui change en haut
+
+faire une partie où je me présente vraiment (a la place de la partie crypto ?)
+
+pas plus de 4 liens par projets et changer les iconnes a chaque fois
+
+couleur de fond différente pour "les outils que j'utilise"
 
 # Trucs à faire :
+
+Revoir les choses que je présente et la manière de dérouler le site
+Les gens n'en ont rien a fouttre de ma vie, ils veulent juste un développeur talentueux
 
 texte FR
 
@@ -18,9 +37,15 @@ texte FR
     Regarder des tutos pour avoir des idées de choses à mettre
     intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
+Photos
+
+    Video YT NFT detector
+    photo de profil (header * 2 / favicon)
+    photo de moi pour contact (une autre)
+    Photo Haut du portfolio
+
 Problèmes techniques
 
-    Photo Haut du portfolio
     Virer tout ce qui est inutiles dans le code. tout les div en trop...
     Mettre un effet progressif sur le texte qui change en haut
     faire en sorte que ça s'affiche bien dans nimporte quel format
@@ -85,3 +110,8 @@ https://docs.ipfs.tech/how-to/websites-on-ipfs/link-a-domain
 https://docs.fleek.co/domain-management/ens-domains/
 https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514
 video d'une madame qui le fait la : https://www.youtube.com/watch?v=oA4oOY5zgU0
+
+autres portfolios intéressants :
+https://mattfarley.ca/
+https://jacekjeznach.com/
+https://www.raoul-gaillard.com/about

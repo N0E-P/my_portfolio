@@ -120,8 +120,6 @@ Fin du concours lundi 6 juin, mais j'étais pas pret, j'avais pas fini
 Je suis resté éveillé toute la nuit jusqu'a 7H le lendemain matin pour travailler dessus
 
 [video NFT detector]
-[lien devpost]
-[lien présentation chainlink hackaton]
 
 ---
 
