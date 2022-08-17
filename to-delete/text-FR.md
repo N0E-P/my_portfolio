@@ -5,7 +5,18 @@ mettre un adjectif pour montrer que je suis fort, mais sans m'auto sucer
 
 ---
 
-# Mon début (très) chaotique dans les cryptos
+# C'est cool de créer des trucs
+
+Depuis tout petit, j'ai toujours aimé construire.
+
+J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à construire des voitures et des maisons que je finissais par faire détruire en faisant plein de bruits d'explosion avec ma bouche.
+C'était ça tout le temps : tout les week ends, tout les mercredi après midi, et tout les soirs en rentrant de l'école. J'étais devenu completement addict aux Lego.
+Malgré tout, après toutes ces années, j'ai commençé a me lasser de jouer avec ces petites briques. Il me fallait plus de liberté, plus de possibilités et un univers plus grand que juste mon petit cabanon.
+
+C'est comme ça que j'ai découvert le monde merveilleux de Minecraft. Je pouvais créer et recréer tout ce que je voulais, je restais scotcher devant mon écran toute la journée à chasser des zombies et à faire des maisons dans les montagnes.
+Sauf qu'évidemment, au bout de quelques années, c'était redevenu la même chose. Des cubes partout à la place des briques, moi qui construit et qui casse tout, et la quantité de choses possibles à faire restait forcément limitée par le jeux lui même.
+
+Un jour, mon Père a acheté des cartes Arduino. C'est des petits microcontrôleur électroniques que l'on peux programmer en C ou C++, et lier ça avec des petits moteurs, des leds et des boutons. Ce qui permet de créer presque n'importe quel système électronique que l'on souhaite. Je me suis beaucoup amusé avec ça et je me débrouillais plutot pas mal. J'avais même commencé a faire ma propre voiture radiocommandée en LEGO, controlée à distance par des Arduino. Mais je m'en suis petit à petit désintéressé a cause de mes cours et des études. Je n'avais le temps d'y jouer que pendant les vacances, et je suis doucement passé à autre chose.
 
 Fin juillet 2021, alors que je m'ennuyais profondément en plein millieux de mes vacances :
 
@@ -24,28 +35,6 @@ Donc malgré que j'ai appris énormément de choses sur la defi, vu que tout ét
 Bref, tout ça m'a fais comprendre que même si j'adorais l'univers de la defi, je n'étais pas forcément fait pour l'investissement. Et qu'il allait faloir trouver un autre moyen de gagner de l'argent...
 
 PS : Je possède toujours mon million de Checoin, et j'en suis fier
-
-garder ce lien ou balek ?
-https://poocoin.app/tokens/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2
-
-ça serais bien de mettre un lien
-
----
-
----
-
-# C'est cool de créer des trucs
-
-Depuis tout petit, j'ai toujours aimé construire.
-
-J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à construire des voitures et des maisons que je finissais par faire détruire en faisant plein de bruits d'explosion avec ma bouche.
-C'était ça tout le temps : tout les week ends, tout les mercredi après midi, et tout les soirs en rentrant de l'école. J'étais devenu completement addict aux Lego.
-Malgré tout, après toutes ces années, j'ai commençé a me lasser de jouer avec ces petites briques. Il me fallait plus de liberté, plus de possibilités et un univers plus grand que juste mon petit cabanon.
-
-C'est comme ça que j'ai découvert le monde merveilleux de Minecraft. Je pouvais créer et recréer tout ce que je voulais, je restais scotcher devant mon écran toute la journée à chasser des zombies et à faire des maisons dans les montagnes.
-Sauf qu'évidemment, au bout de quelques années, c'était redevenu la même chose. Des cubes partout à la place des briques, moi qui construit et qui casse tout, et la quantité de choses possibles à faire restait forcément limitée par le jeux lui même.
-
-Un jour, mon Père a acheté des cartes Arduino. C'est des petits microcontrôleur électroniques que l'on peux programmer en C ou C++, et lier ça avec des petits moteurs, des leds et des boutons. Ce qui permet de créer presque n'importe quel système électronique que l'on souhaite. Je me suis beaucoup amusé avec ça et je me débrouillais plutot pas mal. J'avais même commencé a faire ma propre voiture radiocommandée en LEGO, controlée à distance par des Arduino. Mais je m'en suis petit à petit désintéressé a cause de mes cours et des études. Je n'avais le temps d'y jouer que pendant les vacances, et je suis doucement passé à autre chose.
 
 Bien plus tard, aux alentours de mi-février 2022, ma grande soeur avait un projet en arduino a faire pour son école. Et j’ai proposé de l'aider un peu à avancer dessus, vu que j'avais déjà un peu d'experience là dedans.
 En fait, je me suis vite rendu compte que ça me plaisais vachement bien de programmer quand même ! Et que je me debrouillais pas trop mal en plus !

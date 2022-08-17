@@ -1,68 +1,46 @@
-import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
-import { AiOutlineMail } from "react-icons/ai";
-import { useState, useEffect } from "react";
-import Link from "next/link";
+import Image from "next/image";
+import { SiArduino } from "react-icons/si";
+import { AiFillYoutube } from "react-icons/ai";
 
 export default function Presentation() {
-  const [changingText, changeText] = useState(
-    "Mes aventures tourmentées dans la blockchain."
-  );
-  var words = [
-    "La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport.",
-    "Les projets que j'ai conçu, avec toutes les galères que j'ai traversé.",
-    "Mes compétences de développeur.",
-    "Mes aventures tourmentées dans la blockchain.",
-  ];
-  var number = 0;
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      changeText(words[number]);
-      if (number < 3) {
-        number = number + 1;
-      } else {
-        number = 0;
-      }
-    }, 5000);
-
-    return () => clearInterval(interval);
-  }, []);
-
   return (
-    <div id="presentation" className="w-full text-center h-screen">
-      <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
-        <div>
-          <h1 className="py-4 text-gray-800">
-            Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
-          </h1>
-          <h1 className="py-3 text-gray-800">Développeur junior en Solidity</h1>
-          <div className=" py-2 ">
-            <p className="py-1 text-gray-700">
-              J’ai fais ce portfolio pour présenter :
+    <div id="presentation" className="w-full py-10 p-6 items-center ">
+      <div className="max-w-[1400px] m-auto gap-8 bg-blue-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
+        <h1 className="text-center">C'est cool de créer des trucs</h1>
+        <div className="md:grid grid-cols-3 p-6">
+          <div className="col-span-2">
+            <p className="py-2 text-gray-700">
+              Depuis tout petit, j'ai toujours aimé construire.
             </p>
-            <p className=" px-2 text-blue-700">{changingText}</p>
+            <p className="py-2 text-gray-700">
+              LEGO, Minecraft, Arduino, Crypto, Robot, Solidity
+            </p>
           </div>
-          <div className="py-3 flex items-center justify-between max-w-[400px] m-auto ">
-            <a href="https://www.linkedin.com/in/no%C3%A9-pecci-3a8a49248/">
-              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-                <FaLinkedinIn size={25} />
-              </div>
-            </a>
-            <a href="https://github.com/N0E-P/">
-              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-                <FaGithub size={25} />
-              </div>
-            </a>
-            <Link href="/#contact">
-              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-                <AiOutlineMail size={25} />
-              </div>
-            </Link>
-            <Link href="/#contact">
-              <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-                <FaTelegram size={25} />
-              </div>
-            </Link>
+          <div className="p-8">
+            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+              <Image
+                className="rounded-xl"
+                src={"/../public/projets/lego.jpg"}
+                width="2304px"
+                height="3072px"
+                alt="/"
+              />
+              <a
+                href="https://www.arduino.cc/en/Guide/Introduction"
+                className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
+              >
+                <SiArduino size={50} />
+                <p className="px-3 py-3 ">Qu'est-ce-qu'Arduino ?</p>
+              </a>
+
+              <a
+                href="https://www.youtube.com/watch?v=nb471gm5Xeg"
+                className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
+              >
+                <AiFillYoutube size={50} />
+                <p className="px-3 py-3 ">Vidéo du robot de ma Soeur</p>
+              </a>
+            </div>
           </div>
         </div>
       </div>

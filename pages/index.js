@@ -1,8 +1,7 @@
 import Head from "next/head";
 import Header from "../components/fr/Header";
+import Main from "../components/fr/Main";
 import Presentation from "../components/fr/Presentation";
-import Crypto from "../components/fr/Crypto";
-import Project from "../components/fr/Project";
 import Project1 from "../components/fr/Project1";
 import Project2 from "../components/fr/Project2";
 import Project3 from "../components/fr/Project3";
@@ -21,9 +20,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
+      <Main />
       <Presentation />
-      <Crypto />
-      <Project />
       <Project1 />
       <Project2 />
       <Project3 />
