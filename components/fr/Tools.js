@@ -80,7 +80,7 @@ export default function Tools() {
             <Image
               src={"/../public/tools/hardhat.png"}
               width="100px"
-              height="90px"
+              height="70px"
               alt="/"
             />
           </a>
@@ -167,8 +167,8 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/usedapp.png"}
-              width="180px"
-              height="70px"
+              width="224px"
+              height="72px"
               alt="/"
             />
           </a>
@@ -178,8 +178,8 @@ export default function Tools() {
           >
             <Image
               src={"/../public/tools/web3uikit.png"}
-              width="120px"
-              height="57px"
+              width="150px"
+              height="64px"
               alt="/"
             />
           </a>

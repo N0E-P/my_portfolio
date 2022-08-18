@@ -18,6 +18,9 @@ export default function Header() {
           <div className="bg-blue-100 rounded-full justify-center flex shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
             <AiOutlineMail size={45} className="px-1" />
             <p className="px-3 py-2 font-bold text-lg">Contactez-moi !</p>
+            <span class="relative inline-flex rounded-full h-3 w-3 bg-sky-500">
+              <span class="relative animate-ping inline-flex rounded-full h-3 w-3 bg-sky-500"></span>
+            </span>
           </div>
         </Link>
         <Link href="/">

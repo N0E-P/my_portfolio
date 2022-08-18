@@ -1,21 +1,17 @@
 Texte beaucoup plus cours
 
-    Texte beaucoup plus cours
     Les gens n'en ont rien a fouttre de ma vie, ils veulent juste un développeur talentueux
     Pas plus que la taille de l'image sur le coté
-    M'enregistrer en parlant de ça pour avoir beaucoup d'idées, puis reprendre des notes de ce que j'ai dit ensuite
     Essayer de rendre ça intéressant avec storytelling et arc narratif
     Essayer de caler des ptites blagues et tout
-    Regarder des tutos pour avoir des idées de choses à mettre
     intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
 Présentation
 
-    faire des trucs qui ressortent et qui changent
-    changement de couleur de fond entre les parties
-    pas toujours la meme présentation avec texte a gauche et image a droite
     rajouter des animations en mode les parties appairaisses
     Mettre un effet progressif sur le texte qui change en haut
+    petit icon notif ping sur bouton contactez moi
+    Mettre pas mal de choses animées sur le site [https://tailwindcss.com/docs/animation]
 
 Photo
 
@@ -24,9 +20,7 @@ Photo
     photo de moi pour contact (une autre)
     Photo Haut du portfolio
 
-Problèmes techniques
-
-    faire en sorte que ça s'affiche bien dans nimporte quel format
+Faire en sorte que ça s'affiche bien dans nimporte quel format
 
 # Une fois que tout ce qui est au dessus est fait
 

@@ -4,7 +4,7 @@ import { BsBook } from "react-icons/bs";
 
 export default function Project1() {
   return (
-    <div className="w-full py-10 p-6 items-center ">
+    <div className="w-full py-10 p-6 items-center mt-12">
       <div className="max-w-[1400px] m-auto gap-8 bg-violet-300 rounded-3xl p-8 shadow-lg shadow-gray-400">
         <h1 className="text-center">
           Projet #1 : Le tuto le plus long de ma vie

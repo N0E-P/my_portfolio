@@ -2,14 +2,17 @@ import Image from "next/image";
 
 export default function Presentation() {
   return (
-    <div id="presentation" className="w-full py-10 p-6 items-center ">
-      <div className="max-w-[1400px] m-auto gap-8 bg-blue-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center">
+    <div
+      id="presentation"
+      className="w-full p-4 items-center bg-blue-500 text-white"
+    >
+      <div className="max-w-[1400px] m-auto ">
+        <h1 className="text-center py-12">
           Depuis tout petit, j'ai toujours aimé construire.
         </h1>
-        <div className="md:grid grid-cols-3 p-2">
-          <div className="p-8">
-            <p className="py-2 text-gray-700 p-4">
+        <div className="md:grid grid-cols-3 ">
+          <div className="p-8 bg-[#ecf0f3] rounded-3xl shadow-md shadow-gray-400 mr-4 ">
+            <p className=" text-gray-600">
               J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à
               construire des voitures et des maisons que je finissais par faire
               détruire en faisant plein de bruits d'explosion avec ma bouche.
@@ -20,18 +23,18 @@ export default function Presentation() {
               briques. Il me fallait plus de liberté, plus de possibilités et un
               univers plus grand que juste mon petit cabanon.
             </p>
-            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
                 className="rounded-xl"
-                src={"/../public/projets/lego.jpg"}
-                width="2304px"
-                height="3072px"
+                src={"/../public/me/lego.jpg"}
+                width="3072px"
+                height="2304px"
                 alt="/"
               />
             </div>
           </div>
-          <div className="p-8">
-            <p className="py-2 text-gray-700 p-4">
+          <div className="p-8 bg-[#ecf0f3] rounded-3xl shadow-md shadow-gray-400 ml-2 mr-2 ">
+            <p className=" text-gray-600">
               C'est comme ça que j'ai découvert le monde merveilleux de
               Minecraft. Je pouvais créer et recréer tout ce que je voulais, je
               restais scotcher devant mon écran toute la journée à chasser des
@@ -41,18 +44,18 @@ export default function Presentation() {
               construit et qui casse tout, et la quantité de choses possibles à
               faire restait forcément limitée par le jeux lui même.
             </p>
-            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
                 className="rounded-xl"
-                src={"/../public/projets/lego.jpg"}
-                width="2304px"
-                height="3072px"
+                src={"/../public/me/minecraft.jpg"}
+                width="3072px"
+                height="2304px"
                 alt="/"
               />
             </div>
           </div>
-          <div className="p-8">
-            <p className="py-2 text-gray-700 p-4">
+          <div className="p-8 bg-[#ecf0f3] rounded-3xl shadow-md shadow-gray-400 ml-4 ">
+            <p className=" text-gray-600">
               Un jour, mon Père a acheté des cartes Arduino. C'est des petits
               microcontrôleur électroniques que l'on peux programmer en C ou
               C++, et lier ça avec des petits moteurs, des leds et des boutons.
@@ -64,18 +67,18 @@ export default function Presentation() {
               de mes cours et des études. Je n'avais le temps d'y jouer que
               pendant les vacances, et je suis doucement passé à autre chose.
             </p>
-            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
                 className="rounded-xl"
-                src={"/../public/projets/lego.jpg"}
-                width="2304px"
-                height="3072px"
+                //src={"/../public/me/legoo.jpg"}
+                //width="2304px"
+                //height="3072px"
                 alt="/"
               />
             </div>
           </div>
         </div>
-        <p className="py-2 text-gray-700 p-4">
+        <p className="p-4 my-4 text-xl ">
           Fin juillet 2021, alors que je m'ennuyais profondément en plein
           millieux de mes vacances : J'ai eu envie de commencer à m'intéresser à
           la blockchain. (Ce qui jusque là, est une très bonne idée.) Mais, en
@@ -98,24 +101,20 @@ export default function Presentation() {
           tout ça m'a fais comprendre que même si j'adorais l'univers de la
           defi, je n'étais pas forcément fait pour l'investissement. Et qu'il
           allait faloir trouver un autre moyen de gagner de l'argent... PS : Je
-          possède toujours mon million de Checoin, et j'en suis fier
-        </p>
-        <p className="py-2 text-gray-700 p-4">
-          Bien plus tard, aux alentours de mi-février 2022, ma grande soeur
-          avait un projet en arduino a faire pour son école. Et j’ai proposé de
-          l'aider un peu à avancer dessus, vu que j'avais déjà un peu
-          d'experience là dedans. En fait, je me suis vite rendu compte que ça
-          me plaisais vachement bien de programmer quand même ! Et que je me
-          debrouillais pas trop mal en plus ! Même si je n'ai pas énormément
-          aidé à l'avancée du projet, j'ai senti que ça avait été un déclic.
-        </p>
-        <p className="py-2 text-gray-700 p-4">
-          En parrallèle, j’avais déjà entendu parler du métier de développeur
-          solidity. Alors je me suis rendu compte que ça mellait pile 2 choses
-          que j’aimais particulièrement bien : La programmation, et la
-          blockchain. Donc je me suis dit que je tenais quelque chose qui
-          pourrait être très intéressant, alors pourquoi pas aller apprendre à
-          programmer en solidity...
+          possède toujours mon million de Checoin, et j'en suis fier Bien plus
+          tard, aux alentours de mi-février 2022, ma grande soeur avait un
+          projet en arduino a faire pour son école. Et j’ai proposé de l'aider
+          un peu à avancer dessus, vu que j'avais déjà un peu d'experience là
+          dedans. En fait, je me suis vite rendu compte que ça me plaisais
+          vachement bien de programmer quand même ! Et que je me debrouillais
+          pas trop mal en plus ! Même si je n'ai pas énormément aidé à l'avancée
+          du projet, j'ai senti que ça avait été un déclic. En parrallèle,
+          j’avais déjà entendu parler du métier de développeur solidity. Alors
+          je me suis rendu compte que ça mellait pile 2 choses que j’aimais
+          particulièrement bien : La programmation, et la blockchain. Donc je me
+          suis dit que je tenais quelque chose qui pourrait être très
+          intéressant, alors pourquoi pas aller apprendre à programmer en
+          solidity...
         </p>
       </div>
     </div>

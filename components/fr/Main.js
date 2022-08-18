@@ -39,9 +39,9 @@ export default function Main() {
         </p>
         <p className=" px-2 text-blue-700 ">{changingText}</p>
       </div>
-      <div className="flex justify-center py-36">
+      <div className="flex justify-center mt-20">
         <Link href="/#presentation">
-          <div className="rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+          <div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
             <HiChevronDoubleDown className="text-blue-700" size={30} />
           </div>
         </Link>
