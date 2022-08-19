@@ -30,21 +30,23 @@ export default function Main() {
 
   return (
     <div>
-      <div className="w-full h20 z-[100] py-4 flex justify-between items-center h-full px-2 2xl:px-16">
+      <div className="flex justify-between items-center h-full">
         <Link href="/">
           <img
-            className=" bg-blue-100 rounded-full shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
+            className=" bg-blue-100 rounded-full m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
             src={"me/profile-photo.jpg"}
             alt="Noé Pecci"
-            width="170"
-            height="170"
+            width="200"
+            height="200"
           />
         </Link>
-        <div className="flex">
+        <div className="sm:flex m-3">
           <Link href="/#contact">
-            <div className="bg-blue-100 rounded-full justify-center flex shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
+            <div className="bg-blue-100 m-4 justify-center flex rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
               <AiOutlineMail size={45} className="px-1" />
-              <p className="px-3 py-2 font-bold text-lg">Contactez-moi !</p>
+              <p className="px-3 py-2 font-bold text-lg hidden lg:flex">
+                Contactez-moi !
+              </p>
               <span class="relative inline-flex rounded-full h-3 w-3 bg-sky-500">
                 <span class="relative animate-ping inline-flex rounded-full h-3 w-3 bg-sky-500"></span>
               </span>
@@ -52,7 +54,7 @@ export default function Main() {
           </Link>
           <Link href="/">
             <img
-              className="ml-16 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
+              className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
               src={"flags/fr.png"}
               alt="Français"
               width="90"
@@ -60,7 +62,7 @@ export default function Main() {
           </Link>
           <Link href="/en">
             <img
-              className="ml-16 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
+              className="m-4 mr-8 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
               src={"flags/en.png"}
               alt="English"
               width="90"

@@ -21,8 +21,8 @@ export default function Projects() {
                 allow="autoplay; encrypted-media"
                 allowfullscreen
                 title="video"
-                width="400px"
-                height="225px"
+                width="200px"
+                height="114px"
               />
               <a
                 href="https://www.youtube.com/watch?v=cLB7u0KQFIs"
