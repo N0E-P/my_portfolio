@@ -6,28 +6,19 @@ Texte beaucoup plus cours
     Essayer de caler des ptites blagues et tout
     intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
-Présentation
+Mettre plus de choses animées
 
-    rajouter des animations en mode les parties appairaisses
-    Mettre un effet progressif sur le texte qui change en haut
-    petit icon notif ping sur bouton contactez moi
-    Mettre pas mal de choses animées sur le site [https://tailwindcss.com/docs/animation]
-
-Photo
-
-    Video YT NFT detector
-    photo de profil (header * 2 / favicon)
-    photo de moi pour contact (une autre)
-    Photo Haut du portfolio
+Video YT NFT detector
 
 Faire en sorte que ça s'affiche bien dans nimporte quel format
+Hauteur = taille de la page pour chaque parties ?
 
 # Une fois que tout ce qui est au dessus est fait
 
 tout retester et tout revérifier
 
     orthographe
-    boutons
+    boutons / liens
     affichage sur tel / tablette / pc
 
 Héberger le site
@@ -61,11 +52,10 @@ Version EN
 
 # Utile
 
-[https://tailwindcss.com/docs/guides/nextjs](https://tailwindcss.com/docs/guides/nextjs)
+[https://tailwindcss.com/docs/guides/nextjs]
 
-[https://www.youtube.com/watch?v=CMx51wpd7g4](https://www.youtube.com/watch?v=CMx51wpd7g4)
-
-[https://github.com/fireclint/portfolio-nextjs](https://github.com/fireclint/portfolio-nextjs)
+[https://www.youtube.com/watch?v=CMx51wpd7g4]
+[https://github.com/fireclint/portfolio-nextjs]
 
 Icons de react :
 https://react-icons.github.io/react-icons
@@ -87,3 +77,5 @@ autres portfolios intéressants :
 https://mattfarley.ca/
 https://jacekjeznach.com/
 https://www.raoul-gaillard.com/about
+
+animations : [https://tailwindcss.com/docs/animation]

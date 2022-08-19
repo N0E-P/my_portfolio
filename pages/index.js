@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Header from "../components/fr/Header";
 import Main from "../components/fr/Main";
 import Presentation from "../components/fr/Presentation";
 import Project1 from "../components/fr/Project1";
@@ -19,7 +18,6 @@ export default function Home() {
         <meta name="description" content="Mon Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
       <Main />
       <Presentation />
       <Project1 />

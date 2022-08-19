@@ -2,17 +2,14 @@ import Image from "next/image";
 
 export default function Presentation() {
   return (
-    <div
-      id="presentation"
-      className="w-full p-4 items-center bg-blue-500 text-white"
-    >
+    <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
-        <h1 className="text-center py-12">
+        <h1 className="text-center mb-12 mt-5">
           Depuis tout petit, j'ai toujours aimé construire.
         </h1>
         <div className="md:grid grid-cols-3 ">
-          <div className="p-8 bg-[#ecf0f3] rounded-3xl shadow-md shadow-gray-400 mr-4 ">
-            <p className=" text-gray-600">
+          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mr-4 ">
+            <p className=" text-white text-justify text-lg">
               J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à
               construire des voitures et des maisons que je finissais par faire
               détruire en faisant plein de bruits d'explosion avec ma bouche.
@@ -26,15 +23,15 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
                 className="rounded-xl"
-                src={"/../public/me/lego.jpg"}
-                width="3072px"
-                height="2304px"
+                src={"/../public/me/legoo.jpg"}
+                width="2304px"
+                height="3072px"
                 alt="/"
               />
             </div>
           </div>
-          <div className="p-8 bg-[#ecf0f3] rounded-3xl shadow-md shadow-gray-400 ml-2 mr-2 ">
-            <p className=" text-gray-600">
+          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 ml-2 mr-2 ">
+            <p className=" text-white text-justify text-lg">
               C'est comme ça que j'ai découvert le monde merveilleux de
               Minecraft. Je pouvais créer et recréer tout ce que je voulais, je
               restais scotcher devant mon écran toute la journée à chasser des
@@ -54,8 +51,8 @@ export default function Presentation() {
               />
             </div>
           </div>
-          <div className="p-8 bg-[#ecf0f3] rounded-3xl shadow-md shadow-gray-400 ml-4 ">
-            <p className=" text-gray-600">
+          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 ml-4 ">
+            <p className=" text-white text-justify text-lg">
               Un jour, mon Père a acheté des cartes Arduino. C'est des petits
               microcontrôleur électroniques que l'on peux programmer en C ou
               C++, et lier ça avec des petits moteurs, des leds et des boutons.
@@ -78,7 +75,7 @@ export default function Presentation() {
             </div>
           </div>
         </div>
-        <p className="p-4 my-4 text-xl ">
+        <p className="m-10 text-justify p-4 text-xl">
           Fin juillet 2021, alors que je m'ennuyais profondément en plein
           millieux de mes vacances : J'ai eu envie de commencer à m'intéresser à
           la blockchain. (Ce qui jusque là, est une très bonne idée.) Mais, en

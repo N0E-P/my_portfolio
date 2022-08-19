@@ -11,12 +11,11 @@ export default function Projects() {
             <p className="py-2 text-gray-700">TEXT</p>
           </div>
           <div className="p-8">
-            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-3 hover:scale-105 ease-in duration-300">
               <Image
-                className="rounded-xl"
-                src={""}
-                width="1000px"
-                height="1000px"
+                src={"/../public/projets/portfolio.png"}
+                width="1891px"
+                height="973px"
                 alt="/"
               />
               <a
