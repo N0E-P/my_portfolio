@@ -7,9 +7,9 @@ export default function Presentation() {
         <h1 className="text-center mb-12 mt-5">
           Depuis tout petit, j'ai toujours aimé construire.
         </h1>
-        <div className="md:grid grid-cols-3 ">
+        <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mr-4 ">
-            <p className=" text-white text-justify text-lg">
+            <p className=" text-white text-md sm:text-xl sm:text-justify">
               J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à
               construire des voitures et des maisons que je finissais par faire
               détruire en faisant plein de bruits d'explosion avec ma bouche.
@@ -31,7 +31,7 @@ export default function Presentation() {
             </div>
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 ml-2 mr-2 ">
-            <p className=" text-white text-justify text-lg">
+            <p className=" text-white text-md sm:text-xl md:text-justify">
               C'est comme ça que j'ai découvert le monde merveilleux de
               Minecraft. Je pouvais créer et recréer tout ce que je voulais, je
               restais scotcher devant mon écran toute la journée à chasser des
@@ -52,7 +52,7 @@ export default function Presentation() {
             </div>
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 ml-4 ">
-            <p className=" text-white text-justify text-lg">
+            <p className=" text-white text-md sm:text-xl sm:text-justify">
               Un jour, mon Père a acheté des cartes Arduino. C'est des petits
               microcontrôleur électroniques que l'on peux programmer en C ou
               C++, et lier ça avec des petits moteurs, des leds et des boutons.
