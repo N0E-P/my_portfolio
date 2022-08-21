@@ -6,14 +6,16 @@ export default function Project1() {
   return (
     <div className="w-full py-10 p-6 items-center mt-12">
       <div className="max-w-[1400px] m-auto gap-8 bg-violet-300 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center">
+        <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
           Projet #1 : Le tuto le plus long de ma vie
         </h1>
-        <div className="md:grid grid-cols-3 p-6">
+        <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2">
-            <p className="py-2 text-gray-700">ceci est un texte</p>
+            <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
+              ceci est un texte
+            </p>
           </div>
-          <div className="p-8">
+          <div className="sm:p-4">
             <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
               <Image
                 className="rounded-xl"
@@ -27,21 +29,21 @@ export default function Project1() {
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
               >
                 <AiFillYoutube size={50} />
-                <p className="px-3 py-3 ">Le tutoriel vidéo</p>
+                <p className="pl-2 py-3">Le tutoriel vidéo</p>
               </a>
               <a
                 href="https://github.com/N0E-P/solidity-with-python-fcc-tutorial"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
               >
                 <AiOutlineGithub size={50} />
-                <p className="px-3 py-3 ">Mon code sur Github</p>
+                <p className="pl-2 py-3 ">Mon code sur Github</p>
               </a>
               <a
                 href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py#table-of-contents"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
               >
                 <BsBook size={50} />
-                <p className="px-3 py-3 ">Tout ce que j'ai appris</p>
+                <p className="pl-2 py-3 ">Tout ce que j'ai appris</p>
               </a>
             </div>
           </div>

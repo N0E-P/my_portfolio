@@ -3,12 +3,12 @@ import { AiOutlineGithub } from "react-icons/ai";
 
 export default function Projects() {
   return (
-    <div className="w-full py-10 p-6 items-center ">
+    <div className="w-full py-10 p-6 items-center  mt-12">
       <div className="max-w-[1400px] m-auto gap-8 bg-red-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center">
+        <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
           Projet #4 : J'ai réalisé mon rêve de gosse
         </h1>
-        <div className="md:grid grid-cols-3 p-6">
+        <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2">
             <p className="py-2 text-gray-700">TEXT</p>
           </div>

@@ -40,7 +40,7 @@ export default function Main() {
             height="200"
           />
         </Link>
-        <div className="sm:flex">
+        <div className="sm:flex ">
           <Link href="/#contact">
             <div className="bg-blue-100 m-3 justify-center hidden sm:flex rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
               <AiOutlineMail size={50} className="pl-2" />
@@ -54,7 +54,7 @@ export default function Main() {
           </Link>
           <Link href="/">
             <img
-              className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
+              className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer ml-5"
               src={"flags/fr.png"}
               alt="Français"
               width="100"
@@ -63,7 +63,7 @@ export default function Main() {
           </Link>
           <Link href="/en">
             <img
-              className="m-4 mr-8 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
+              className="m-4 sm:mr-8 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
               src={"flags/en.png"}
               alt="English"
               width="110"

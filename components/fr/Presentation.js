@@ -8,8 +8,8 @@ export default function Presentation() {
           Depuis tout petit, j'ai toujours aimé construire.
         </h1>
         <div className="lg:grid grid-cols-3">
-          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mr-4 ">
-            <p className=" text-white text-md sm:text-xl sm:text-justify">
+          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
+            <p className=" text-white text-md sm:text-xl text-justify">
               J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à
               construire des voitures et des maisons que je finissais par faire
               détruire en faisant plein de bruits d'explosion avec ma bouche.
@@ -30,8 +30,8 @@ export default function Presentation() {
               />
             </div>
           </div>
-          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 ml-2 mr-2 ">
-            <p className=" text-white text-md sm:text-xl md:text-justify">
+          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-2 lg:mr-2 mt-8 lg:mt-0">
+            <p className=" text-white text-md sm:text-xl text-justify">
               C'est comme ça que j'ai découvert le monde merveilleux de
               Minecraft. Je pouvais créer et recréer tout ce que je voulais, je
               restais scotcher devant mon écran toute la journée à chasser des
@@ -51,8 +51,8 @@ export default function Presentation() {
               />
             </div>
           </div>
-          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 ml-4 ">
-            <p className=" text-white text-md sm:text-xl sm:text-justify">
+          <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
+            <p className=" text-white text-md sm:text-xl text-justify">
               Un jour, mon Père a acheté des cartes Arduino. C'est des petits
               microcontrôleur électroniques que l'on peux programmer en C ou
               C++, et lier ça avec des petits moteurs, des leds et des boutons.
@@ -75,7 +75,7 @@ export default function Presentation() {
             </div>
           </div>
         </div>
-        <p className="m-10 text-justify p-4 text-xl">
+        <p className="m-10 text-justify p-4 text-sm sm:text-xl">
           Fin juillet 2021, alors que je m'ennuyais profondément en plein
           millieux de mes vacances : J'ai eu envie de commencer à m'intéresser à
           la blockchain. (Ce qui jusque là, est une très bonne idée.) Mais, en

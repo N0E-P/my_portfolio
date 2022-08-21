@@ -10,8 +10,9 @@ Mettre plus de choses animées
 
 Video YT NFT detector
 
-Faire en sorte que ça s'affiche bien dans nimporte quel format
-drapeaux alignés en vue sm
+mettre format du projet 1 a tout les projet
+
+revoir les tailles de textes
 
 # Une fois que tout ce qui est au dessus est fait
 

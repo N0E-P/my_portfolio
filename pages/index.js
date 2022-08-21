@@ -8,7 +8,7 @@ import Project4 from "../components/fr/Project4";
 import Project5 from "../components/fr/Project5";
 import Project6 from "../components/fr/Project6";
 import Tools from "../components/fr/Tools";
-import Conclusion from "../components/fr/Conclusion";
+import Contact from "../components/fr/Contact";
 
 export default function Home() {
   return (
@@ -27,7 +27,7 @@ export default function Home() {
       <Project5 />
       <Project6 />
       <Tools />
-      <Conclusion />
+      <Contact />
     </div>
   );
 }
