@@ -5,20 +5,16 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="text-center mb-12 mt-5">
-          Depuis tout petit, j'ai toujours aimé construire.
+          J'ai toujours aimé construire des choses
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
             <p className=" text-white text-md sm:text-xl text-justify">
-              J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à
-              construire des voitures et des maisons que je finissais par faire
-              détruire en faisant plein de bruits d'explosion avec ma bouche.
-              C'était ça tout le temps : tout les week ends, tout les mercredi
-              après midi, et tout les soirs en rentrant de l'école. J'étais
-              devenu completement addict aux Lego. Malgré tout, après toutes ces
-              années, j'ai commençé a me lasser de jouer avec ces petites
-              briques. Il me fallait plus de liberté, plus de possibilités et un
-              univers plus grand que juste mon petit cabanon.
+              J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à bricoler des voitures et des maisons que je finissais par détruire en faisant plein de bruits d'explosion. C'était ça tous les week-ends, tous les mercredi après-midi, et tous les soirs en rentrant de l'école. J'étais devenu complètement addict aux Lego.
+
+              Mais après toutes ces années, j'ai commencé à m'en lasser. Il me fallait plus de liberté et un univers plus grand que mon petit cabanon.
+
+
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
@@ -32,14 +28,11 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-2 lg:mr-2 mt-8 lg:mt-0">
             <p className=" text-white text-md sm:text-xl text-justify">
-              C'est comme ça que j'ai découvert le monde merveilleux de
-              Minecraft. Je pouvais créer et recréer tout ce que je voulais, je
-              restais scotcher devant mon écran toute la journée à chasser des
-              zombies et à faire des maisons dans les montagnes. Sauf
-              qu'évidemment, au bout de quelques années, c'était redevenu la
-              même chose. Des cubes partout à la place des briques, moi qui
-              construit et qui casse tout, et la quantité de choses possibles à
-              faire restait forcément limitée par le jeux lui même.
+              C'est comme ça que j'ai découvert le monde merveilleux de Minecraft. Je pouvais créer tout ce que je voulais. Je restais scotché devant mon écran toute la journée à chasser des zombies et à faire des maisons dans les montagnes.
+
+              Sauf qu'évidemment, c'était redevenu la même chose. Des cubes partout à la place des briques, moi qui construis et qui casse tout, et la quantité de choses possibles à faire restait forcément limitée par le jeu lui-même.
+
+              
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
@@ -53,16 +46,9 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
             <p className=" text-white text-md sm:text-xl text-justify">
-              Un jour, mon Père a acheté des cartes Arduino. C'est des petits
-              microcontrôleur électroniques que l'on peux programmer en C ou
-              C++, et lier ça avec des petits moteurs, des leds et des boutons.
-              Ce qui permet de créer presque n'importe quel système électronique
-              que l'on souhaite. Je me suis beaucoup amusé avec ça et je me
-              débrouillais plutot pas mal. J'avais même commencé a faire ma
-              propre voiture radiocommandée en LEGO, controlée à distance par
-              des Arduino. Mais je m'en suis petit à petit désintéressé a cause
-              de mes cours et des études. Je n'avais le temps d'y jouer que
-              pendant les vacances, et je suis doucement passé à autre chose.
+            Un jour, mon Père a acheté des cartes Arduino. Ce sont des petits microcontrôleurs que l'on peut programmer et lier avec des moteurs, des boutons et à peu près n'importe quoi d'autre ce qui peut se connecter avec des câbles. 
+Je me suis beaucoup amusé avec, et je me débrouillais plutôt bien. J'avais même commencé à faire ma propre voiture télécommandée. Mais je m'en suis désintéressé par manque de temps à cause de mes cours et de mes études.
+
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
