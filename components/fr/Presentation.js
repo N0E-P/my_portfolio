@@ -58,6 +58,21 @@ Je me suis beaucoup amusé avec, et je me débrouillais plutôt bien. J'avais m�
                 //height="3072px"
                 alt="/"
               />
+              <a
+
+              href="https://www.youtube.com/watch?v=nb471gm5Xeg"
+
+              className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
+
+
+              >   <AiFillYoutube size={50} />
+
+
+                <p className="px-3 py-3 ">Vidéo du robot de ma Soeur</p>
+
+              </a>
+
+              
             </div>
           </div>
         </div>

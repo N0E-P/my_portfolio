@@ -1,36 +1,3 @@
-"Mes compétences de développeur.",
-mettre un adjectif pour montrer que je suis fort, mais sans m'auto sucer
-
----
-
----
-
-<a
-href="https://www.youtube.com/watch?v=nb471gm5Xeg"
-className="rounded-xl flex p-2 cursor-pointer hover:text-blue-700"
-
->   <AiFillYoutube size={50} />
-
-  <p className="px-3 py-3 ">Vidéo du robot de ma Soeur</p>
-</a>
-
----
-
----
-
-# C'est cool de créer des trucs
-
-Depuis tout petit, j'ai toujours aimé construire.
-
-J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à construire des voitures et des maisons que je finissais par faire détruire en faisant plein de bruits d'explosion avec ma bouche.
-C'était ça tout le temps : tout les week ends, tout les mercredi après midi, et tout les soirs en rentrant de l'école. J'étais devenu completement addict aux Lego.
-Malgré tout, après toutes ces années, j'ai commençé a me lasser de jouer avec ces petites briques. Il me fallait plus de liberté, plus de possibilités et un univers plus grand que juste mon petit cabanon.
-
-C'est comme ça que j'ai découvert le monde merveilleux de Minecraft. Je pouvais créer et recréer tout ce que je voulais, je restais scotcher devant mon écran toute la journée à chasser des zombies et à faire des maisons dans les montagnes.
-Sauf qu'évidemment, au bout de quelques années, c'était redevenu la même chose. Des cubes partout à la place des briques, moi qui construit et qui casse tout, et la quantité de choses possibles à faire restait forcément limitée par le jeux lui même.
-
-Un jour, mon Père a acheté des cartes Arduino. C'est des petits microcontrôleur électroniques que l'on peux programmer en C ou C++, et lier ça avec des petits moteurs, des leds et des boutons. Ce qui permet de créer presque n'importe quel système électronique que l'on souhaite. Je me suis beaucoup amusé avec ça et je me débrouillais plutot pas mal. J'avais même commencé a faire ma propre voiture radiocommandée en LEGO, controlée à distance par des Arduino. Mais je m'en suis petit à petit désintéressé a cause de mes cours et des études. Je n'avais le temps d'y jouer que pendant les vacances, et je suis doucement passé à autre chose.
-
 Fin juillet 2021, alors que je m'ennuyais profondément en plein millieux de mes vacances :
 
 J'ai eu envie de commencer à m'intéresser à la blockchain. (Ce qui jusque là, est une très bonne idée.)
