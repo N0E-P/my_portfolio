@@ -1,32 +1,3 @@
-Fin juillet 2021, alors que je m'ennuyais profondément en plein millieux de mes vacances :
-
-J'ai eu envie de commencer à m'intéresser à la blockchain. (Ce qui jusque là, est une très bonne idée.)
-Mais, en passant par l'univers terrible des shitcoins... 🤦‍♂️
-
-Donc pour faire très simple, on m'avait fait la promotion d'une crypto-monaie qui avait déjà fait × 50. Et n'y connaissant rien, j'ai eu la bonne idée d'en acheter alors qu'elle était au plus haut, pensant que ça allait encore monter.
-Evidemment, tout s'est écroulé car il n'y avait aucun fondement derrière, c'était juste un pump and dump.
-Et c'est comme ça que j'ai réussi à perdre tout mon argent d'un coup sans rien voir venir ! Bravo Noé !
-
-Heureusement, j'ai eu la chance de ne pas avoir abandonné et de m'y être ré-intéressé 3 mois plus tard, début novembre. Et à partir de là, j'ai vraiment commencé à comprendre l'écosystème et tout l'aspect technologique derrière la blockchain.
-
-Mais bien sur, ça aurait été trop simple si ça n'avait pas été pile au moment du début du bearmarket...
-Donc malgré que j'ai appris énormément de choses sur la defi, vu que tout étaient en train de redescendre, j'ai réussi à perdre encore plus d'argent ! (Sachant que j'étais étudiant, et que tout venais de mes économies bien sur.)
-
-Bref, tout ça m'a fais comprendre que même si j'adorais l'univers de la defi, je n'étais pas forcément fait pour l'investissement. Et qu'il allait faloir trouver un autre moyen de gagner de l'argent...
-
-PS : Je possède toujours mon million de Checoin, et j'en suis fier
-
-Bien plus tard, aux alentours de mi-février 2022, ma grande soeur avait un projet en arduino a faire pour son école. Et j’ai proposé de l'aider un peu à avancer dessus, vu que j'avais déjà un peu d'experience là dedans.
-En fait, je me suis vite rendu compte que ça me plaisais vachement bien de programmer quand même ! Et que je me debrouillais pas trop mal en plus !
-Même si je n'ai pas énormément aidé à l'avancée du projet, j'ai senti que ça avait été un déclic.
-
-En parrallèle, j’avais déjà entendu parler du métier de développeur solidity. Alors je me suis rendu compte que ça mellait pile 2 choses que j’aimais particulièrement bien : La programmation, et la blockchain.  
-Donc je me suis dit que je tenais quelque chose qui pourrait être très intéressant, alors pourquoi pas aller apprendre à programmer en solidity...
-
----
-
----
-
 # Projet #1 : Le tuto le plus long de ma vie
 
 Fin février 2022, après m'être rendu compte que j'avais du potentiel en programmation, j'ai décidé de me lancer dans l'apprentissage du Solidity. Le language permettant de créer des smart contracts, afin d'interragir avec la blockchain.
