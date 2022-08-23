@@ -1,24 +1,3 @@
-# Projet #1 : Le tuto le plus long de ma vie
-
-Fin février 2022, après m'être rendu compte que j'avais du potentiel en programmation, j'ai décidé de me lancer dans l'apprentissage du Solidity. Le language permettant de créer des smart contracts, afin d'interragir avec la blockchain.
-
-Le petit problème, c'est que je ne me suis pas juste lancé dans un petit tutoriel comme ça... Mais dans une foutu formation complète de 16 HEURES !!!
-Honnêtement, je ne sais pas ce qui c'est passé dans ma tête quand mon cerveau c'est dit : "Oue oue ça va le faire, pas de soucis 👌"
-Je ne savais vraiment pas dans quoi je m'embarquais, mais je savais qu'il fallait que je le fasse.
-
-Et c'est comme ça que j'ai passé 2 mois à réfléchir, comprendre, résoudre des problèmes et à recopier tout ce que Patrick montrait.
-Patrick, c'est le formateur, celui qui explique et montre tout ce qu'il y a à faire. Et honnêtement, j'ai rarement vu quelqu'un expliquer aussi bien et aussi facilement les choses.
-Je le remercie infiniment d'avoir fait ce cours, et je le remercie aussi pour tout les autres qu'il a fait, car ça ne va pas être la dernière fois que je vais parler de lui...
-
-J'ai finalement réussi à suivre ces 16 Heures interminables de cours. Et j'en ai beauuuucoup appris !
-On a commencé en écrivant 3 lignes de code pour s'amuser sur Remix, et on a fini par construire toute une Dapp entièrement fonctionnelle. Tout ça en passant évidemment par apprendre à créer nimporte quel smart contracts, à faire des tests et à utiliser Python pour créer des projets entiers plus facilement.
-
-Après ça, il était maintenant venu temps pour moi d'essayer de me mettre à faire mon vrai propre projet !
-
----
-
----
-
 # Projet #2 : J'ai fais des NFTs complètement débiles
 
 Attention, je préviens qu'aucune critique sur mon humour nul, ni mon talent d'artiste ratté n'est autorisée !
