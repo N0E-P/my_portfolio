@@ -17,8 +17,8 @@ export default function Contact() {
             height="1500px"
             alt="/"
           />
-          <h2 className="py-4 text-center">Contactez-moi !</h2>
-          <p className="py-2 text-gray-700">
+          <h2 className="py-4 text-center mt-2">Contactez-moi !</h2>
+          <p className="py-2 text-gray-700 mb-3">
             Je suis pret a travailler et a apprendre en entreprise pour
             développer mes connaissances et (apporter qqch a l’entreprise / etre
             benefique); résumé de tout ce que je sais faire en gros coder des

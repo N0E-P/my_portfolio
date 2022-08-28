@@ -9,11 +9,11 @@ export default function Projects() {
           Projet #6 : Portfolio
         </h1>
         <div className="lg:grid grid-cols-3 p-3 mt-5">
-          <div className="col-span-2">
-            <p className="py-2 text-gray-700">TEXT</p>
+          <div className="col-span-2  lg:mr-6">
+            <p className="py-2 text-gray-700 sm:text-xl text-justify">TEXT</p>
           </div>
-          <div className="p-8">
-            <div className="w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-3 hover:scale-105 ease-in duration-300">
+          <div className="sm:p-4">
+            <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-3 hover:scale-105 ease-in duration-300">
               <Image
                 src={"/../public/projets/portfolio.png"}
                 width="1891px"
