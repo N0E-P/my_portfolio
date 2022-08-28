@@ -14,16 +14,16 @@ export default function Projects() {
           </div>
           <div className="sm:p-4">
             <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-              <iframe
-                className="rounded-xl"
-                src="https://www.youtube.com/embed/4BGRAA7IIhA"
-                frameborder="0"
-                allow="autoplay; encrypted-media"
-                allowfullscreen
-                title="video"
-                width="200px"
-                height="114px"
-              />
+              <div class="aspect-w-16 aspect-h-9">
+                <iframe
+                  className="rounded-xl"
+                  src="https://www.youtube.com/embed/4BGRAA7IIhA"
+                  frameborder="0"
+                  allow="autoplay; encrypted-media; picture-in-picture"
+                  allowfullscreen
+                  title="video"
+                />
+              </div>
               <a
                 href="https://github.com/N0E-P/RC_Car"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
