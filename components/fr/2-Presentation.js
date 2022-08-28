@@ -19,12 +19,12 @@ export default function Presentation() {
               fallait plus de liberté et un univers plus grand que mon petit
               cabanon.
             </p>
-            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
+            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
               <Image
                 className="rounded-xl"
                 src={"/../public/me/lego.jpg"}
-                width="2304px"
-                height="3072px"
+                width="2292px"
+                height="2788px"
                 alt="/"
               />
             </div>
@@ -63,19 +63,19 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
                 className="rounded-xl"
-                //src={"/../public/me/legoo.jpg"}
-                //width="2304px"
-                //height="3072px"
+                src={"/../public/me/arduino.png"}
+                width="900px"
+                height="675px"
                 alt="/"
               />
             </div>
           </div>
         </div>
-        <p className="mx-10 my-4 mt-10 text-justify p-4 text-sm sm:text-xl">
+        <div className="mx-10 my-2 mt-10 text-justify p-4 text-sm sm:text-xl">
           Fin juillet 2021, j'ai commencé à m'intéresser aux crypto-monnaies.
-          (Ce qui jusque-là, est une très bonne idée.) Le problème, c'est que
-          j'ai fais n'importe quoi… 🤦‍♂️
-        </p>
+          (Ce qui jusque-là, est une très bonne idée.){" "}
+          <div>Le problème, c'est que j'ai fais n'importe quoi… 🤦‍♂️</div>
+        </div>
         <p className="mx-10  my-2 text-justify p-4 text-sm sm:text-xl">
           Pour faire simple, on m'a fait la promotion d'une petite
           crypto-monnaie qui avait déjà fait × 50. Et n'y connaissant rien, je

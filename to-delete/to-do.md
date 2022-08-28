@@ -6,9 +6,6 @@ Texte beaucoup plus cours
     Essayer de caler des ptites blagues et tout
     intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
 
-Faire adapter la taille des vidéos YT
-Ou mettre des images a la place, et les mettre en lien
-
 Video YT NFT detector
 
 revoir les tailles de textes

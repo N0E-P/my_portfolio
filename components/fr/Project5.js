@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { AiFillYoutube, AiOutlineGithub } from "react-icons/ai";
+import { AiOutlineGithub } from "react-icons/ai";
 import { BsBook } from "react-icons/bs";
 
 export default function Projects() {
@@ -25,7 +25,10 @@ export default function Projects() {
                   title="video"
                 />
               </div>
-              <div className=" my-2">
+              <a
+                href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
+                className=" my-2"
+              >
                 <Image
                   className="rounded-xl"
                   src={"/../public/projets/NFTs.png"}
@@ -33,7 +36,7 @@ export default function Projects() {
                   height="423px"
                   alt="/"
                 />
-              </div>
+              </a>
               <a
                 href="https://github.com/N0E-P/solidity-with-javascript-fcc-tutorial/"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
@@ -47,18 +50,6 @@ export default function Projects() {
               >
                 <BsBook size={50} />
                 <p className="px-3 py-3 ">Tout ce que j'ai appris</p>
-              </a>
-              <a
-                href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
-                className=" flex p-2 cursor-pointer hover:text-blue-700"
-              >
-                <Image
-                  src={"/../public/projets/nft-logo.png"}
-                  width="50px"
-                  height="50px"
-                  alt="/"
-                />
-                <p className="px-3 py-3 ">Mes NFTs</p>
               </a>
             </div>
           </div>

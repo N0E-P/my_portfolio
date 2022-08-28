@@ -15,13 +15,16 @@ export default function Projects() {
           </div>
           <div className="sm:p-4">
             <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-              <Image
-                className="rounded-xl"
-                src={"/../public/projets/NFTDetector.png"}
-                width="3000px"
-                height="2000px"
-                alt="/"
-              />
+              <div class="aspect-w-16 aspect-h-9">
+                <iframe
+                  className="rounded-xl"
+                  src="https://www.youtube.com/embed/-mkfKEfMSL4"
+                  frameborder="0"
+                  allow="autoplay; encrypted-media; picture-in-picture"
+                  allowfullscreen
+                  title="video"
+                />
+              </div>
               <a
                 href="https://github.com/N0E-P/NFT_detector"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"

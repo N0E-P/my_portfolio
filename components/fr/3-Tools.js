@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Tools() {
   return (
-    <div id="outils" className="w-full h-full p-2 items-center py-32">
+    <div id="tools" className="w-full h-full p-2 items-center py-32">
       <h1 className="py-10 text-center">Les outils que j'utilise :</h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8 ">
         <a

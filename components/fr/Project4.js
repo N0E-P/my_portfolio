@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { AiOutlineGithub } from "react-icons/ai";
 
 export default function Projects() {

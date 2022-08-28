@@ -1,5 +1,4 @@
-import Image from "next/image";
-import { AiFillYoutube, AiOutlineGithub } from "react-icons/ai";
+import { AiOutlineGithub } from "react-icons/ai";
 import { BsBook } from "react-icons/bs";
 
 export default function Project1() {

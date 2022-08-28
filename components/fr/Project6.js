@@ -6,7 +6,7 @@ export default function Projects() {
     <div className="w-full py-10 p-6 items-center mt-12 ">
       <div className="max-w-[1400px] m-auto gap-8 bg-green-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
         <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-          Projet #6 : Portfolio
+          Projet #6 : Mon magnifique portfolio
         </h1>
         <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2  lg:mr-6">
