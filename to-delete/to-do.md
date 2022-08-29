@@ -10,14 +10,12 @@ Video YT NFT detector
 
 revoir les tailles de textes en sm / md / lg / xl
 
-Acheter nom de domaine: noe-pecci.com
-
-    Versel : 20€ par ans | Mais direct sur la bonne plateforme | [https://vercel.com/domains?q=noe-pecci&limit=216]
-    NameCheap : 8.97€ par ans | [https://www.namecheap.com/domains/registration/results/?domain=noe-pecci.com]
-
-use Image or anything else to improve speed performance when loading
+pouvoir voir mon site sur pc
 
 # Une fois que tout ce qui est au dessus est fait
+
+sécuriser mon site et mes informations perso
+regarder toutes les pages de cloudfare
 
 tout retester et tout revérifier
 
@@ -30,7 +28,14 @@ Faire tout renvoyer vers mon site
     github - telegram - linkedin
     faire rapide présentation et profil clean sur les sites là
 
-# Me promouvoir partout
+Me promouvoir partout
+
+# Plus tard :
+
+improve speed performance when loading
+use Image
+
+addresse Email : contact@noe-pecci.com
 
 Version EN
 
