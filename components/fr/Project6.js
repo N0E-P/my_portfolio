@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { AiOutlineGithub } from "react-icons/ai";
 
 export default function Projects() {
@@ -14,8 +13,8 @@ export default function Projects() {
           </div>
           <div className="sm:p-4">
             <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-3 hover:scale-105 ease-in duration-300">
-              <Image
-                src={"/../public/projets/portfolio.png"}
+              <img
+                src={"projets/portfolio.png"}
                 width="1891px"
                 height="973px"
                 alt="/"

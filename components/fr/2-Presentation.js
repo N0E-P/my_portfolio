@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Presentation() {
   return (
     <div id="presentation" className="w-full p-4 items-center">
@@ -22,7 +20,7 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
               <img
                 className="rounded-xl"
-                src="me/lego.JPG"
+                src="me/lego.jpg"
                 width="2292px"
                 height="2788px"
                 alt="/"
@@ -41,9 +39,9 @@ export default function Presentation() {
               lui-même.
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
-              <Image
+              <img
                 className="rounded-xl"
-                src={"/../public/me/minecraft.jpg"}
+                src={"me/minecraft.jpg"}
                 width="3072px"
                 height="2304px"
                 alt="/"
@@ -61,9 +59,9 @@ export default function Presentation() {
               par manque de temps à cause de mes cours et de mes études.
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
-              <Image
+              <img
                 className="rounded-xl"
-                src={"/../public/me/arduino.png"}
+                src={"me/arduino.png"}
                 width="900px"
                 height="675px"
                 alt="/"

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
 
@@ -10,9 +9,9 @@ export default function Contact() {
           id="contact"
           className="bg-blue-200 w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-2xl items-center justify-center p-5 grid grid-cols-1 "
         >
-          <Image
+          <img
             className="rounded-3xl"
-            src={"/../public/me/profile-photo.jpg"}
+            src={"me/profile-photo.jpg"}
             width="1500px"
             height="1500px"
             alt="/"

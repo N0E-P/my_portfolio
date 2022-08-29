@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { AiOutlineGithub } from "react-icons/ai";
 import { SiDevpost, SiChainlink } from "react-icons/si";
 

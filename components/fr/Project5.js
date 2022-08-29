@@ -29,9 +29,9 @@ export default function Projects() {
                 href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
                 className=" my-2"
               >
-                <Image
+                <img
                   className="rounded-xl"
-                  src={"/../public/projets/NFTs.png"}
+                  src={"projets/NFTs.png"}
                   width="1462px"
                   height="423px"
                   alt="/"

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { AiFillYoutube, AiOutlineGithub } from "react-icons/ai";
 
 export default function Projects() {
@@ -42,8 +41,8 @@ export default function Projects() {
                 href="https://testnets.opensea.io/collection/kevins-holidays"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
               >
-                <Image
-                  src={"/../public/projets/opensea.png"}
+                <img
+                  src={"projets/opensea.png"}
                   width="50px"
                   height="50px"
                   alt="/"
@@ -54,8 +53,8 @@ export default function Projects() {
                 href="https://superb-zuccutto-9f46e1.netlify.app/"
                 className=" flex p-2 cursor-pointer hover:text-blue-700"
               >
-                <Image
-                  src={"/../public/projets/kevin-logo.png"}
+                <img
+                  src={"projets/kevin-logo.png"}
                   width="50px"
                   height="50px"
                   alt="/"
