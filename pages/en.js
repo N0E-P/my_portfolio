@@ -19,11 +19,11 @@ export default function Home() {
         </div>
       </Link>
       <img
-        className="rounded-xl"
-        src={"me/lego.jpg"}
-        width="2292px"
-        height="2788px"
-        alt="/"
+        className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer ml-5"
+        src={"flags/fr.png"}
+        alt="Français"
+        width="100"
+        height="75"
       />
     </div>
   );

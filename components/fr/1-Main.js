@@ -68,7 +68,7 @@ export default function Main() {
               alt="English"
               width="110"
               height="75"
-            ></img>
+            />
           </Link>
         </div>
       </div>
