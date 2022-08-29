@@ -12,8 +12,8 @@ export default function Contact() {
           <img
             className="rounded-3xl"
             src={"me/profile-photo.jpg"}
-            width="1500px"
-            height="1500px"
+            width="500px"
+            height="500px"
             alt="/"
           />
           <h2 className="py-4 text-center mt-2">Contactez-moi !</h2>
