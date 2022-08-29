@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Lego from "./../../public/me/lego.jpg";
+import Minecraft from "./../../public/me/minecraft.jpg";
 
 export default function Presentation() {
   return (
@@ -22,7 +24,7 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
               <Image
                 className="rounded-xl"
-                src={"/../public/me/lego.jpg"}
+                src={Lego}
                 width="2292px"
                 height="2788px"
                 alt="/"
@@ -43,7 +45,7 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <Image
                 className="rounded-xl"
-                src={"/../public/me/minecraft.jpg"}
+                src={Minecraft}
                 width="3072px"
                 height="2304px"
                 alt="/"

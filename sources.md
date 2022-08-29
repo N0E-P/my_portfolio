@@ -1,6 +1,9 @@
 Faire un site avec nextjs et tailwindCSS
 [https://tailwindcss.com/docs/guides/nextjs]
 
+Accéder aux réglages du site web sur vercel :
+[https://vercel.com/n0e-p/noe-pecci]
+
 Le fréro qui fait le portfolio :
 [https://www.youtube.com/watch?v=CMx51wpd7g4]
 [https://github.com/fireclint/portfolio-nextjs]
@@ -36,3 +39,8 @@ embed vidéos youtube responsive :
 
 deploy a next-js app with vercel :
 [https://www.youtube.com/watch?v=Vcm1anCcuU0]
+
+héberger :
+[https://www.hostgator.com/]
+[https://www.hostinger.fr/]
+[https://www.youtube.com/watch?v=_bPSWABggX8]

@@ -10,6 +10,8 @@ Video YT NFT detector
 
 revoir les tailles de textes en sm / md / lg / xl
 
+Acheter nom de domaine: noe-pecci.com
+
 # Une fois que tout ce qui est au dessus est fait
 
 tout retester et tout revérifier
@@ -17,16 +19,6 @@ tout retester et tout revérifier
     orthographe
     boutons / liens
     affichage sur tel / tablette / pc
-
-Héberger le site
-
-    noe-pecci.com
-    acheter nom de domaine
-    héberger
-    https://www.hostgator.com/
-    https://www.hostinger.fr/
-    https://www.youtube.com/watch?v=_bPSWABggX8
-    https://www.youtube.com/watch?v=Vcm1anCcuU0
 
 Faire tout renvoyer vers mon site
 
