@@ -8,7 +8,7 @@ Texte beaucoup plus cours
 
 Video YT NFT detector
 
-revoir les tailles de textes
+revoir les tailles de textes en sm / md / lg / xl
 
 # Une fois que tout ce qui est au dessus est fait
 
@@ -26,6 +26,7 @@ Héberger le site
     https://www.hostgator.com/
     https://www.hostinger.fr/
     https://www.youtube.com/watch?v=_bPSWABggX8
+    https://www.youtube.com/watch?v=Vcm1anCcuU0
 
 Faire tout renvoyer vers mon site
 

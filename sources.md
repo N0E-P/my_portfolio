@@ -5,6 +5,9 @@ Le fréro qui fait le portfolio :
 [https://www.youtube.com/watch?v=CMx51wpd7g4]
 [https://github.com/fireclint/portfolio-nextjs]
 
+Le portfolio du gars :
+[https://portfolio-next-odu7v1918-fireclint.vercel.app/]
+
 Icons de react :
 [https://react-icons.github.io/react-icons]
 
@@ -30,3 +33,6 @@ animations :
 
 embed vidéos youtube responsive :
 [https://www.themes.dev/blog/easily-embed-responsive-youtube-video-with-tailwind-css/]
+
+deploy a next-js app with vercel :
+[https://www.youtube.com/watch?v=Vcm1anCcuU0]
