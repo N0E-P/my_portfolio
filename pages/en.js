@@ -20,7 +20,7 @@ export default function Home() {
       </Link>
       <img
         className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer ml-5"
-        src={"flags/fr.png"}
+        src={"me/lego.JPG"}
         alt="Français"
         width="100"
         height="75"
