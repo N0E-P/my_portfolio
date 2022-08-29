@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import { AiOutlineLink } from "react-icons/ai";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -18,6 +19,13 @@ export default function Home() {
           <p>Go back to French version</p>
         </div>
       </Link>
+      <Image
+        className="rounded-xl"
+        src="/../public/me/lego.jpg"
+        width="2292px"
+        height="2788px"
+        alt="/"
+      />
     </div>
   );
 }

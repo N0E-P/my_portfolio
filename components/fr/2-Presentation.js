@@ -22,7 +22,7 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
               <Image
                 className="rounded-xl"
-                src={"/lego.jpg"}
+                src="/../public/me/lego.JPG"
                 width="2292px"
                 height="2788px"
                 alt="/"
