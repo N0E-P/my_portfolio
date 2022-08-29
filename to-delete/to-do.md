@@ -10,6 +10,8 @@ Video YT NFT detector
 
 revoir les tailles de textes en sm / md / lg / xl
 
+Faire s'afficher les images en ligne
+
 Acheter nom de domaine: noe-pecci.com
 
 # Une fois que tout ce qui est au dessus est fait
