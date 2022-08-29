@@ -20,7 +20,7 @@ export default function Home() {
       </Link>
       <img
         className="rounded-xl"
-        src={"/me/lego.jpg"}
+        src={"me/lego.jpg"}
         width="2292px"
         height="2788px"
         alt="/"
