@@ -19,6 +19,8 @@ Acheter nom de domaine: noe-pecci.com
 
 # Une fois que tout ce qui est au dessus est fait
 
+use Image or anything else to improve speed performance when loading
+
 tout retester et tout revérifier
 
     orthographe
