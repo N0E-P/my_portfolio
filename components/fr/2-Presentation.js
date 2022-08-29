@@ -20,7 +20,7 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
               <img
                 className="rounded-xl"
-                src="me/lego.jpg"
+                src="me/lego.JPG"
                 width="2292px"
                 height="2788px"
                 alt="/"
@@ -41,7 +41,7 @@ export default function Presentation() {
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <img
                 className="rounded-xl"
-                src={"me/minecraft.jpg"}
+                src={"me/minecraft.JPG"}
                 width="3072px"
                 height="2304px"
                 alt="/"
