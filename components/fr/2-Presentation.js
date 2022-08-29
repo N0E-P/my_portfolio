@@ -20,9 +20,9 @@ export default function Presentation() {
               cabanon.
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
-              <Image
+              <img
                 className="rounded-xl"
-                src="/../public/me/lego.JPG"
+                src="me/lego.JPG"
                 width="2292px"
                 height="2788px"
                 alt="/"
