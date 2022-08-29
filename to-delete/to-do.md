@@ -9,8 +9,7 @@ Texte beaucoup plus cours
 Video YT NFT detector
 
 revoir les tailles de textes en sm / md / lg / xl
-
-pouvoir voir mon site sur pc
+Texte après présentation est a trop de mx sur les cotés en sm
 
 # Une fois que tout ce qui est au dessus est fait
 
@@ -36,6 +35,8 @@ improve speed performance when loading
 use Image
 
 addresse Email : contact@noe-pecci.com
+
+Photo de profil Youtube
 
 Version EN
 
