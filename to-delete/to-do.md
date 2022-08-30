@@ -9,7 +9,8 @@ Texte beaucoup plus cours
 Video YT NFT detector
 
 revoir les tailles de textes en sm / md / lg / xl
-Texte après présentation est a trop de mx sur les cotés en sm
+
+Mettre tout les textes direct sur le site
 
 # Une fois que tout ce qui est au dessus est fait
 
@@ -43,5 +44,4 @@ Version EN
     fonctionnalités / liens / photos
     texte
     revérifier tout l'orthographe
-    videos et photos EN
     mettre index.js en anglais et français en /fr
