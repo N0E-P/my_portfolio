@@ -3,7 +3,7 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="text-center mb-12 mt-5">
-          J'ai toujours aimé construire des choses
+          J'ai toujours aimé construire
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
