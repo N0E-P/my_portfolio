@@ -10,7 +10,27 @@ export default function Projects() {
         </h1>
         <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2  lg:mr-6">
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">TEXT</p>
+            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+NFT Detector
+
+1er Mai : vacances car plus de cours, donc beaucoup plus simple pour pouvoir travailler sur solidity, je m’y suis mis a plein temps
+
+bot discord + dapp, avec moralis
+
+commencé le 10 mai
+
+
+</p>
+<p className="py-2 text-gray-700 sm:text-xl text-justify">
+
+Lien devpost pour le hackaton chailink et nft detector
+
+24 mai encore avec discord.py changé pour discord.js
+
+Fin du concours lundi 6 juin, mais j'étais pas pret, j'avais pas fini Je suis resté éveillé toute la nuit jusqu'a 7H le lendemain matin pour travailler dessus
+
+
+</p>
           </div>
           <div className="sm:p-4">
             <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
