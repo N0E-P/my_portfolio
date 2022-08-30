@@ -5,13 +5,13 @@ import Link from "next/link";
 
 export default function Main() {
   const [changingText, changeText] = useState(
-    "Mes aventures tourmentées dans la blockchain."
+    "Mes aventures tourmentées dans les cryptos."
   );
   var words = [
-    "La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport.",
+    "La raison pour laquelle je deviens développeur alors que je suis en fac de sport.", // ...je me retrouve...
     "Les projets que j'ai conçu, avec toutes les galères que j'ai traversé.",
-    "Toutes mes compétences de développeur.",
-    "Mes aventures tourmentées dans la blockchain.",
+    "Toutes mes compétences en programmation.",
+    "Mes aventures tourmentées dans les cryptos.",
   ];
   var number = 0;
 
@@ -76,7 +76,7 @@ export default function Main() {
         <h1 className="py-4 text-gray-800">
           Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
         </h1>
-        <h1 className="py-3 text-gray-800 ">Développeur junior en Solidity</h1>
+        <h1 className="py-3 text-gray-800 ">Développeur junior en Solidity & Javascript</h1>
         <div className=" py-4 text-lg ">
           <p className="py-2 text-gray-700 sm:text-xl md:text-2xl">
             J’ai fais ce portfolio pour présenter :
