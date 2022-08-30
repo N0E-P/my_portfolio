@@ -9,6 +9,7 @@ J'ai acheté des crypto qui étaient des blagues, j'ai joué a l'apprentis trade
 
 Ma mission pour apprendre a devenir développeur
 = objectif
+montrer que je veux etre developpeur à tout prix
 
 # Regles a suivre :
 
