@@ -9,7 +9,16 @@ export default function Projects() {
         </h1>
         <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2  lg:mr-6">
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">TEXT</p>
+            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+
+Envie d'apprendre un peu plus a faire des sites web, car très utile pour les dapps. Et permet de faire un bon moyen de me présenter, de montrer les projets que j'ai accomplis, et potentiellement pour me faire embaucher Suivi un tuto Youtube très intéressant. J'ai trouvé que c'était beaucoup plus simple que ce que je pensais. Je m'imaginais y passer
+</p> <p className="py-2 text-gray-700 sm:text-xl text-justify">
+Je me suis surpris a adorer raconter ma vie et à travailler le texte pour essayer de faire en sorte que ça ne soit pas trop insupportable à lire
+
+</p> <p className="py-2 text-gray-700 sm:text-xl text-justify">
+fini [a telle date] Mais je sais que je continuerais de le mettre a jour au fur et a mesure des projets sur lequels je travaillerais
+
+</p>
           </div>
           <div className="sm:p-4">
             <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-3 hover:scale-105 ease-in duration-300">
