@@ -10,16 +10,17 @@ export default function Contact() {
           className="bg-blue-200 w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-2xl items-center justify-center p-5 grid grid-cols-1 "
         >
           <img
-            className="rounded-3xl"
+            className="rounded-3xl hover:scale-105 ease-in duration-300"
             src={"me/profile-photo.jpg"}
             width="500px"
             height="500px"
             alt="/"
           />
-          <h2 className="py-4 text-center mt-2">Contactez-moi !</h2>
+          <h2 className="py-4 text-center mt-2 ">Contactez-moi !</h2>
           <p className="py-2 text-gray-700 mb-3">
-            Je suis pret a travailler et a apprendre en entreprise pour
-            développer mes connaissances et (apporter qqch a l’entreprise / etre
+            conclusion : maintenant j'ai appris a faire beaucoup de choses Je
+            suis pret a travailler et a apprendre en entreprise pour développer
+            mes connaissances et (apporter qqch a l’entreprise / etre
             benefique); résumé de tout ce que je sais faire en gros coder des
             smart contract, faire des dapps… = embauchez moi. Je suis disponible
             pour une simple mission en freelance ou pour du temps plein.

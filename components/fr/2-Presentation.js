@@ -2,16 +2,26 @@ export default function Presentation() {
   return (
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
-        <h1 className="text-center mb-12 mt-5">
-          J'ai toujours aimé construire
+        <h1 className="text-center mt-5">
+          Je n'ai <span className="underline underline-offset-4">jamais</span>{" "}
+          été bon pour construire.
+        </h1>
+        <h1 className="text-center mb-12 mt-6">
+          Mais j'ai{" "}
+          <span className="underline underline-offset-4">toujours</span> adoré
+          le faire.
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
             <p className=" text-white text-md sm:text-xl text-justify">
-              J'ai commencé avec les Lego. Je restais enfermé dans mon cabanon à
-              bricoler des voitures et des maisons que je finissais par détruire
-              en faisant plein de bruits d'explosion. C'était ça tout le temps, 
-              j'étais devenu complètement addict aux Lego.  
+              J'ai commencé avec les Lego. Je restais tout le temps enfermé dans
+              mon cabanon à bricoler des voitures et des maisons que je
+              finissais par faire exploser.
+            </p>
+            <p className="mt-5 text-white text-md sm:text-xl text-justify">
+              Mon rêve était de travailler chez eux. Mais même si je
+              m'améliorais doucement, je n'aurais jamais eu la créativité
+              nécessaire pour pouvoir le faire.
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
               <img
@@ -25,10 +35,14 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-2 lg:mr-2 mt-8 lg:mt-0">
             <p className=" text-white text-md sm:text-xl text-justify">
-              Par la suite, j'ai découvert le monde merveilleux de
-              Minecraft. Je pouvais créer tout ce que je voulais. Je restais
-              scotché devant mon écran toute la journée à chasser des zombies et
-              à faire des maisons dans les montagnes. 
+              Plus tard, j'ai découvert Minecraft. C'était tout un nouvel
+              univers de possibilités et de créations qui venait de s'ouvrir.
+              J'y ai passé des mois et des mois sur ce jeux.
+            </p>
+            <p className="mt-5 text-white text-md sm:text-xl text-justify">
+              J'ai construit des maisons, des châteaux, des fermes, des manoirs
+              et des tonnes d'autres choses dessus. Ça à toujours été mon jeux
+              vidéo préféré.
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <img
@@ -42,11 +56,14 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
             <p className=" text-white text-md sm:text-xl text-justify">
-              Un jour, mon Père a acheté des cartes Arduino. Ce sont des petits
-              microcontrôleurs que l'on peut programmer et lier avec des
-              moteurs, des boutons et à peu près n'importe quoi. Je me suis beaucoup amusé avec,
-              j'avais même commencé à faire
-              ma propre voiture télécommandée.
+              Un jour, mon Père a acheté des Arduino. Ce sont des petites cartes
+              que l'on peut programmer et lier avec tout et n'importe quoi. Je
+              me suis beaucoup amusé avec.
+            </p>
+            <p className="mt-5 text-white text-md sm:text-xl text-justify">
+              J'avais l'impression d'être un ingénieur incroyable, alors que je
+              faisais que des copier coller du code donné dans le guide livré
+              avec.
             </p>
             <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
               <img
