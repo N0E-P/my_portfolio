@@ -9,7 +9,22 @@ export default function Projects() {
         </h1>
         <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2  lg:mr-6">
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">TEXT</p>
+            <p className="py-2 text-gray-700 sm:text-xl text-justify">Attention, je préviens qu'aucune critique sur mon humour nul, ni mon talent d'artiste ratté n'est autorisée ! (En vrai c'est un désastre mais ça m'a fait marré donc c'est pas grave.)
+
+Mi-avril,
+
+9 avril commencé
+</p>
+<p className="py-2 text-gray-700 sm:text-xl text-justify">
+15 Avril j’ai suivi la formation 1H pour lancer ses nfts, et j’ai fait ma propre collection mettre lien de ma vidéo qui la montre avec DAPP Créer les 2500 NFTs pour qu’ils s’affichent tous sur opensea Appris a personnaliser front end et back end sur un fork d’un projet déjà fait, et créer une collection d’Nfts en supperposant des images pour en créer autant que je veux, et a les envoyer (avec leur metadata) sur IPFS pour qu’elles soient le plus decentralisé possible. Par contre, j’ai toujours pas appris a dessiner. Donc il ne faut vraiment pas essayer m’engager en temps de designer, ça va être un désastre. Je ne suis bon qu’en programmation moi.
+
+dates avec mes videos yt dessus
+
+10 avril fini ?
+
+27 avril fini ? mais en meme temps fini le tuto de patrick a ce moment la ? Je crois que je me suis remis a taffer le 27 avril en fait, et que j'avais pas fini le tuto de patrick avant.
+
+</p>
           </div>
           <div className="sm:p-4">
             <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
