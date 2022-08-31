@@ -1,3 +1,5 @@
+Il est temps d'essayer de trouver du travail, et de montrer les choses que j'ai accompli
+
 .
 
 # Regles a suivre :
@@ -74,3 +76,7 @@ Version EN
     texte
     revérifier tout l'orthographe
     mettre index.js en anglais et français en /fr
+
+fetch API pour nombre de personnes qui ont fini le cours avec Patrick (holders NFTs)
+https://arbiscan.io/token/0x9e9a4e58ddc9483d241afc9a028e89bd9b9fa683
+https://www.youtube.com/watch?v=cuEtnrL9-H0
