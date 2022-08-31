@@ -10,8 +10,8 @@ export default function Projects() {
         <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2  lg:mr-6">
             <p className="py-2 text-red-500 sm:text-xl text-justify font-bold">
-              Attention, je préviens qu'aucune critique sur mon incroyable
-              talent d'artiste n'est autorisée !{" "}
+              Attention, aucune critique sur mon incroyable talent d'artiste
+              n'est autorisée !{" "}
               <span className="text-gray-700 italic font-normal">
                 (En vrai c'est un désastre mais ça m'a fait marré donc c'est pas
                 grave.)

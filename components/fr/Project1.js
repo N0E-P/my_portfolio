@@ -13,25 +13,18 @@ export default function Project1() {
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
               Fin février 2022, je me suis lancé dans l'apprentissage de
               Solidity. Le petit problème, c'est que je n'ai pas juste commencé
-              par un petit tutoriel comme ça... Mais par une énorme formation de{" "}
-              <span className="font-bold ">16 HEURES !!!</span>
+              par un petit tutoriel comme ça... Mais par une gigantesque
+              formation de <span className="font-bold ">16 HEURES !!!</span>
             </p>
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
               C'est comme ça que j'ai passé 2 mois à réfléchir, comprendre,
               résoudre des problèmes et recopier tout ce que Patrick, le
               formateur, montrait. J'ai finalement réussi à aller jusqu'au bout
-              du cours. Et j'en ai beaucoup appris !
+              du cours. Et j'en ai énormément appris.
             </p>
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
-              On a commencé en écrivant 3 lignes de code pour s'amuser sur
-              Remix, et on a fini par construire toute une Dapp entièrement
-              fonctionnelle. Tout ça en passant évidemment par apprendre à créer
-              n'importe quel smart contracts, à faire des tests et à utiliser
-              Python pour créer des projets plus facilement.
-            </p>
-            <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
-              Après ça, il était temps pour moi d'essayer de faire mon premier
-              projet !
+              Après ça, il était temps pour moi d'utiliser mes nouvelles
+              compétences et d'essayer de faire mon tout premier projet !
             </p>
           </div>
           <div className="sm:p-4">
