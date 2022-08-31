@@ -11,32 +11,27 @@ export default function Project1() {
         <div className="lg:grid grid-cols-3 p-3 mt-5">
           <div className="col-span-2  lg:mr-6">
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
-              Fin février 2022, j'ai décidé d'apprendre à programmer en
-              Solidity. Pour pouvoir créer des smart contracts et interagir avec
-              la blockchain.
-            </p>
-            <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
-              Le petit problème, c'est que je ne me suis pas juste lancé dans un
-              petit tutoriel comme ça... Mais dans une énorme formation de 16
-              HEURES !!! Je ne savais vraiment pas dans quoi je m'embarquais...
+              Fin février 2022, je me suis lancé dans l'apprentissage de
+              Solidity. Le petit problème, c'est que je n'ai pas juste commencé
+              par un petit tutoriel comme ça... Mais par une énorme formation de{" "}
+              <span className="font-bold ">16 HEURES !!!</span>
             </p>
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
               C'est comme ça que j'ai passé 2 mois à réfléchir, comprendre,
               résoudre des problèmes et recopier tout ce que Patrick, le
-              formateur, montrait.
+              formateur, montrait. J'ai finalement réussi à aller jusqu'au bout
+              du cours. Et j'en ai beaucoup appris !
             </p>
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
-              J'ai finalement réussi à suivre ces 16 heures interminables de
-              cours. Et j'en ai beaucoup appris ! On a commencé en écrivant 3
-              lignes de code pour s'amuser sur Remix, et on a fini par
-              construire toute une Dapp entièrement fonctionnelle. Tout ça en
-              passant évidemment par apprendre à créer n'importe quel smart
-              contracts, à faire des tests et à utiliser Python pour créer des
-              projets plus facilement.
+              On a commencé en écrivant 3 lignes de code pour s'amuser sur
+              Remix, et on a fini par construire toute une Dapp entièrement
+              fonctionnelle. Tout ça en passant évidemment par apprendre à créer
+              n'importe quel smart contracts, à faire des tests et à utiliser
+              Python pour créer des projets plus facilement.
             </p>
             <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
-              Après ça, il était temps pour moi d'essayer de me mettre à faire
-              mon propre projet !
+              Après ça, il était temps pour moi d'essayer de faire mon premier
+              projet !
             </p>
           </div>
           <div className="sm:p-4">

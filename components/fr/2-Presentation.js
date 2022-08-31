@@ -80,11 +80,9 @@ export default function Presentation() {
           Le 27 juillet 2021, j'ai eu le malheur de tomber{" "}
         </h2>
         <h2 className="text-center my-2">dans l'univers des crypto-monnaies</h2>
-        <p className="sm:mx-10 my-2 text-center pt-3 p-4 text-sm sm:text-xl">
+        <p className="sm:mx-10 my-2 text-center py-3 p-4 text-sm sm:text-xl">
           Normalement il n'y a pas de soucis, tout va bien. Mais le problème,
-          c'est que{" "}
-          <span className="font-bold underline">j'ai fais n'importe quoi</span>…
-          🤦‍♂️
+          c'est que j'ai fais n'importe quoi… 🤦‍♂️
         </p>
         <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
           J'ai acheté des cryptos qui n'avaient aucun sens, j'ai joué au trader
@@ -105,11 +103,11 @@ export default function Presentation() {
           j'ai continuer de rechercher un moyen d'en faire
         </h2>
         <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
-          C'est alors que vers mi-février 2022, j'ai aidé ma grande sœur à faire
+          C'est alors que vers mi-février 2022, j'ai aidé ma grande sœur à faire{" "}
           <span>
             <a
               href="https://www.youtube.com/watch?v=nb471gm5Xeg"
-              className="cursor-pointer text-blue-700"
+              className="cursor-pointer text-blue-700 underline"
             >
               un projet en Arduino
             </a>
@@ -119,8 +117,10 @@ export default function Presentation() {
         </p>
         <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
           Peu de temps avant, j’ai entendu parler du métier de développeur
-          Solidity. Alors, je me suis rendu compte que ça mêlait 2 choses que
-          j’aimais particulièrement bien : la programmation, et la blockchain.
+          Solidity. Le language de programmation pour pouvoir créer des smart
+          contracts et interagir avec la blockchain. Alors, je me suis rendu
+          compte que ça mêlait 2 choses que j’aimais particulièrement bien : la
+          programmation, et la blockchain.
         </p>
 
         <h2 className="text-center mt-14 my-2">
