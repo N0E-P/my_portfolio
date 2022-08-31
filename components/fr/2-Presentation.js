@@ -76,48 +76,59 @@ export default function Presentation() {
             </div>
           </div>
         </div>
-        <div className="sm:mx-10 my-2 mt-10 text-justify p-4 text-sm sm:text-xl">
-          Fin juillet 2021, j'ai commencé à m'intéresser aux crypto-monnaies.
-          (Ce qui jusque-là, est une très bonne idée.){" "}
-          <div>Le problème, c'est que j'ai fais n'importe quoi… 🤦‍♂️</div>
-        </div>
-        <p className="sm:mx-10  my-2 text-justify p-4 text-sm sm:text-xl">
-          Pour faire simple, on m'a fait la promotion d'une petite
-          crypto-monnaie qui avait déjà fait × 50. Et n'y connaissant rien, je
-          pensais qu'elle pouvait monter encore plus haut. Sauf que pas du tout,
-          elle s'est lamentablement écrasée parce c'était un pump and dump. Et
-          c'est comme ça que j'ai réussi à perdre tout mon argent sans rien voir
-          venir ! Bravo Noé !
+        <h2 className="text-center mt-32 my-2">
+          Le 27 juillet 2021, j'ai eu le malheur de tomber{" "}
+        </h2>
+        <h2 className="text-center my-2">dans l'univers des crypto-monnaies</h2>
+        <p className="sm:mx-10 my-2 text-center pt-3 p-4 text-sm sm:text-xl">
+          Normalement il n'y a pas de soucis, tout va bien. Mais le problème,
+          c'est que{" "}
+          <span className="font-bold underline">j'ai fais n'importe quoi</span>…
+          🤦‍♂️
         </p>
         <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
-          Heureusement, j'ai eu la chance de ne pas avoir abandonné et de m'y
-          être ré-intéressé 3 mois plus tard. Et à partir de là, j'ai vraiment
-          commencé à comprendre l'écosystème et tout l'aspect technologique
-          derrière la blockchain.
+          J'ai acheté des cryptos qui n'avaient aucun sens, j'ai joué au trader
+          alors que je n'y connaissais strictement rien, et j'ai perdu des
+          sommes pas possibles rien qu'en frais de transaction. Bref, j'ai
+          réussi à faire disparaitre tout mon argent sans rien voir venir !
         </p>
         <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
-          Plus tard, vers mi-février 2022, ma grande sœur avait un{" "}
+          Heureusement, j'ai eu la chance de ne pas avoir abandonné et je m'y
+          suis remis 3 mois plus tard. C'est à partir de là que j'ai vraiment
+          commencé à comprendre l'écosystème et à m'intéresser à tout l'aspect
+          technologique derrière la blockchain.
+        </p>
+        <h2 className="text-center mt-20 my-2">
+          Mais comme je n'ai pas gagné plus d'argent,
+        </h2>
+        <h2 className="text-center my-2 mb-4">
+          j'ai continuer de rechercher un moyen d'en faire
+        </h2>
+        <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
+          C'est alors que vers mi-février 2022, j'ai aidé ma grande sœur à faire
           <span>
             <a
               href="https://www.youtube.com/watch?v=nb471gm5Xeg"
               className="cursor-pointer text-blue-700"
             >
-              projet en Arduino
+              un projet en Arduino
             </a>
           </span>{" "}
-          a faire pour son école. Je lui ai proposé de l'aider à avancer dessus,
-          vu que j'avais déjà un peu d'expérience là dedans. Après quelques
-          jours, je me suis rendu compte que ça me plaisait vachement bien de
-          programmer quand même. Et que je ne me débrouillais pas trop mal en
-          plus ! Même si je n'ai pas énormément aidé à l'avancée du projet, j'ai
-          senti que ça m'a fait un déclic.
+          pour son école. Grace à ça, j'ai enfin compris que ça me plaisait
+          beaucoup de programmer, et que je me débrouillais assé bien en plus !
         </p>
         <p className="sm:mx-10 my-2 text-justify p-4 text-sm sm:text-xl">
-          En parallèle, j’ai entendu parler du métier de développeur solidity.
-          Alors, je me suis rendu compte que ça mêlait 2 choses que j’aimais
-          particulièrement bien : la programmation, et la blockchain.  Donc
-          pourquoi pas essayer d'apprendre à programmer en Solidity...
+          Peu de temps avant, j’ai entendu parler du métier de développeur
+          Solidity. Alors, je me suis rendu compte que ça mêlait 2 choses que
+          j’aimais particulièrement bien : la programmation, et la blockchain.
         </p>
+
+        <h2 className="text-center mt-14 my-2">
+          Une nouvelle mission était donc arrivée :
+        </h2>
+        <h2 className="text-center my-2 mb-32 underline">
+          Devenir développeur Solidity
+        </h2>
       </div>
     </div>
   );

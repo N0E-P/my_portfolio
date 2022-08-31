@@ -1,15 +1,6 @@
-Montrer que je suis nul
-Mais que je progresse
-Et que j'en ai envie / que j'aime ça
+Montrer que je suis nul | Mais que je progresse | Et que j'en ai envie / que j'aime ça
 
-Mettre un titre / une phrase principale en plus gros
-DATE, j'ai eu le malheur de tomber dans l'univers des crypto monaies
-Normalement, pas de soucis, mais le probleme, c'est que j'ai fais nimp
-J'ai acheté des crypto qui étaient des blagues, j'ai joué a l'apprentis trader alors que je n'avais jamais rien appris
-
-Ma mission pour apprendre a devenir développeur
-= objectif
-montrer que je veux etre developpeur à tout prix
+.
 
 # Regles a suivre :
 
@@ -36,7 +27,9 @@ Montrer au fur et a mesure du texte que je suis un bon développeur
 
 Juste montrer qu’on propose une solution, pas qu’on veut absolument vendre.
 
-# Une fois que tout ce qui est au dessus est fait
+.
+
+# Une fois que le texte est fait
 
 Video YT NFT detector
 
@@ -60,6 +53,8 @@ Faire tout renvoyer vers mon site
     faire rapide présentation et profil clean sur les sites là
 
 Me promouvoir partout
+
+.
 
 # Plus tard :
 
