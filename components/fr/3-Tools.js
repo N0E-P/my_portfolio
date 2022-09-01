@@ -166,13 +166,13 @@ export default function Tools() {
           <img src={"tools/nextjs.png"} width="100px" height="100px" alt="/" />
         </a>
         <a
-          href="https://mui.com/"
+          href="https://tailwindcss.com/"
           className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
         >
           <img
-            src={"tools/materialui.png"}
-            width="100px"
-            height="100px"
+            src={"tools/tailwindcss.png"}
+            width="130px"
+            height="80px"
             alt="/"
           />
         </a>

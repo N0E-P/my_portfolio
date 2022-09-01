@@ -3,8 +3,7 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="text-center mt-5">
-          Je n'ai <span className="underline underline-offset-4">jamais</span>{" "}
-          été bon pour construire.
+          Je n'ai jamais été bon pour construire.
         </h1>
         <h1 className="text-center mb-12 mt-6">
           Mais j'ai{" "}
@@ -23,7 +22,7 @@ export default function Presentation() {
               m'améliorais doucement, je n'aurais jamais eu la créativité
               nécessaire pour pouvoir le faire.
             </p>
-            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto ">
+            <div className="mt-6 max-w-[500px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto ">
               <img
                 className="rounded-xl"
                 src="me/lego.JPG"
@@ -44,7 +43,7 @@ export default function Presentation() {
               et des tonnes d'autres choses dessus. Ça à toujours été mon jeux
               vidéo préféré.
             </p>
-            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
+            <div className="mt-6 max-w-[500px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
                 className="rounded-xl"
                 src={"me/minecraft.JPG"}
@@ -65,7 +64,7 @@ export default function Presentation() {
               faisais que des copier coller du code donné dans le guide livré
               avec.
             </p>
-            <div className="hover:scale-105 ease-in duration-300 mt-6 w-full h-auto m-auto">
+            <div className="mt-6 max-w-[500px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
                 className="rounded-xl"
                 src={"me/arduino.png"}

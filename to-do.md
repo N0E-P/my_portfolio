@@ -1,4 +1,4 @@
-jamais vraiment\* pour le titre principal
+jamais vraiment - pour le titre principal
 
 Enlever des paragraphes sur telephone si c'est vraiment trop long
 Mais risque de manque qqch...
@@ -37,13 +37,9 @@ Juste montrer qu’on propose une solution, pas qu’on veut absolument vendre.
 
 # Une fois que le texte est fait
 
-mettre tailwind logo a la place de web3ui ou metamask ou github
-
-Video YT NFT detector
-
 revoir les tailles de textes en sm / md / lg / xl
 
-lever encadrement avec vidéos et images sur les cotés des projets. Et ne pas les faire rétrécir autant. faire en sorte qu'ils se mettent l'un a coté de l'autre qu'en XL. Sinon laisser l'un en dessous de l'autre
+Video YT NFT detector
 
 sécuriser mon site et mes informations perso
 regarder toutes les pages de cloudfare

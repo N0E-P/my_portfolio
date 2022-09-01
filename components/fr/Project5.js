@@ -8,8 +8,8 @@ export default function Projects() {
         <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
           Projet #5 : Patrick est de retour !
         </h1>
-        <div className="lg:grid grid-cols-3 p-3 mt-5">
-          <div className="col-span-2  lg:mr-6">
+        <div className="xl:grid grid-cols-3 p-3 mt-5">
+          <div className="col-span-2  xl:mr-6">
             <p className="py-2 text-gray-700 sm:text-xl text-justify">
               Patrick Colins, c'est le génie qui a fait la formation de 16H que
               j'ai suivi. Et le 26 Mai 2022, il envoie une nouvelle formation
@@ -43,57 +43,55 @@ export default function Projects() {
               petit niveau quand même !<span className=" not-italic">😁</span>
             </p>
           </div>
-          <div className="sm:p-4">
-            <div className="w-full mt-3 bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-              <div class="aspect-w-16 aspect-h-9">
-                <iframe
-                  className="rounded-xl"
-                  src="https://www.youtube.com/embed/gyMwXuJrbJQ"
-                  frameborder="0"
-                  allow="autoplay; encrypted-media; picture-in-picture"
-                  allowfullscreen
-                  title="video"
-                />
-              </div>
-              <a
-                href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
-                className=" my-2"
-              >
-                <img
-                  className="rounded-xl"
-                  src={"projets/NFTs.png"}
-                  width="1462px"
-                  height="423px"
-                  alt="/"
-                />
-              </a>
-              <a
-                href="https://github.com/N0E-P/solidity-with-javascript-fcc-tutorial/"
-                className=" flex p-2 cursor-pointer hover:text-blue-700"
-              >
-                <AiOutlineGithub size={50} />
-                <p className="px-3 py-3 ">Mon code sur Github</p>
-              </a>
-              <a
-                href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js#table-of-contents"
-                className=" flex p-2 cursor-pointer hover:text-blue-700"
-              >
-                <BsBook size={50} />
-                <p className="px-3 py-3 ">Tout ce que j'ai appris</p>
-              </a>
-              <a
-                href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
-                className=" flex p-2 cursor-pointer hover:text-blue-700"
-              >
-                <img
-                  src={"projets/nft-logo.png"}
-                  width="50px"
-                  height="50px"
-                  alt="/"
-                />
-                <p className="px-3 py-3 ">Mes NFTs</p>
-              </a>
+          <div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+            <div class="aspect-w-16 aspect-h-9">
+              <iframe
+                className="rounded-xl"
+                src="https://www.youtube.com/embed/gyMwXuJrbJQ"
+                frameborder="0"
+                allow="autoplay; encrypted-media; picture-in-picture"
+                allowfullscreen
+                title="video"
+              />
             </div>
+            <a
+              href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
+              className=" my-2"
+            >
+              <img
+                className="rounded-xl"
+                src={"projets/NFTs.png"}
+                width="1462px"
+                height="423px"
+                alt="/"
+              />
+            </a>
+            <a
+              href="https://github.com/N0E-P/solidity-with-javascript-fcc-tutorial/"
+              className=" flex p-2 cursor-pointer hover:text-blue-700"
+            >
+              <AiOutlineGithub size={50} />
+              <p className="px-3 py-3 ">Mon code sur Github</p>
+            </a>
+            <a
+              href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js#table-of-contents"
+              className=" flex p-2 cursor-pointer hover:text-blue-700"
+            >
+              <BsBook size={50} />
+              <p className="px-3 py-3 ">Tout ce que j'ai appris</p>
+            </a>
+            <a
+              href="https://stratosnft.io/0x7b1A2195862985203AEE71132AcDebBa22557D37"
+              className=" flex p-2 cursor-pointer hover:text-blue-700"
+            >
+              <img
+                src={"projets/nft-logo.png"}
+                width="50px"
+                height="50px"
+                alt="/"
+              />
+              <p className="px-3 py-3 ">Mes NFTs</p>
+            </a>
           </div>
         </div>
       </div>
