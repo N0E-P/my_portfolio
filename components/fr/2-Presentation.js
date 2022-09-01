@@ -2,10 +2,10 @@ export default function Presentation() {
   return (
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
-        <h1 className="text-center mt-5 text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+        <h1 className="mt-5">
           Je n'ai jamais été bon pour construire.
         </h1>
-        <h1 className="text-center mb-12 mt-6 text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+        <h1 className="mb-12 mt-6">
           Mais j'ai{" "}
           <span className="underline underline-offset-4">toujours</span> adoré
           le faire.
