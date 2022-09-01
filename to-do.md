@@ -1,8 +1,11 @@
-Il est temps d'essayer de trouver du travail, et de montrer les choses que j'ai accompli
+conclusion : maintenant j'ai appris a faire beaucoup de choses Je suis pret a travailler et a apprendre en entreprise pour développer mes connaissances et (apporter qqch a l’entreprise / etre benefique); résumé de tout ce que je sais faire en gros coder des smart contract, faire des dapps… = embauchez moi. Je suis disponible pour une simple mission en freelance ou pour du temps plein. Contactez moi pour en parler ! J'adorerais travailler pour une entreprise (et en faire mon métier) N'hésitez pas a venir m'en parler si vous etes intéressés (Attention, dans mon Telegram, il y a un "0" (zero) et pas un "o" (la lettre) à "N0E_P")
 
 .
 
 # Regles a suivre :
+
+Enlever des paragraphes sur telephone si c'est vraiment trop long
+Mais risque de manque qqch...
 
 Pas plus que la taille de l'image sur le coté
 
@@ -76,6 +79,7 @@ Version EN
     texte
     revérifier tout l'orthographe
     mettre index.js en anglais et français en /fr
+    lien vers le portfolio dans projet 6 avec /fr ou /en
 
 fetch API pour nombre de personnes qui ont fini le cours avec Patrick (holders NFTs)
 https://arbiscan.io/token/0x9e9a4e58ddc9483d241afc9a028e89bd9b9fa683
