@@ -14,9 +14,9 @@ export default function Projects() {
               comment m'y prendre.
             </p>
             <p className="py-2 text-gray-700 sm:text-xl text-justify">
-              Alors bien plus tard, aux vacances d'été 2020, j'ai commencé à
-              construire toute la carrosserie et le chassis. Puis l'été suivant,
-              je m'y suis remis pour organiser toute la partie Arduino, faire
+              Alors bien plus tard, aux vacances d'été 2020, j'ai commencé en
+              construisant toute la carrosserie et le chassis. Puis l'été suivant,
+              je m'y suis remis pour organiser la partie Arduino, faire
               les calculs et commander les pièces.
             </p>
             <p className="py-2 text-gray-700 sm:text-xl text-justify">
