@@ -16,16 +16,16 @@ export default function Contact() {
             height="500px"
             alt="/"
           />
-          <h2 className="py-4 text-center mt-2 ">Contactez-moi !</h2>
-          <p className="pt-2 text-gray-700 text-justify text-lg">
+          <h2 className="py-2 sm:py-4 text-center mt-2 ">Contactez-moi !</h2>
+          <p className="pt-2 text-gray-700 xl:text-lg">
             Je suis disponible pour juste une mission en freelance ou pour
             travailler à temps plein.
           </p>
-          <p className="py-3 text-gray-700 text-justify text-lg">
+          <p className="py-3 text-gray-700 xl:text-lg">
             Comme je débute encore, je suis évidemment prêt à continuer
             d'apprendre au fur et a mesure du temps.
           </p>
-          <p className="pb-2 text-gray-700 text-center text-lg">
+          <p className="pb-2 text-gray-700 xl:text-lg">
             N'hésitez pas à me contacter ! 😊
           </p>
           <div className="bg-[#ecf0f3] mt-3 rounded-full grid grid-cols-5 w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
@@ -52,10 +52,10 @@ export default function Contact() {
               </div>
             </a>
           </div>
-          <div className="flex px-14">
+          <div className="flex  m-auto">
             <AiOutlineWarning size={17} />
             <p className="mx-2 text-gray-700 text-center text-xs">
-              Mon pseudo Telegram a un zero et pas la lettre "o"
+              Mon pseudo Telegram a un zero et non pas la lettre "o"
             </p>
             <AiOutlineWarning size={17} />
           </div>

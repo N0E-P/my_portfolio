@@ -3,25 +3,23 @@ import { BsBook } from "react-icons/bs";
 
 export default function Projects() {
   return (
-    <div className="w-full py-10 p-6 items-center mt-12 ">
-      <div className="max-w-[1400px] m-auto gap-8 bg-yellow-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-          Projet #5 : Patrick est de retour !
-        </h1>
-        <div className="xl:grid grid-cols-3 p-3 mt-5">
-          <div className="col-span-2  xl:mr-6">
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+    <div className="w-full my-20 p-2 sm:p-8 items-center">
+      <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-yellow-200 rounded-3xl shadow-lg shadow-gray-400">
+        <h1>Projet #5 : Patrick est de retour !</h1>
+        <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
+          <div className="col-span-2 xl:mr-8">
+            <p className="py-2 text-gray-700 ">
               Patrick Colins, c'est le génie qui a fait la formation de 16H que
               j'ai suivi. Et le 26 Mai 2022, il envoie une nouvelle formation
               monstrueuse sur Solidity avec Javascript, de{" "}
               <span className="font-bold">32 HEURES !!!</span>
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Je savais que ça me prendrais un temps fou de la suivre. Mais je
               savais aussi que si je voulais vraiment devenir développeur, je
               devais absolument savoir utiliser Javascript.
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Alors j'ai commencé début juillet, et j'ai travaillé dessus sans
               arrêt, tout les jours, du matin au soir. Après un mois et demi de
               travail acharné, je suis enfin arrivé à bout de cette formation
@@ -29,14 +27,14 @@ export default function Projects() {
               smart contracts, des dapps et tout ce qu'il faut savoir pour
               travailler dans les cryptos.
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Pour prouver que l'on a entièrement terminé la formation, il
               fallait réutiliser toutes les connaissances du cours pour minter 5
               NFT sous forme d'énigmes. C'était loin d'être simple, mais j'ai
               officiellement fini la formation ! Bordel ce que j'étais fier de
               moi !
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify italic">
+            <p className="py-2 text-gray-700  italic">
               Fun fact : Au moment où j'écris ça, je suis une des 40 seules
               personnes au monde à être entièrement allé jusqu'au bout de la
               formation et à avoir ces 5 NFTs. Ça veut dire que j'ai un bon

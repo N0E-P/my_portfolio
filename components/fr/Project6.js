@@ -3,27 +3,25 @@ import Link from "next/link";
 
 export default function Projects() {
   return (
-    <div className="w-full py-10 p-6 items-center mt-12 ">
-      <div className="max-w-[1400px] m-auto gap-8 bg-green-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-          Projet #6 : Mon magnifique portfolio
-        </h1>
-        <div className="xl:grid grid-cols-3 p-3 mt-5">
-          <div className="col-span-2  xl:mr-6">
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+    <div className="w-full my-20 p-2 sm:p-8 items-center">
+      <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-green-200 rounded-3xl shadow-lg shadow-gray-400">
+        <h1>Projet #6 : Mon magnifique portfolio</h1>
+        <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
+          <div className="col-span-2 xl:mr-8">
+            <p className="py-2 text-gray-700 ">
               Après avoir fais ces 5 premiers projets, il était temps pour moi
               d'essayer de trouver du travail en montrant ce que j'avais appris,
               construis et accomplis. En même temps, j'avais aussi envie de
               savoir mieux faire des sites web. Alors j'ai décidé de créer mon
               portfolio.
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Mi-août, j'ai commencé la construction. Je l'ai fais avec React,
               NextJS et Tailwind car je les avais déjà utilisé dans la formation
               Solidity & Javascript. J'ai aussi regardé un tutoriel Youtube de
               2H30 pour en apprendre plus dessus.
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Une fois terminé, il était désormais l'heure d'aller rechercher
               des entreprises qui apprécierais m'embaucher.
             </p>

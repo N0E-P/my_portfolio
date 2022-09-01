@@ -3,26 +3,24 @@ import { BsBook } from "react-icons/bs";
 
 export default function Project1() {
   return (
-    <div className="w-full py-10 p-6 items-center mt-12">
-      <div className="max-w-[1400px] m-auto gap-8 bg-violet-300 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-          Projet #1 : Le tuto le plus long de ma vie
-        </h1>
-        <div className="xl:grid grid-cols-3 p-3 mt-5">
-          <div className="col-span-2  xl:mr-6">
-            <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
+    <div className="w-full my-20 p-2 sm:p-8 items-center">
+      <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-violet-300 rounded-3xl shadow-lg shadow-gray-400">
+        <h1>Projet #1 : Le tuto le plus long de ma vie</h1>
+        <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
+          <div className="col-span-2 xl:mr-8">
+            <p className="py-2 text-gray-700 ">
               Fin février 2022, je me suis lancé dans l'apprentissage de
               Solidity. Le petit problème, c'est que je n'ai pas juste commencé
               par un petit tutoriel comme ça... Mais par une gigantesque
               formation de <span className="font-bold ">16 HEURES !!!</span>
             </p>
-            <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
+            <p className="py-2 text-gray-700">
               C'est comme ça que j'ai passé 2 mois à réfléchir, comprendre,
               résoudre des problèmes et recopier tout ce que Patrick, le
               formateur, montrait. J'ai finalement réussi à aller jusqu'au bout
               du cours. Et j'en ai énormément appris.
             </p>
-            <p className="py-2 text-gray-700 text-md sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Après ça, il était temps pour moi d'utiliser mes nouvelles
               compétences et d'essayer de faire mon tout premier projet !
             </p>

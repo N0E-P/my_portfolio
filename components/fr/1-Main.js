@@ -29,7 +29,7 @@ export default function Main() {
 
   return (
     <div>
-      <div className="flex justify-between items-center h-full">
+      <div className="flex max-w-[1500px] m-auto justify-between items-center h-full">
         <Link href="/">
           <img
             className=" bg-blue-100 rounded-full m-2 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
@@ -71,19 +71,19 @@ export default function Main() {
           </Link>
         </div>
       </div>
-      <div className="w-full mt-5 sm:mt-20 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
+      <div className="w-full mt-5 sm:mt-20 lg:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
         <h1 className="py-4 text-gray-800">
           Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
         </h1>
-        <h1 className="py-3 text-gray-800 ">
+        <h1 className="py-3 text-gray-800">
           <span className="text-blue-700">Développeur junior</span> en Solidity
           & Javascript
         </h1>
         <div className=" py-4 text-lg ">
-          <p className="py-2 text-gray-700 sm:text-xl md:text-2xl">
+          <p className="py-2 text-gray-700 text-center text:lg sm:text-xl xl:text-2xl ">
             J’ai fais ce portfolio pour présenter :
           </p>
-          <p className=" px-2 text-blue-700 sm:text-xl md:text-2xl">
+          <p className=" px-2 text-blue-700 text-center text:lg sm:text-xl xl:text-2xl ">
             {changingText}
           </p>
         </div>

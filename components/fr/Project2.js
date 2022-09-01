@@ -2,14 +2,12 @@ import { AiFillYoutube, AiOutlineGithub } from "react-icons/ai";
 
 export default function Projects() {
   return (
-    <div className="w-full py-10 p-6 items-center mt-12 ">
-      <div className="max-w-[1400px] m-auto gap-8 bg-orange-200 rounded-3xl p-8 shadow-lg shadow-gray-400">
-        <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-          Projet #2 : Mes NFTs complètement débiles
-        </h1>
-        <div className="xl:grid grid-cols-3 p-3 mt-5">
-          <div className="col-span-2  xl:mr-6">
-            <p className="py-2 text-red-500 sm:text-xl text-justify font-bold">
+    <div className="w-full my-20 p-2 sm:p-8 items-center">
+      <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-orange-200 rounded-3xl shadow-lg shadow-gray-400">
+        <h1>Projet #2 : Mes NFTs complètement débiles</h1>
+        <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
+          <div className="col-span-2 xl:mr-8">
+            <p className="py-2 text-red-500 font-bold xl:max-w-[800px]">
               Attention : Aucune critique sur mon incroyable talent d'artiste
               n'est autorisée !{" "}
               <span className="text-gray-700 italic font-normal">
@@ -17,19 +15,19 @@ export default function Projects() {
                 grave.)
               </span>
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Début Avril, j’ai suivi une petite formation d'1 heure pour
               apprendre à faire ses propres NFT. J'en ai créé 2500 moi même,
               j'ai envoyé leur metadata sur IPFS, j'ai choisis tout les
               paramètres que je voulais, et j'ai personnalisé une Dapp pour
               pouvoir les minter.
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               Par contre, j’ai toujours pas appris a dessiner. Donc il ne faut
               vraiment pas essayer de m’engager en temps de dessinateur, sinon
               ça va être un désastre. Je ne suis bon qu’en programmation moi.
             </p>
-            <p className="py-2 text-gray-700 sm:text-xl text-justify">
+            <p className="py-2 text-gray-700 ">
               C'était très sympa de faire ça, mais à par créer les images, j'ai
               surtout personnalisé un projet qui as déjà été fait. Ça serais
               donc encore mieux de construire un projet entièrement à partir de

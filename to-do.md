@@ -1,11 +1,10 @@
-jamais vraiment - pour le titre principal
+Au début je suis nul, mais je progresse, j'aime ça, et je deviens trop fort
 
-Enlever des paragraphes sur telephone si c'est vraiment trop long
-Mais risque de manque qqch...
+Garder l'aspect storytelling et un axe intéressant.
+Rester le plus court possible
+Caler des ptites blagues et tout
 
-Pas plus que la taille de l'image sur le coté
-
-Montrer au fur et a mesure du texte que je suis un bon développeur
+Chef d'entreprise ou responsable ressources humaines cherche un développeur compétent
 
     rare / beaucoup de demandes
     a de l'experience
@@ -17,27 +16,11 @@ Montrer au fur et a mesure du texte que je suis un bon développeur
 
 .
 
-Montrer que je suis nul | Mais que je progresse | Et que j'en ai envie / que j'aime ça
-
-Garder l'aspect storytelling et un axe intéressant. En restant le plus court possible
-Les gens n'en ont rien a fouttre de ma vie, ils veulent juste un développeur talentueux
-Caler des ptites blagues et tout
-Intéressant si on en apprend vraiment sur moi au fur et a mesure des projets
-
-google doc : https://docs.google.com/document/d/1qz2zC1F-nUbAMM2M_ao826jE9EqKtaBRhnqEArx9EcM/edit#heading=h.9vjmtjdcza78
-Chef d'entreprise ou responsable ressources humaines / intéressé dans le web3
-arrive là juste parce que j'ai envoyé un mail
-cherche un développeur classique et solidity compétent
-
-Juste montrer qu’on propose une solution, pas qu’on veut absolument vendre.
-
-.
+Enlever des paragraphes sur telephone si c'est vraiment trop long
 
 .
 
 # Une fois que le texte est fait
-
-revoir les tailles de textes en sm / md / lg / xl
 
 Video YT NFT detector
 
