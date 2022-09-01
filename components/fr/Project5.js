@@ -38,8 +38,8 @@ export default function Projects() {
             </p>
             <p className="py-2 text-gray-700 sm:text-xl text-justify italic">
               Fun fact : Au moment où j'écris ça, je suis une des 40 seules
-              personnes dans le monde à être entièrement allé jusqu'au bout de
-              la formation et à avoir ces 5 NFTs. Ça veut dire que j'ai un bon
+              personnes au monde à être entièrement allé jusqu'au bout de la
+              formation et à avoir ces 5 NFTs. Ça veut dire que j'ai un bon
               petit niveau quand même !<span className=" not-italic">😁</span>
             </p>
           </div>

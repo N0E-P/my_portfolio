@@ -1,8 +1,4 @@
-conclusion : maintenant j'ai appris a faire beaucoup de choses Je suis pret a travailler et a apprendre en entreprise pour développer mes connaissances et (apporter qqch a l’entreprise / etre benefique); résumé de tout ce que je sais faire en gros coder des smart contract, faire des dapps… = embauchez moi. Je suis disponible pour une simple mission en freelance ou pour du temps plein. Contactez moi pour en parler ! J'adorerais travailler pour une entreprise (et en faire mon métier) N'hésitez pas a venir m'en parler si vous etes intéressés (Attention, dans mon Telegram, il y a un "0" (zero) et pas un "o" (la lettre) à "N0E_P")
-
-.
-
-# Regles a suivre :
+jamais vraiment\* pour le titre principal
 
 Enlever des paragraphes sur telephone si c'est vraiment trop long
 Mais risque de manque qqch...
@@ -14,7 +10,7 @@ Montrer au fur et a mesure du texte que je suis un bon développeur
     rare / beaucoup de demandes
     a de l'experience
     sais travailler en équipe
-    sais réfléchir par sois meme / est intéligent
+    sais réfléchir par sois meme / est intelligent
     est motivé
     est cappable d'apprendre facilement sur le tas
     permet de faire de bon projets qui tiennent la route et qui réussissent
@@ -37,7 +33,11 @@ Juste montrer qu’on propose une solution, pas qu’on veut absolument vendre.
 
 .
 
+.
+
 # Une fois que le texte est fait
+
+mettre tailwind logo a la place de web3ui ou metamask ou github
 
 Video YT NFT detector
 
