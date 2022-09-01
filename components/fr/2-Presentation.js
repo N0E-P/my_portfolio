@@ -76,7 +76,7 @@ export default function Presentation() {
           </div>
         </div>
         <div className="max-w-[1325px] m-auto">
-          <h2 className="text-center mt-32 my-2 max-w-[750px] xl:max-w-[825px] m-auto">
+          <h2 className="text-center mt-48 my-2 max-w-[750px] xl:max-w-[825px] m-auto">
             Le 27 juillet 2021, j'ai eu le malheur de tomber dans l'univers des
             crypto-monnaies
           </h2>
@@ -96,7 +96,7 @@ export default function Presentation() {
             commencé à comprendre l'écosystème et à m'intéresser à tout l'aspect
             technologique derrière la blockchain.
           </p>
-          <h2 className="text-center mt-32 my-2 max-w-[800px] xl:max-w-[830px] m-auto">
+          <h2 className="text-center mt-48 my-2 max-w-[800px] xl:max-w-[830px] m-auto">
             Mais comme je n'ai pas gagné plus d'argent, j'ai continué de
             rechercher un moyen d'en faire
           </h2>
