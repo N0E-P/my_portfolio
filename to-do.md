@@ -18,6 +18,11 @@ Chef d'entreprise ou responsable ressources humaines cherche un développeur com
 
 Enlever des paragraphes sur telephone si c'est vraiment trop long
 
+Je n'ai jamais été bon pour construire.Mais j'ai toujours adoré le faire.
+Mettre ça avec des max-w-[] pour que sur format téléphone, il y ait 4 lignes et que ça soit justifié
+
+Je compte évidemment continuer d'apprendre pour améliorer mes compétences.
+
 .
 
 # Une fois que le texte est fait
@@ -31,15 +36,13 @@ https://vercel.com/guides/zero-downtime-migration-for-dns
 https://dash.cloudflare.com/login
 
 tout retester et tout revérifier
-
-    orthographe
-    boutons / liens
-    affichage sur tel / tablette / pc
+orthographe
+boutons / liens
+affichage sur tel / tablette / pc
 
 Faire tout renvoyer vers mon site
-
-    github - telegram - linkedin
-    faire rapide présentation et profil clean sur les sites là
+github - telegram - linkedin
+Faire rapide présentation et profil clean sur les sites là
 
 Me promouvoir partout
 
