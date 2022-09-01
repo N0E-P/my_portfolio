@@ -2,22 +2,22 @@ export default function Presentation() {
   return (
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
-        <h1 className="text-center mt-5 ">
+        <h1 className="text-center mt-5 text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
           Je n'ai jamais été bon pour construire.
         </h1>
-        <h1 className="text-center mb-12 mt-6">
+        <h1 className="text-center mb-12 mt-6 text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
           Mais j'ai{" "}
           <span className="underline underline-offset-4">toujours</span> adoré
           le faire.
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
-            <p className=" text-white xl:text-lg">
+            <p className=" text-white text-lg">
               J'ai commencé avec les Lego. Je restais tout le temps enfermé dans
               mon cabanon à bricoler des voitures et des maisons que je
               finissais par faire exploser.
             </p>
-            <p className="mt-5 text-white xl:text-lg">
+            <p className="mt-5 text-white text-lg">
               Mon rêve était de travailler chez eux. Mais même si je
               m'améliorais doucement, je n'aurais jamais eu la créativité
               nécessaire pour pouvoir le faire.
@@ -33,12 +33,12 @@ export default function Presentation() {
             </div>
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-2 lg:mr-2 mt-8 lg:mt-0">
-            <p className=" text-white xl:text-lg">
+            <p className=" text-white text-lg">
               Plus tard, j'ai découvert Minecraft. C'était tout un nouvel
               univers de possibilités et de créations qui venait de s'ouvrir.
               J'y ai passé des mois et des mois sur ce jeux.
             </p>
-            <p className="mt-5 text-white xl:text-lg">
+            <p className="mt-5 text-white text-lg">
               J'ai construit des maisons, des châteaux, des fermes, des manoirs
               et des tonnes d'autres choses dessus. Ça à toujours été mon jeux
               vidéo préféré.
@@ -54,12 +54,12 @@ export default function Presentation() {
             </div>
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
-            <p className=" text-white xl:text-lg">
+            <p className=" text-white text-lg">
               Un jour, mon Père a acheté des Arduino. Ce sont des petites cartes
               que l'on peut programmer et lier avec tout et n'importe quoi. Je
               me suis beaucoup amusé avec.
             </p>
-            <p className="mt-5 text-white xl:text-lg">
+            <p className="mt-5 text-white text-lg">
               J'avais l'impression d'être un ingénieur incroyable, alors que je
               faisais que des copier coller du code donné dans le guide livré
               avec.
