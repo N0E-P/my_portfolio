@@ -71,7 +71,7 @@ export default function Main() {
           </Link>
         </div>
       </div>
-      <div className="w-full mt-5 sm:mt-20 lg:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
+      <div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
         <h1 className="py-4 text-gray-800">
           Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
         </h1>
@@ -80,10 +80,10 @@ export default function Main() {
           & Javascript
         </h1>
         <div className=" py-4 text-lg ">
-          <p className="py-2 text-gray-700 text-center text:lg sm:text-xl xl:text-2xl ">
+          <p className="py-2 text-gray-700 text-center text-xl lg:text-2xl ">
             J’ai fais ce portfolio pour présenter :
           </p>
-          <p className=" px-2 text-blue-700 text-center text:lg sm:text-xl xl:text-2xl ">
+          <p className=" px-2 text-blue-700 text-center text-xl lg:text-2xl  ">
             {changingText}
           </p>
         </div>
