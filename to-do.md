@@ -1,7 +1,7 @@
 Au début je suis nul, mais je progresse, j'aime ça, et je deviens trop fort
 
 Garder l'aspect storytelling et un axe intéressant.
-Rester le plus court possible
+3 à 4 paragraphes max par projets
 Caler des ptites blagues et tout
 
 Chef d'entreprise ou responsable ressources humaines cherche un développeur compétent
@@ -15,13 +15,6 @@ Chef d'entreprise ou responsable ressources humaines cherche un développeur com
     permet de faire de bon projets qui tiennent la route et qui réussissent
 
 .
-
-Enlever des paragraphes sur telephone si c'est vraiment trop long
-
-Je n'ai jamais été bon pour construire.Mais j'ai toujours adoré le faire.
-Mettre ça avec des max-w-[] pour que sur format téléphone, il y ait 4 lignes et que ça soit justifié
-
-Je compte évidemment continuer d'apprendre pour améliorer mes compétences.
 
 .
 

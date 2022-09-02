@@ -20,12 +20,12 @@ export default function Contact() {
             Contactez-moi !
           </h2>
           <p className="pt-2 text-gray-700 xl:text-lg">
-            Je suis disponible pour juste une mission en freelance ou pour
-            travailler à temps plein.
+            Je suis disponible pour une mission en freelance ou pour travailler
+            à plein temps.
           </p>
           <p className="py-3 text-gray-700 xl:text-lg">
-            Comme je débute encore, je suis évidemment prêt à continuer
-            d'apprendre au fur et a mesure du temps.
+            Je compte évidemment continuer d'apprendre, pour améliorer mes
+            compétences avec le temps.
           </p>
           <p className="pb-2 text-gray-700 xl:text-lg">
             N'hésitez pas à me contacter ! 😊
@@ -57,7 +57,7 @@ export default function Contact() {
           <div className="flex  m-auto">
             <AiOutlineWarning size={17} />
             <p className="mx-2 text-gray-700 text-center text-xs">
-              Mon pseudo Telegram a un zero et non pas la lettre "o"
+              Mon pseudo Telegram a un zero et pas la lettre "o"
             </p>
             <AiOutlineWarning size={17} />
           </div>
