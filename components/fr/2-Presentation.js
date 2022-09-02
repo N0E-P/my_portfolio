@@ -3,12 +3,12 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="mt-5 max-w-[350px] sm:max-w-[1400px] m-auto">
-          J'ai toujours été mauvais pour construire.
+          Je n'ai jamais été fort en construction.
         </h1>
         <h1 className="mb-12 mt-6 max-w-[300px] sm:max-w-[1400px] m-auto">
-          Mais je n'ai{" "}
-          <span className="underline underline-offset-4">jamais</span> arrêté de
-          m'entraîner.
+          Mais j'ai{" "}
+          <span className="underline underline-offset-4">toujours</span> voulu
+          m'améliorer.
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">

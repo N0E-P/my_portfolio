@@ -1,34 +1,6 @@
-//faire comprendre que j'étais nul, mais que avant
-
-J'ai toujours été mauvais pour construire.
-Quand j'étais petit, j'étais mauvais pour construire
-Je n'ai jamais été bon pour construire.
-Petit, j'ai toujours été mauvais pour construire
-jamais été un génie
-J'ai toujours été mauvais pour construire.
-Je n'ai jamais été bon pour construire.
-
-Mais j'ai toujours voulu m'améliorer
-Mais je n'ai jamais arrêté de m'entraîner.
-Mais j'ai toujours continuer de m'entrainer
-Mais j'ai toujours continuer de le faire.
-Mais j'ai toujours adoré le faire.
-Mais je n'ai pas arrêté de m'entrainer
-Mais j'ai toujours adoré le faire.
-
-.
-
-Je n'ai jamais été bon pour construire.
-Je n'ai jamais été fort en construction.
-Mais j'ai toujours voulu m'améliorer.
-
-.
-
 Nouveau check complet du texte
 
 Orthographe
-
-.
 
 # Une fois que le texte est fait
 
