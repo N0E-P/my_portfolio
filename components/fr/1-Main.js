@@ -32,7 +32,7 @@ export default function Main() {
       <div className="flex max-w-[1500px] m-auto justify-between items-center h-full">
         <Link href="/">
           <img
-            className=" bg-blue-100 rounded-full m-2 mt-3 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
+            className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
             src={"me/profile-photo.jpg"}
             alt="Noé Pecci"
             width="200"
@@ -75,7 +75,7 @@ export default function Main() {
         <h1 className="py-4 text-gray-800">
           Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
         </h1>
-        <h1 className="py-3 text-gray-800">
+        <h1 className="py-3 text-gray-800 max-w-[400px] sm:max-w-[1500px] m-auto">
           <span className="text-blue-700">Développeur junior</span> en Solidity
           & Javascript
         </h1>
