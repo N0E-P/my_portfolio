@@ -40,8 +40,8 @@ export default function Presentation() {
             </p>
             <p className="mt-5 text-white text-lg">
               J'ai construit des maisons, des châteaux, des fermes, des manoirs
-              et des tonnes d'autres choses dessus. Ça à toujours été mon jeux
-              vidéo préféré.
+              et des tonnes d'autres choses. Ça à toujours été mon jeux vidéo
+              préféré.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
@@ -61,8 +61,7 @@ export default function Presentation() {
             </p>
             <p className="mt-5 text-white text-lg">
               J'avais l'impression d'être un ingénieur incroyable, alors que je
-              faisais que des copier coller du code donné dans le guide livré
-              avec.
+              ne faisais que copier-coller du code trouvé sur internet.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
