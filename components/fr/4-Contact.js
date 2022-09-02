@@ -3,7 +3,7 @@ import { FaLinkedinIn, FaGithub, FaTelegram } from "react-icons/fa";
 
 export default function Contact() {
   return (
-    <div className="w-full h-full p-2 flex items-center py-10 ">
+    <div className="w-full h-full p-2 flex items-center pt-10 pb-6 ">
       <div className="max-w-[500px] pt-16 m-auto items-center gap-8">
         <div
           id="contact"
