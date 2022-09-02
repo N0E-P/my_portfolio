@@ -3,12 +3,12 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="mt-5 max-w-[350px] sm:max-w-[1400px] m-auto">
-          Je n'ai jamais été bon pour construire.
+          J'ai toujours été mauvais pour construire.
         </h1>
         <h1 className="mb-12 mt-6 max-w-[300px] sm:max-w-[1400px] m-auto">
-          Mais j'ai{" "}
-          <span className="underline underline-offset-4">toujours</span> adoré
-          le faire.
+          Mais je n'ai{" "}
+          <span className="underline underline-offset-4">jamais</span> arrêté de
+          m'entraîner.
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
@@ -36,7 +36,7 @@ export default function Presentation() {
             <p className=" text-white text-lg">
               Plus tard, j'ai découvert Minecraft. C'était tout un nouvel
               univers de possibilités et de créations qui venait de s'ouvrir.
-              J'y ai passé des mois et des mois sur ce jeux.
+              J'ai passé des mois et des mois sur ce jeux.
             </p>
             <p className="mt-5 text-white text-lg">
               J'ai construit des maisons, des châteaux, des fermes, des manoirs
