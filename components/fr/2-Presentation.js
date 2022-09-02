@@ -95,7 +95,7 @@ export default function Presentation() {
             commencé à comprendre l'écosystème et à m'intéresser à tout l'aspect
             technologique derrière la blockchain.
           </p>
-          <h2 className="text-center mt-48 my-2 max-w-[800px] xl:max-w-[830px] m-auto">
+          <h2 className="text-center mt-36 my-2 max-w-[800px] xl:max-w-[830px] m-auto">
             Mais comme je n'ai pas gagné plus d'argent, j'ai continué de
             rechercher un moyen d'en faire
           </h2>
@@ -122,8 +122,8 @@ export default function Presentation() {
             la programmation, et la blockchain.
           </p>
 
-          <h2 className="text-center mt-14 mb-32 max-w-[700px] xl:max-w-[750px] m-auto">
-            Une nouvelle mission était donc arrivée :{" "}
+          <h2 className="text-center mt-20 mb-32 max-w-[470px] xl:max-w-[650px] m-auto">
+            J'avais donc un nouvel objectif :{" "}
             <span className="underline">Devenir développeur Solidity</span>
           </h2>
         </div>

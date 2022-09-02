@@ -7,14 +7,6 @@ export default function Projects() {
         <h1>Projet #2 : Mes NFTs complètement débiles</h1>
         <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
           <div className="col-span-2 xl:mr-8">
-            <p className="py-2 text-red-500 font-bold xl:max-w-[800px]">
-              Attention : Aucune critique sur mon incroyable talent d'artiste
-              n'est autorisée !{" "}
-              <span className="text-gray-700 italic font-normal">
-                (En vrai c'est un désastre mais ça m'a fait marré donc c'est pas
-                grave.)
-              </span>
-            </p>
             <p className="py-2 text-gray-700 ">
               Début Avril, j’ai suivi une petite formation d'1 heure pour
               apprendre à faire ses propres NFT. J'en ai créé 2500 moi même,
@@ -23,15 +15,15 @@ export default function Projects() {
               pouvoir les minter.
             </p>
             <p className="py-2 text-gray-700 ">
-              Par contre, j’ai toujours pas appris a dessiner. Donc il ne faut
-              vraiment pas essayer de m’engager en temps de dessinateur, sinon
-              ça va être un désastre. Je ne suis bon qu’en programmation moi.
+              Par contre, je n'ai toujours pas appris a dessiner. Donc il ne
+              faut <span className="underline">vraiment pas</span> essayer de
+              m’engager en temps de dessinateur, sinon ça va être un désastre.
+              Je ne suis bon qu’en programmation.
             </p>
             <p className="py-2 text-gray-700 ">
               C'était très sympa de faire ça, mais à par créer les images, j'ai
-              surtout personnalisé un projet qui as déjà été fait. Ça serais
-              donc encore mieux de construire un projet entièrement à partir de
-              0 !
+              surtout repris un projet qui as déjà été fait. Ça serais encore
+              mieux de construire quelque chose entièrement à partir de 0 !
             </p>
           </div>
           <div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">

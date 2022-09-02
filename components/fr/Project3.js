@@ -19,16 +19,16 @@ export default function Projects() {
               collection.
             </p>
             <p className="py-2 text-gray-700 ">
-              Il faut savoir que je n'avais vraiment aucune idée de comment est
-              ce que je pouvais bien faire ça. Mais je trouvais l'idée sympa
+              Il faut savoir qu'au début je n'avais aucune idée de comment
+              est-ce-que je pouvais bien faire ça. Mais je trouvais l'idée sympa
               alors j'ai commencé à travailler dessus.
             </p>
             <p className="py-2 text-gray-700 ">
               J'ai donc créé un bot discord pour voir les membres des serveurs
-              et leur donner des roles. J'ai fais une dapp pour faire vérifier
-              son portefeuille Metamask. Et j'utilise Moralis, qui est une sorte
-              de data-serveur lié à la blockchain, pour pouvoir relier le bot et
-              la dapp.
+              et leur donner des roles. J'ai fais une dapp pour vérifier les
+              portefeuilles Metamask. Et j'utilise Moralis, qui est un
+              data-serveur lié à la blockchain, pour pouvoir relier le bot et la
+              dapp.
             </p>
           </div>
           <div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">

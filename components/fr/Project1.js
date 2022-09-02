@@ -11,8 +11,8 @@ export default function Project1() {
             <p className="py-2 text-gray-700 ">
               Fin février 2022, je me suis lancé dans l'apprentissage de
               Solidity. Le petit problème, c'est que je n'ai pas juste commencé
-              par un petit tutoriel comme ça... Mais par une gigantesque
-              formation de <span className="font-bold ">16 HEURES !!!</span>
+              par un petit tutoriel comme ça... Mais par une énorme formation de{" "}
+              <span className="font-bold ">16 HEURES !!!</span>
             </p>
             <p className="py-2 text-gray-700">
               C'est comme ça que j'ai passé 2 mois à réfléchir, comprendre,

@@ -11,34 +11,29 @@ export default function Projects() {
             <p className="py-2 text-gray-700 ">
               Patrick Colins, c'est le génie qui a fait la formation de 16H que
               j'ai suivi. Et le 26 Mai 2022, il envoie une nouvelle formation
-              monstrueuse sur Solidity avec Javascript, de{" "}
+              gigantesque sur Solidity avec Javascript, de{" "}
               <span className="font-bold">32 HEURES !!!</span>
             </p>
             <p className="py-2 text-gray-700 ">
               Je savais que ça me prendrais un temps fou de la suivre. Mais je
               savais aussi que si je voulais vraiment devenir développeur, je
-              devais absolument savoir utiliser Javascript.
+              devais savoir utiliser Javascript.
             </p>
             <p className="py-2 text-gray-700 ">
-              Alors j'ai commencé début juillet, et j'ai travaillé dessus sans
-              arrêt, tout les jours, du matin au soir. Après un mois et demi de
-              travail acharné, je suis enfin arrivé à bout de cette formation
-              interminable. Maintenant je suis vraiment confiant pour faire des
-              smart contracts, des dapps et tout ce qu'il faut savoir pour
-              travailler dans les cryptos.
+              Alors j'ai commencé début juillet, et j'ai mis un mois et demi de
+              travail acharné pour enfin arrivé au bout de cette formation
+              interminable. En plus, pour prouver que je l'avais bien
+              entièrement terminée, il fallait réutiliser toutes les
+              connaissances du cours pour minter 5 NFT sous forme d'énigmes.
+              C'était loin d'être simple, mais une fois finis, bordel ce que
+              j'étais fier de moi !
             </p>
-            <p className="py-2 text-gray-700 ">
-              Pour prouver que l'on a entièrement terminé la formation, il
-              fallait réutiliser toutes les connaissances du cours pour minter 5
-              NFT sous forme d'énigmes. C'était loin d'être simple, mais j'ai
-              officiellement fini la formation ! Bordel ce que j'étais fier de
-              moi !
-            </p>
-            <p className="py-2 text-gray-700  italic">
-              Fun fact : Au moment où j'écris ça, je suis une des 40 seules
-              personnes au monde à être entièrement allé jusqu'au bout de la
-              formation et à avoir ces 5 NFTs. Ça veut dire que j'ai un bon
-              petit niveau quand même !<span className=" not-italic">😁</span>
+            <p className="py-6 text-gray-700 italic">
+              <span className="underline">Fun fact :</span> Au moment où j'écris
+              ça, je suis une des 40 seules personnes au monde à avoir fini la
+              formation et à posséder ces 5 NFTs. Maintenant je suis vraiment
+              confiant pour travailler dans les cryptos !{" "}
+              <span className=" not-italic">😁</span>
             </p>
           </div>
           <div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">

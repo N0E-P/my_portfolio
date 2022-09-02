@@ -7,9 +7,9 @@ export default function Projects() {
         <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
           <div className="col-span-2 xl:mr-8">
             <p className="py-2 text-gray-700 ">
-              Quand j'étais petit, je voulais avoir une voiture télécommandée en
-              Lego. Sauf qu'à l'époque, je n'avais strictement aucune idée de
-              comment m'y prendre.
+              Quand j'étais petit, je voulais absolument avoir une voiture
+              télécommandée en Lego. Sauf qu'à l'époque, je n'avais strictement
+              aucune idée de comment m'y prendre.
             </p>
             <p className="py-2 text-gray-700 ">
               Alors bien plus tard, aux vacances d'été 2020, j'ai commencé en
@@ -25,16 +25,12 @@ export default function Projects() {
               pour toutes.
             </p>
             <p className="py-2 text-gray-700 ">
-              La partie programmation était très rapide. Car il fallait juste
-              tourner, accélérer et transmettre le signal. J'ai accroché le
-              moteur, l'antenne, l'arduino et tout les autres composants...
-            </p>
-            <p className="py-2 text-gray-700 ">
-              Puis j'ai finalement réussi à finir ma voiture en Lego. Maintenant
-              je peux jouer avec comme un gamin, c'est génial !{" "}
-              <span className="italic">
-                (Sauf quand je la crash et qu'il y a des Lego qui explosent
-                partout, mais ça c'est autre chose...)
+              J'ai tout programmé et assemblé, puis j'ai finalement réussi à
+              finir ma voiture en Lego. Maintenant je peux jouer avec comme un
+              gamin, c'est génial !{" "}
+              <span className="italic text-xs sm:text-sm xl:text-lg">
+                (Sauf quand je la crash à fond contre un mur, mais ça c'est
+                autre chose...)
               </span>
             </p>
           </div>
