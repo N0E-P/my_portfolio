@@ -7,7 +7,7 @@ export default function Contact() {
       <div className="max-w-[500px] pt-16 m-auto items-center gap-8">
         <div
           id="contact"
-          className="bg-blue-200 w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-3xl items-center justify-center p-5 grid grid-cols-1 "
+          className="bg-blue-200 w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-3xl items-center justify-center p-5 pb-1 grid grid-cols-1 "
         >
           <img
             className="rounded-3xl hover:scale-105 ease-in duration-300"
@@ -44,8 +44,8 @@ export default function Contact() {
             </a>
             <div className="bg-[#ecf0f3] rounded-full grid grid-cols-3 w-[150px] shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
               <FaTelegram size={25} />
-              <a href="https://t.me/&#064;&#078;&#048;&#069;&#095;&#080;">
-                &#064;&#078;&#048;&#069;&#095;&#080;
+              <a href="https://t.me/&#110;&#111;&#101;&#095;&#112;&#101;&#099;&#099;&#105;">
+                &#110;&#111;&#101;&#095;&#112;&#101;&#099;&#099;&#105;
               </a>
             </div>
             <a href="https://github.com/N0E-P/">
@@ -53,13 +53,6 @@ export default function Contact() {
                 <FaGithub size={25} />
               </div>
             </a>
-          </div>
-          <div className="flex  m-auto">
-            <AiOutlineWarning size={17} />
-            <p className="mx-2 text-gray-700 text-center text-xs">
-              Mon pseudo Telegram a un zero et pas la lettre "o"
-            </p>
-            <AiOutlineWarning size={17} />
           </div>
         </div>
       </div>

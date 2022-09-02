@@ -30,6 +30,8 @@ Nouveau check complet du texte
 
 Orthographe
 
+.
+
 # Une fois que le texte est fait
 
 Video YT NFT detector
@@ -58,8 +60,6 @@ improve speed performance when loading
 use Image
 
 addresse Email : contact@noe-pecci.com
-
-changer pseudo et lien telegram pour ne pas avoir à mettre un message tout en bas dans contact
 
 Version EN
 
