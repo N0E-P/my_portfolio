@@ -1,22 +1,26 @@
+//faire comprendre que j'étais nul, mais que avant
+
 J'ai toujours été mauvais pour construire.
-Mais je n'ai jamais arrêté de m'entraîner.
-
-//fait trop "oue je suis un warrior"
-//Mais j'ai toujours voulu m'améliorer
-
-Quand j'étais petit, j'étais mauvais pour construire Je n'ai jamais été bon pour construire. Petit, j'ai toujours été mauvais pour construire jamais été un génie J'ai toujours été mauvais pour construire.
-
-Mais j'ai toujours continuer de le faire. Mais j'ai toujours adoré le faire.
-
-Mais je n'ai pas arrêté de m'entrainer
+Quand j'étais petit, j'étais mauvais pour construire
+Je n'ai jamais été bon pour construire.
+Petit, j'ai toujours été mauvais pour construire
+jamais été un génie
+J'ai toujours été mauvais pour construire.
 Je n'ai jamais été bon pour construire.
 
+Mais j'ai toujours voulu m'améliorer
+Mais je n'ai jamais arrêté de m'entraîner.
 Mais j'ai toujours continuer de m'entrainer
-J'ai toujours été mauvais pour construire. Mais je n'ai jamais arrêté de m'entrainer.
+Mais j'ai toujours continuer de le faire.
+Mais j'ai toujours adoré le faire.
+Mais je n'ai pas arrêté de m'entrainer
+Mais j'ai toujours adoré le faire.
 
-Mais j'ai{" "} toujours adoré le faire.
+.
 
-//bizarre, trouver une formulation plus simple a comprendre //faire comprendre que j'étais nul, mais que avant
+Je n'ai jamais été bon pour construire.
+Je n'ai jamais été fort en construction.
+Mais j'ai toujours voulu m'améliorer.
 
 .
 
