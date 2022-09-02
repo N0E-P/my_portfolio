@@ -28,19 +28,21 @@ et j'ai mis un mois et demi de travail acharné
 
 Nouveau check complet du texte
 
-orthographe
+Orthographe
 
 # Une fois que le texte est fait
 
 Video YT NFT detector
+
+nouvelle photo de profil moins rouge
+
+affichage sur tel / tablette / pc
 
 sécuriser mon site et mes informations perso
 regarder toutes les pages de cloudfare
 https://vercel.com/guides/using-cloudflare-with-vercel#with-proxy
 https://vercel.com/guides/zero-downtime-migration-for-dns
 https://dash.cloudflare.com/login
-
-affichage sur tel / tablette / pc
 
 Faire tout renvoyer vers mon site
 github - telegram - linkedin
@@ -57,22 +59,17 @@ use Image
 
 addresse Email : contact@noe-pecci.com
 
+changer pseudo et lien telegram pour ne pas avoir à mettre un message tout en bas dans contact
+
 Version EN
 
-    fonctionnalités / liens / photos
     texte
-    revérifier tout l'orthographe
+    orthographe
+    justification de la largeur des titres avec max-w-[500px]
     mettre index.js en anglais et français en /fr
-    lien vers le portfolio dans projet 6 avec /fr ou /en
-    redoubler vidéo NFT collection en EN
-
-fetch API pour nombre de personnes qui ont fini le cours avec Patrick (holders NFTs)
-https://arbiscan.io/token/0x9e9a4e58ddc9483d241afc9a028e89bd9b9fa683
-https://www.youtube.com/watch?v=cuEtnrL9-H0
+    lien depuis portfolio / bouton qui saute / en / fr / ma tête / contact
+    photo portfolio en EN
+    redoubler vidéos NFT collection et NFT detector en EN
 
 update nft detector on devpost
 https://devpost.com/software/nft-detector
-
-nouvelle photo de profil moins rouge
-
-changer pseudo et lien telegram pour ne pas avoir à mettre un message tout en bas dans contact
