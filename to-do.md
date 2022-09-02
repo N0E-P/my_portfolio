@@ -1,20 +1,16 @@
-Nouveau check complet du texte
-
 Orthographe
 
-# Une fois que le texte est fait
-
-Video YT NFT detector
-
-nouvelle photo de profil moins rouge
-
-affichage sur tel / tablette / pc
+Affichage sur tout les écrans
 
 sécuriser mon site et mes informations perso
 regarder toutes les pages de cloudfare
 https://vercel.com/guides/using-cloudflare-with-vercel#with-proxy
 https://vercel.com/guides/zero-downtime-migration-for-dns
 https://dash.cloudflare.com/login
+
+nouvelle photo de profil moins rouge
+
+Video YT NFT detector
 
 Faire tout renvoyer vers mon site
 github - telegram - linkedin

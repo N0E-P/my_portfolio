@@ -60,9 +60,9 @@ export default function Presentation() {
               me suis bien amusé avec.
             </p>
             <p className="mt-5 text-white text-lg">
-              Je me débrouillais pas mal même si je ne faisais que copier-coller
-              du code trouvé sur internet. J'avais même commencé à faire ma
-              propre voiture télécommandée.
+              Je me débrouillais pas mal, même si je ne faisais que
+              copier-coller du code trouvé sur internet. J'avais même commencé à
+              faire ma propre voiture télécommandée.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
@@ -81,8 +81,8 @@ export default function Presentation() {
             crypto-monnaies
           </h2>
           <p className="sm:mx-10 my-2 md:text-center py-3 p-4">
-            Normalement il n'y a pas de soucis, tout va bien. Mais le problème,
-            c'est que j'ai fais n'importe quoi… 🤦‍♂️
+            Normalement il n'y a rien de grave. Mais le problème, c'est que j'ai
+            fais n'importe quoi… 🤦‍♂️
           </p>
           <p className="sm:mx-10 my-2 p-4 ">
             J'ai acheté des cryptos qui n'avaient aucun sens, j'ai joué au
@@ -116,7 +116,7 @@ export default function Presentation() {
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
             Peu de temps avant, j’ai entendu parler du métier de développeur
-            Solidity. Le language de programmation pour pouvoir créer des smart
+            Solidity. Le language de programmation pour créer des smart
             contracts et interagir avec la blockchain. Alors, je me suis rendu
             compte que ça mêlait justement 2 choses que j’aimais
             particulièrement bien : la programmation, et la blockchain.
