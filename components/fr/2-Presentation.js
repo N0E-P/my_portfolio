@@ -57,11 +57,12 @@ export default function Presentation() {
             <p className=" text-white text-lg">
               Un jour, mon Père a acheté des Arduino. Ce sont des petites cartes
               que l'on peut programmer et lier avec tout et n'importe quoi. Je
-              me suis beaucoup amusé avec.
+              me suis bien amusé avec.
             </p>
             <p className="mt-5 text-white text-lg">
-              J'avais l'impression d'être un ingénieur incroyable, alors que je
-              ne faisais que copier-coller du code trouvé sur internet.
+              Je me débrouillais pas mal même si je ne faisais que copier-coller
+              du code trouvé sur internet. J'avais même commencé à faire ma
+              propre voiture télécommandée.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
@@ -110,16 +111,15 @@ export default function Presentation() {
                 un projet en Arduino
               </a>
             </span>{" "}
-            pour son école. Grace à ça, j'ai enfin compris que ça me plaisait
-            beaucoup de programmer, et que je me débrouillais assé bien en plus
-            !
+            pour son école. C'est à ce moment là que j'ai remarqué que j'aimais
+            beaucoup programmer, et que je me débrouillais assé bien en plus !
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
             Peu de temps avant, j’ai entendu parler du métier de développeur
             Solidity. Le language de programmation pour pouvoir créer des smart
             contracts et interagir avec la blockchain. Alors, je me suis rendu
-            compte que ça mêlait 2 choses que j’aimais particulièrement bien :
-            la programmation, et la blockchain.
+            compte que ça mêlait justement 2 choses que j’aimais
+            particulièrement bien : la programmation, et la blockchain.
           </p>
 
           <h2 className="text-center mt-20 mb-32 max-w-[470px] xl:max-w-[650px] m-auto">

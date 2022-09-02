@@ -1,28 +1,22 @@
-//Au moins une autre phrase qui défile
+J'ai toujours été mauvais pour construire.
+Mais je n'ai jamais arrêté de m'entraîner.
 
-Je me suis beaucoup amusé avec.
-//fais très con, enlever ou remplacer
+//fait trop "oue je suis un warrior"
+//Mais j'ai toujours voulu m'améliorer
 
-//faire partie arduino un chouilla plus longue
+Quand j'étais petit, j'étais mauvais pour construire Je n'ai jamais été bon pour construire. Petit, j'ai toujours été mauvais pour construire jamais été un génie J'ai toujours été mauvais pour construire.
 
-et je m'y suis remis 3 mois plus tard.
-//rendre plus simple a comprendre
-//je me suis remis dedans 3 mois plus tard
-//je m'y suis réintéressé 3 mois plus tard
-// trouver synonyme d'intéressé car déjà utilisé après
+Mais j'ai toujours continuer de le faire. Mais j'ai toujours adoré le faire.
 
-j'ai enfin compris que ça me plaisait beaucoup de programmer
-//simplifier
+Mais je n'ai pas arrêté de m'entrainer
+Je n'ai jamais été bon pour construire.
 
-//pas dessinateur, mais autre mot
-//illustrateur, designer,
+Mais j'ai toujours continuer de m'entrainer
+J'ai toujours été mauvais pour construire. Mais je n'ai jamais arrêté de m'entrainer.
 
-J'ai tout programmé et assemblé, puis j'ai finalement réussi à finir ma voiture en Lego.
-//finalement et finir sont en trop, et il y a déjà un finir dans la phrase d'avant.
-//"tout" se répete aussi avec la phrase d'avant
+Mais j'ai{" "} toujours adoré le faire.
 
-et j'ai mis un mois et demi de travail acharné
-//simplifier
+//bizarre, trouver une formulation plus simple a comprendre //faire comprendre que j'étais nul, mais que avant
 
 .
 

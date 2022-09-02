@@ -20,15 +20,15 @@ export default function Projects() {
               devais savoir utiliser Javascript.
             </p>
             <p className="py-2 text-gray-700 ">
-              Alors j'ai commencé début juillet, et j'ai mis un mois et demi de
-              travail acharné pour enfin arrivé au bout de cette formation
+              Alors j'ai commencé début juillet, et un mois et demi de travail
+              acharné plus tard, je suis enfin arrivé au bout de cette formation
               interminable. En plus, pour prouver que je l'avais bien
               entièrement terminée, il fallait réutiliser toutes les
               connaissances du cours pour minter 5 NFT sous forme d'énigmes.
               C'était loin d'être simple, mais une fois finis, bordel ce que
               j'étais fier de moi !
             </p>
-            <p className="py-6 text-gray-700 italic">
+            <p className="py-4 text-gray-700 italic">
               <span className="underline">Fun fact :</span> Au moment où j'écris
               ça, je suis une des 40 seules personnes au monde à avoir fini la
               formation et à posséder ces 5 NFTs. Maintenant je suis vraiment

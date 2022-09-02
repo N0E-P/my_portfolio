@@ -9,15 +9,16 @@ export default function Main() {
   );
   var words = [
     "Les projets que j'ai conçu, avec toutes les galères que j'ai traversé.",
+    "Mes aventures dans les cryptos, et les erreurs fatales que j'ai fais.",
     "Toutes mes compétences en programmation, et les outils que j'ai appris à utiliser.",
-    "La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport.",
+    "La raison pour laquelle je me retrouve développeur, alors que je suis en fac de sport.",
   ];
   var number = 0;
 
   useEffect(() => {
     const interval = setInterval(() => {
       changeText(words[number]);
-      if (number < 2) {
+      if (number < 3) {
         number = number + 1;
       } else {
         number = 0;
