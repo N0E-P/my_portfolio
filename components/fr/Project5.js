@@ -10,19 +10,19 @@ export default function Projects() {
           <div className="col-span-2 xl:mr-8">
             <p className="py-2 text-gray-700 ">
               Patrick Colins, c'est le génie qui a fait la formation de 16H que
-              j'ai suivi. Et le 26 Mai 2022, il envoie une nouvelle formation
+              j'ai suivie. Et le 26 mai 2022, il envoie une nouvelle formation
               gigantesque sur Solidity avec Javascript, de{" "}
               <span className="font-bold">32 HEURES !!!</span>
             </p>
             <p className="py-2 text-gray-700 ">
-              Je savais que ça me prendrais un temps fou de la suivre. Mais je
+              Je savais que ça me prendrait un temps fou de la suivre. Mais je
               savais aussi que si je voulais vraiment devenir développeur, je
               devais savoir utiliser Javascript.
             </p>
             <p className="py-2 text-gray-700 ">
-              Alors j'ai commencé début juillet, et un mois et demi de travail
+              Alors, j'ai commencé début juillet, et un mois et demi de travail
               acharné plus tard, je suis enfin arrivé au bout de cette formation
-              interminable. En plus, pour prouver qu'on l'avais bien terminée,
+              interminable. En plus, pour prouver qu'on l'avait bien terminée,
               il fallait réutiliser toutes les connaissances du cours pour
               minter 5 NFT sous forme d'énigmes. C'était loin d'être simple,
               mais une fois finis, bordel ce que j'étais fier de moi !
@@ -30,7 +30,7 @@ export default function Projects() {
             <p className="py-4 text-gray-700 italic">
               <span className="underline">Fun fact :</span> Au moment où j'écris
               ça, je suis une des 40 seules personnes au monde à avoir fini la
-              formation et à posséder ces 5 NFTs. Maintenant je suis vraiment
+              formation et à posséder ces 5 NFT. Maintenant, je suis vraiment
               confiant dans le domaine ! <span className=" not-italic">😁</span>
             </p>
           </div>

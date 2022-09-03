@@ -36,11 +36,11 @@ export default function Presentation() {
             <p className=" text-white text-lg">
               Plus tard, j'ai découvert Minecraft. C'était tout un nouvel
               univers de possibilités et de créations qui venait de s'ouvrir.
-              J'ai passé des mois et des mois sur ce jeux.
+              J'ai passé des mois et des mois sur ce jeu.
             </p>
             <p className="mt-5 text-white text-lg">
               J'ai construit des maisons, des châteaux, des fermes, des manoirs
-              et des tonnes d'autres choses. Ça à toujours été mon jeux vidéo
+              et des tonnes d'autres choses. Ça a toujours été mon jeu vidéo
               préféré.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
@@ -81,14 +81,14 @@ export default function Presentation() {
             crypto-monnaies
           </h2>
           <p className="sm:mx-10 my-2 md:text-center py-3 p-4">
-            Normalement il n'y a rien de grave. Mais le problème, c'est que j'ai
-            fais n'importe quoi… 🤦‍♂️
+            Normalement, il n'y a rien de grave. Mais le problème, c'est que
+            j'ai fait n'importe quoi… 🤦‍♂️
           </p>
           <p className="sm:mx-10 my-2 p-4 ">
             J'ai acheté des cryptos qui n'avaient aucun sens, j'ai joué au
             trader alors que je n'y connaissais strictement rien, et j'ai perdu
             des sommes pas possibles rien qu'en frais de transaction. Bref, j'ai
-            réussi à faire disparaitre tout mon argent sans rien voir venir !
+            réussi à faire disparaître tout mon argent sans rien voir venir !
           </p>
           <p className="sm:mx-10 my-2 p-4">
             Heureusement, j'ai eu la chance de ne pas avoir abandonné et je m'y
@@ -111,15 +111,15 @@ export default function Presentation() {
                 un projet en Arduino
               </a>
             </span>{" "}
-            pour son école. C'est à ce moment là que j'ai remarqué que j'aimais
-            beaucoup programmer, et que je me débrouillais assé bien en plus !
+            pour son école. C'est à ce moment-là que j'ai remarqué que j'aimais
+            beaucoup programmer, et que je me débrouillais assez bien en plus !
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
             Peu de temps avant, j’ai entendu parler du métier de développeur
-            Solidity. Le language de programmation pour créer des smart
-            contracts et interagir avec la blockchain. Alors, je me suis rendu
-            compte que ça mêlait justement 2 choses que j’aimais
-            particulièrement bien : la programmation, et la blockchain.
+            Solidity. Le langage de programmation pour créer des smart-contracts
+            et interagir avec la blockchain. Alors, je me suis rendu compte que
+            ça mêlait justement deux choses que j’aimais particulièrement bien :
+            la programmation et la blockchain.
           </p>
 
           <h2 className="text-center mt-20 mb-32 max-w-[470px] xl:max-w-[650px] m-auto">

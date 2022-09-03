@@ -9,23 +9,22 @@ export default function Projects() {
         <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
           <div className="col-span-2 xl:mr-8">
             <p className="py-2 text-gray-700 ">
-              Le 10 Mai 2022, j'ai rejoins le Hackaton de Chainlink. Et j'y ai
+              Le 10 mai 2022, j'ai rejoint le Hackathon de Chainlink. Et j'y ai
               créé <span className="font-bold">NFT Detector</span>.
             </p>
             <p className="py-2 text-gray-700 ">
-              C'est un bot Discord qui donne un role spécial aux personnes qui
-              possèdent des NFTs. Ça permet de leur faire des salons privés et
-              de leur donner des bonus dans le serveur Discord de cette
-              collection.
+              C'est un bot Discord qui donne un rôle spécial aux personnes qui
+              possèdent des NFT. Ça permet de leur faire des salons privés et de
+              leur donner des bonus dans le serveur Discord de cette collection.
             </p>
             <p className="py-2 text-gray-700 ">
-              Il faut savoir qu'au début je n'avais aucune idée de comment
-              est-ce-que je pouvais bien faire ça. Mais je trouvais l'idée sympa
-              alors j'ai commencé à travailler dessus.
+              Il faut savoir qu'au début, je n'avais aucune idée de comment
+              est-ce-que je pouvais bien faire ça. Mais je trouvais l'idée
+              sympa, alors j'ai commencé à travailler dessus.
             </p>
             <p className="py-2 text-gray-700 ">
               J'ai donc créé un bot discord pour voir les membres des serveurs
-              et leur donner des roles. J'ai fais une dapp pour vérifier les
+              et leur donner des rôles. J'ai fait une dapp pour vérifier les
               portefeuilles Metamask. Et j'utilise Moralis, qui est un
               data-serveur lié à la blockchain, pour pouvoir relier le bot et la
               dapp.
@@ -62,7 +61,7 @@ export default function Projects() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <SiChainlink size={50} />
-              <p className="px-3 py-3 ">Le hackaton de Chainlink</p>
+              <p className="px-3 py-3 ">Le Hackathon de Chainlink</p>
             </a>
           </div>
         </div>

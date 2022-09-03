@@ -16,7 +16,7 @@ export default function Contact() {
             height="500px"
             alt="/"
           />
-          <h2 className="py-2 sm:py-4 text-center mt-2  sm:text-3xl lg:text-4xl">
+          <h2 className="py-2 sm:py-4 text-center mt-2 text-3xl sm:text-4xl">
             Contactez-moi !
           </h2>
           <p className="pt-2 text-gray-700 xl:text-lg">

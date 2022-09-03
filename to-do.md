@@ -1,7 +1,3 @@
-Orthographe
-
-Affichage sur tout les écrans
-
 sécuriser mon site et mes informations perso
 regarder toutes les pages de cloudfare
 https://vercel.com/guides/using-cloudflare-with-vercel#with-proxy

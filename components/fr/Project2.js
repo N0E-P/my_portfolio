@@ -4,25 +4,25 @@ export default function Projects() {
   return (
     <div className="w-full my-20 p-2 sm:p-8 items-center">
       <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-orange-200 rounded-3xl shadow-lg shadow-gray-400">
-        <h1>Projet #2 : Mes NFTs complètement débiles</h1>
+        <h1>Projet #2 : Mes NFT complètement débiles</h1>
         <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
           <div className="col-span-2 xl:mr-8">
             <p className="py-2 text-gray-700 ">
-              Début Avril, j’ai suivi une petite formation d'1 heure pour
-              apprendre à faire ses propres NFT. J'en ai créé 2500 moi même,
-              j'ai envoyé leur metadata sur IPFS, j'ai choisis tout les
-              paramètres que je voulais, et j'ai personnalisé une Dapp pour
+              Début avril, j’ai suivi une petite formation d'une heure pour
+              apprendre à faire ses propres NFT. J'en ai créé 2500 moi-même,
+              j'ai envoyé leur metadata sur IPFS, j'ai choisi tous les
+              paramètres que je voulais, et j'ai personnalisé une dapp pour
               pouvoir les minter.
             </p>
             <p className="py-2 text-gray-700 ">
-              Par contre, je n'ai toujours pas appris a dessiner. Donc il ne
+              Par contre, je n'ai toujours pas appris à dessiner. Donc il ne
               faut <span className="underline">vraiment pas</span> essayer de
               m’engager en temps de dessinateur, sinon ça va être un désastre.
               Je ne suis bon qu’en programmation.
             </p>
             <p className="py-2 text-gray-700 ">
-              C'était très sympa de faire ça, mais à par créer les images, j'ai
-              surtout repris un projet qui as déjà été fait. Ça serais encore
+              C'était très sympa de faire ça, mais à part créer les images, j'ai
+              surtout repris un projet qui a déjà été fait. Ce serait encore
               mieux de construire quelque chose entièrement à partir de 0 !
             </p>
           </div>

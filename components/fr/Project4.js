@@ -13,23 +13,23 @@ export default function Projects() {
             </p>
             <p className="py-2 text-gray-700 ">
               Alors bien plus tard, aux vacances d'été 2020, j'ai commencé en
-              construisant toute la carrosserie et le chassis. Puis l'été
+              construisant toute la carrosserie et le châssis. Puis l'été
               suivant, je m'y suis remis pour organiser la partie Arduino, faire
               les calculs et commander les pièces.
             </p>
             <p className="py-2 text-gray-700 ">
               On arrive alors fin juin 2022. Et en cherchant un nouveau projet à
-              faire, je me suis rappellé que j'avais un début de voiture
-              télécommandée qui trainait dans mes placards. Alors j'ai décidé de
-              me remmettre a travailler dessus, pour en finir une bonne fois
+              faire, je me suis rappelé que j'avais un début de voiture
+              télécommandée qui traînait dans mes placards. Alors, j'ai décidé
+              de me remettre à travailler dessus, pour en finir une bonne fois
               pour toutes.
             </p>
             <p className="py-2 text-gray-700 ">
               J'ai tout programmé et assemblé, puis j'ai finalement réussi à
-              finir ma voiture en Lego. Maintenant je peux jouer avec comme un
+              finir ma voiture en Lego. Maintenant, je peux jouer avec comme un
               gamin, c'est génial !{" "}
               <span className="italic text-xs sm:text-sm xl:text-lg">
-                (Sauf quand je la crash à fond contre un mur, mais ça c'est
+                (Sauf quand je l'explose à fond contre un mur. Mais ça, c'est
                 autre chose...)
               </span>
             </p>
