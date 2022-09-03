@@ -27,12 +27,16 @@ export default function Projects() {
             </p>
           </div>
           <div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-            <img
-              src={"projets/portfolio.png"}
-              width="1891px"
-              height="973px"
-              alt="/"
-            />
+            <div class="aspect-w-16 aspect-h-9">
+              <iframe
+                className="rounded-xl"
+                src="https://www.youtube.com/embed/CMx51wpd7g4"
+                frameborder="0"
+                allow="autoplay; encrypted-media; picture-in-picture"
+                allowfullscreen
+                title="video"
+              />
+            </div>
             <a
               href="https://github.com/N0E-P/my_portfolio"
               className=" flex p-2 cursor-pointer hover:text-blue-700"

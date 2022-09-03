@@ -44,6 +44,7 @@ héberger :
 [https://www.hostgator.com/]
 [https://www.hostinger.fr/]
 [https://www.youtube.com/watch?v=_bPSWABggX8]
+[https://www.youtube.com/watch?v=hHaPgfyxIvY]
 
 my dns server on cloudfare :
 [https://dash.cloudflare.com/b8b6e5b6cea1bcef749379a4056f67e4/noe-pecci.com/dns]
