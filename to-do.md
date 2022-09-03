@@ -4,7 +4,7 @@ https://vercel.com/guides/using-cloudflare-with-vercel#with-proxy
 https://vercel.com/guides/zero-downtime-migration-for-dns
 https://dash.cloudflare.com/login
 
-nouvelle photo de profil moins rouge
+nouvelle photo de profil moins rouge (sur YT aussi)
 
 Video YT NFT detector
 
@@ -29,7 +29,7 @@ Version EN
     orthographe
     justification de la largeur des titres avec max-w-[500px]
     mettre index.js en anglais et français en /fr
-    lien depuis portfolio / bouton qui saute / en / fr / ma tête / contact
+    lien depuis : portfolio / bouton qui saute / en / fr / ma tête / contact
     photo portfolio en EN
     redoubler vidéos NFT collection et NFT detector en EN
 
