@@ -45,7 +45,7 @@ export default function Main() {
             <div className="bg-blue-100 m-3 justify-center hidden sm:flex rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
               <AiOutlineMail size={50} className="pl-2" />
               <p className="pl-3 py-2 font-bold text-2xl hidden lg:flex">
-                Contactez-moi !
+                Contact me!
               </p>
               <span class="relative inline-flex rounded-full h-3 w-3 bg-sky-500">
                 <span class="relative animate-ping inline-flex rounded-full h-3 w-3 bg-sky-500"></span>
@@ -74,11 +74,11 @@ export default function Main() {
       </div>
       <div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
         <h1 className="py-4 text-gray-800">
-          Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
+          Hello, I'm <span className="text-blue-700">Noé!</span> A French
         </h1>
         <h1 className="py-3 text-gray-800 max-w-[400px] sm:max-w-[1500px] m-auto">
-          <span className="text-blue-700">Développeur junior</span> en Solidity
-          & Javascript
+          <span className="text-blue-700">Junior Developer </span>in Solidity &
+          Javascript
         </h1>
         <div className=" py-4 text-lg ">
           <p className="py-2 text-gray-700 text-center text-xl lg:text-2xl ">
