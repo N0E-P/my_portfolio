@@ -1,3 +1,7 @@
+Taille Textes liens qui ne bougent pas
+
+Probleme mode sombre forcé qui rend tout dégeulasse
+
 Nouvelle photo de profil (sur YT, telegram, linkedin, github aussi)
 
 Video NFT detector
