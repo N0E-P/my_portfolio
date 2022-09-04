@@ -41,7 +41,7 @@ export default function Project1() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiOutlineGithub size={50} />
-              <p className="pl-2 py-3 ">Mon code sur Github</p>
+              <p className="pl-2 py-3 text-lg">Mon code sur Github</p>
             </a>
             <a
               href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py#table-of-contents"
