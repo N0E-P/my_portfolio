@@ -1,5 +1,3 @@
-Probleme mode sombre forcé qui rend tout dégeulasse
-
 Nouvelle photo de profil (sur YT, telegram, linkedin, github aussi)
 
 Video NFT detector
@@ -17,8 +15,6 @@ Version EN
     orthographe
     justification de la largeur des titres avec max-w-[500px]
     photo portfolio en EN
-    mettre index.js en anglais et français en /fr
-    lien depuis : portfolio / bouton qui saute / en / fr / ma tête / contact (tout restester)
     redoubler vidéos NFT collection et NFT detector en EN
 
 Mode sombre

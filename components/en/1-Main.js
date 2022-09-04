@@ -31,7 +31,7 @@ export default function Main() {
   return (
     <div>
       <div className="flex max-w-[1500px] m-auto justify-between items-center h-full">
-        <Link href="/fr">
+        <Link href="/">
           <img
             className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
             src={"me/profile-photo.jpg"}
@@ -41,7 +41,7 @@ export default function Main() {
           />
         </Link>
         <div className="sm:flex ">
-          <Link href="/fr#contact">
+          <Link href="/#contact">
             <div className="bg-blue-100 m-3 justify-center hidden sm:flex rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
               <AiOutlineMail size={50} className="pl-2" />
               <p className="pl-3 py-2 font-bold text-2xl hidden lg:flex">
@@ -89,7 +89,7 @@ export default function Main() {
           </p>
         </div>
         <div className="flex justify-center mt-20">
-          <Link href="/fr#presentation">
+          <Link href="/#presentation">
             <div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
               <HiChevronDoubleDown className="text-blue-700" size={36} />
             </div>
