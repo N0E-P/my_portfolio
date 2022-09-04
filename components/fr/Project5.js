@@ -62,14 +62,14 @@ export default function Projects() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiOutlineGithub size={50} />
-              <p className="px-3 py-3 ">Mon code sur Github</p>
+              <p className="px-3 py-3 text-lg">Mon code sur Github</p>
             </a>
             <a
               href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js#table-of-contents"
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <BsBook size={50} />
-              <p className="px-3 py-3 ">Tout ce que j'ai appris</p>
+              <p className="px-3 py-3 text-lg">Tout ce que j'ai appris</p>
             </a>
           </div>
         </div>

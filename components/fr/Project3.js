@@ -46,7 +46,7 @@ export default function Projects() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiOutlineGithub size={50} />
-              <p className="px-3 py-3 ">Mon code sur Github</p>
+              <p className="px-3 py-3 text-lg">Mon code sur Github</p>
             </a>
 
             <a
@@ -54,14 +54,14 @@ export default function Projects() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <SiDevpost size={50} />
-              <p className="px-3 py-3 ">Ma page Devpost</p>
+              <p className="px-3 py-3 text-lg">Ma page Devpost</p>
             </a>
             <a
               href="https://chain.link/hackathon"
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <SiChainlink size={50} />
-              <p className="px-3 py-3 ">Le Hackathon de Chainlink</p>
+              <p className="px-3 py-3 text-lg">Le Hackathon de Chainlink</p>
             </a>
           </div>
         </div>

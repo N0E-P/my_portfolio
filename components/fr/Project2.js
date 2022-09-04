@@ -42,14 +42,14 @@ export default function Projects() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiFillYoutube size={50} />
-              <p className="px-3 py-3 ">Le tutoriel vidéo</p>
+              <p className="px-3 py-3 text-lg">Le tutoriel vidéo</p>
             </a>
             <a
               href="https://github.com/N0E-P/Kevin-s-Holidays"
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiOutlineGithub size={50} />
-              <p className="px-3 py-3 ">Mon code sur Github</p>
+              <p className="px-3 py-3 text-lg">Mon code sur Github</p>
             </a>
             <a
               href="https://testnets.opensea.io/collection/kevins-holidays"
@@ -61,7 +61,7 @@ export default function Projects() {
                 height="50px"
                 alt="/"
               />
-              <p className="px-3 py-3 ">La page Opensea des NFT</p>
+              <p className="px-3 py-3 text-lg">La page Opensea des NFT</p>
             </a>
             <a
               href="https://superb-zuccutto-9f46e1.netlify.app/"
@@ -73,7 +73,7 @@ export default function Projects() {
                 height="50px"
                 alt="/"
               />
-              <p className="px-3 py-3 ">La dapp des NFT</p>
+              <p className="px-3 py-3 text-lg">La dapp des NFT</p>
             </a>
           </div>
         </div>

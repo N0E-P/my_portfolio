@@ -50,7 +50,7 @@ export default function Projects() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiOutlineGithub size={50} />
-              <p className="px-3 py-3 ">Mon code sur Github</p>
+              <p className="px-3 py-3 text-lg">Mon code sur Github</p>
             </a>
           </div>
         </div>
