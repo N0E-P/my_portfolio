@@ -1,13 +1,12 @@
+Faire présentation et profil sur linkedin
+
 Vidéo NFT collection en EN
 
 Video NFT detector en FR et EN
 
-github - linkedin => renvoyer vers mon site
-Faire rapide présentation et profil clean dessus
-
-Montrer aux copains
-
 Me promouvoir partout !
+
+# Plus tard, quand j'aurais le temps de me faire chier :
 
 Mode sombre
 enlever drapeau FR et mettre une icone sombre/clair à le place
