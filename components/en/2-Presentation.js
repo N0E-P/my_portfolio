@@ -2,10 +2,10 @@ export default function Presentation() {
   return (
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
-        <h1 className="mt-5 max-w-[350px] sm:max-w-[1400px] m-auto">
-          I've never been great at construction.
+        <h1 className="mt-5 max-w-[300px] sm:max-w-[1400px] m-auto">
+          I've never been good at building.
         </h1>
-        <h1 className="mb-12 mt-6 max-w-[300px] sm:max-w-[1400px] m-auto">
+        <h1 className="mb-12 mt-6 max-w-[285px] sm:max-w-[1400px] m-auto">
           But I <span className="underline underline-offset-4">always</span>{" "}
           wanted to improve.
         </h1>
@@ -73,13 +73,13 @@ export default function Presentation() {
           </div>
         </div>
         <div className="max-w-[1325px] m-auto">
-          <h2 className="text-center mt-48 my-2 max-w-[750px] xl:max-w-[825px] m-auto">
+          <h2 className="text-center mt-48 my-2 max-w-[700px] xl:max-w-[825px] m-auto">
             On July 27, 2021, I had the misfortune to fall into the world of
             crypto-currencies
           </h2>
           <p className="sm:mx-10 my-2 md:text-center py-3 p-4">
-            Usually there is nothing wrong with it. But the problem is that I
-            did everything wrong... 🤦‍♂️
+            Usually, it's not something bad. But the problem is that I did
+            everything wrong... 🤦‍♂️
           </p>
           <p className="sm:mx-10 my-2 p-4 ">
             I bought cryptos that didn't make sense, I played trader when I
@@ -93,7 +93,7 @@ export default function Presentation() {
             the ecosystem and became interested in the whole technology aspect
             behind the blockchain.
           </p>
-          <h2 className="text-center mt-36 my-2 max-w-[800px] xl:max-w-[830px] m-auto">
+          <h2 className="text-center mt-36 my-2 max-w-[620px] xl:max-w-[830px] m-auto">
             But since I didn't make any more money, I continued to look for a
             way to make some
           </h2>
@@ -116,7 +116,7 @@ export default function Presentation() {
             with the blockchain. Then I realized that it mixed two things I
             particularly liked: programming and blockchain.
           </p>
-          <h2 className="text-center mt-20 mb-32 max-w-[470px] xl:max-w-[650px] m-auto">
+          <h2 className="text-center mt-20 mb-32 max-w-[333px] md:max-w-[412px] xl:max-w-[493px] m-auto">
             So I had a new goal:{" "}
             <span className="underline">Become a Solidity developer</span>
           </h2>

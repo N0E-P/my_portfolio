@@ -3,7 +3,7 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="mt-5 max-w-[350px] sm:max-w-[1400px] m-auto">
-          Je n'ai jamais été fort en construction.
+          Je n'ai jamais été fort pour construire.
         </h1>
         <h1 className="mb-12 mt-6 max-w-[300px] sm:max-w-[1400px] m-auto">
           Mais j'ai{" "}

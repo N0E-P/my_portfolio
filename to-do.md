@@ -1,9 +1,4 @@
-Version EN
-
-    texte
-    orthographe
-    justification largeur des titres avec max-w-[500px]
-    redoubler vidéos NFT collection
+Vidéo NFT collection en EN
 
 Video NFT detector en FR et EN
 

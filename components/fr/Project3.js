@@ -23,8 +23,8 @@ export default function Projects() {
               sympa, alors j'ai commencé à travailler dessus.
             </p>
             <p className="py-2 text-gray-700 ">
-              J'ai donc créé un bot discord pour voir les membres des serveurs
-              et leur donner des rôles. J'ai fait une dapp pour vérifier les
+              J'ai créé un bot discord pour voir les membres des serveurs et
+              leur donner des rôles. J'ai fait une dapp pour vérifier les
               portefeuilles Metamask. Et j'utilise Moralis, qui est un
               data-serveur lié à la blockchain, pour pouvoir relier le bot et la
               dapp.
