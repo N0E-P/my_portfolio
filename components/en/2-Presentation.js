@@ -3,24 +3,22 @@ export default function Presentation() {
     <div id="presentation" className="w-full p-4 items-center">
       <div className="max-w-[1400px] m-auto ">
         <h1 className="mt-5 max-w-[350px] sm:max-w-[1400px] m-auto">
-          Je n'ai jamais été fort en construction.
+          I've never been great at construction.
         </h1>
         <h1 className="mb-12 mt-6 max-w-[300px] sm:max-w-[1400px] m-auto">
-          Mais j'ai{" "}
-          <span className="underline underline-offset-4">toujours</span> voulu
-          m'améliorer.
+          But I <span className="underline underline-offset-4">always</span>{" "}
+          wanted to improve.
         </h1>
         <div className="lg:grid grid-cols-3">
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
             <p className=" text-white text-lg">
-              J'ai commencé avec les Lego. Je restais tout le temps enfermé dans
-              mon cabanon à bricoler des voitures et des maisons que je
-              finissais par faire exploser.
+              I started with Lego. I used to stay in my garden shed all the
+              time, building cars and houses that I would end up blowing up.
             </p>
             <p className="mt-5 text-white text-lg">
-              Mon rêve était de travailler chez eux. Mais même si je
-              m'améliorais doucement, je n'aurais jamais eu la créativité
-              nécessaire pour pouvoir le faire.
+              My dream was to work for them. But even though I was slowly
+              getting better, I would never have the creativity to be able to do
+              it.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto ">
               <img
@@ -34,14 +32,13 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-2 lg:mr-2 mt-8 lg:mt-0">
             <p className=" text-white text-lg">
-              Plus tard, j'ai découvert Minecraft. C'était tout un nouvel
-              univers de possibilités et de créations qui venait de s'ouvrir.
-              J'ai passé des mois et des mois sur ce jeu.
+              Later, I discovered Minecraft. It was a whole new world of
+              possibilities and creations that had just opened up. I spent
+              months and months on this game.
             </p>
             <p className="mt-5 text-white text-lg">
-              J'ai construit des maisons, des châteaux, des fermes, des manoirs
-              et des tonnes d'autres choses. Ça a toujours été mon jeu vidéo
-              préféré.
+              I built houses, castles, farms, mansions and tons of other things.
+              It has always been my favorite video game.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
@@ -55,14 +52,14 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
             <p className=" text-white text-lg">
-              Un jour, mon Père a acheté des Arduino. Ce sont des petites cartes
-              que l'on peut programmer et lier avec tout et n'importe quoi. Je
-              me suis bien amusé avec.
+              One day, my father bought some Arduino. They are small cards that
+              you can program and link with anything and everything. I had a lot
+              of fun playing with them.
             </p>
             <p className="mt-5 text-white text-lg">
-              Je me débrouillais pas mal, même si je ne faisais que
-              copier-coller du code trouvé sur internet. J'avais même commencé à
-              faire ma propre voiture télécommandée.
+              I was doing pretty well, even though I was just copying and
+              pasting code. I had even started to make my own remote control
+              car.
             </p>
             <div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
               <img
@@ -77,54 +74,51 @@ export default function Presentation() {
         </div>
         <div className="max-w-[1325px] m-auto">
           <h2 className="text-center mt-48 my-2 max-w-[750px] xl:max-w-[825px] m-auto">
-            Le 27 juillet 2021, j'ai eu le malheur de tomber dans l'univers des
-            crypto-monnaies
+            On July 27, 2021, I had the misfortune to fall into the world of
+            crypto-currencies
           </h2>
           <p className="sm:mx-10 my-2 md:text-center py-3 p-4">
-            Normalement, il n'y a rien de grave. Mais le problème, c'est que
-            j'ai fait n'importe quoi… 🤦‍♂️
+            Usually there is nothing wrong with it. But the problem is that I
+            did everything wrong... 🤦‍♂️
           </p>
           <p className="sm:mx-10 my-2 p-4 ">
-            J'ai acheté des cryptos qui n'avaient aucun sens, j'ai joué au
-            trader alors que je n'y connaissais strictement rien, et j'ai perdu
-            des sommes pas possibles rien qu'en frais de transaction. Bref, j'ai
-            réussi à faire disparaître tout mon argent sans rien voir venir !
+            I bought cryptos that didn't make sense, I played trader when I
+            didn't know anything about it, and I lost unbelievable amounts of
+            money just on transaction fees. In short, I managed to make all my
+            money disappear without seeing anything coming!
           </p>
           <p className="sm:mx-10 my-2 p-4">
-            Heureusement, j'ai eu la chance de ne pas avoir abandonné et je m'y
-            suis remis 3 mois plus tard. C'est à partir de là que j'ai vraiment
-            commencé à comprendre l'écosystème et à m'intéresser à tout l'aspect
-            technologique derrière la blockchain.
+            Fortunately, I was lucky enough not to have given up and got back
+            into it 3 months later. That's when I really started to understand
+            the ecosystem and became interested in the whole technology aspect
+            behind the blockchain.
           </p>
           <h2 className="text-center mt-36 my-2 max-w-[800px] xl:max-w-[830px] m-auto">
-            Mais comme je n'ai pas gagné plus d'argent, j'ai continué de
-            rechercher un moyen d'en faire
+            But since I didn't make any more money, I continued to look for a
+            way to make some
           </h2>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
-            C'est alors que vers mi-février 2022, j'ai aidé ma grande sœur à
-            faire{" "}
+            Then, around mid-February 2022, I helped my older sister to make{" "}
             <span>
               <a
                 href="https://www.youtube.com/watch?v=nb471gm5Xeg"
                 className="cursor-pointer text-blue-700 underline"
               >
-                un projet en Arduino
+                an Arduino project
               </a>
             </span>{" "}
-            pour son école. C'est à ce moment-là que j'ai remarqué que j'aimais
-            beaucoup programmer, et que je me débrouillais assez bien en plus !
+            for her school. That's when I noticed that I really liked
+            programming, and that I was doing pretty well too!
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
-            Peu de temps avant, j’ai entendu parler du métier de développeur
-            Solidity. Le langage de programmation pour créer des smart-contracts
-            et interagir avec la blockchain. Alors, je me suis rendu compte que
-            ça mêlait justement deux choses que j’aimais particulièrement bien :
-            la programmation et la blockchain.
+            Not long before, I heard about the Solidity developer job. The
+            programming language for creating smart contracts and interacting
+            with the blockchain. Then I realized that it mixed two things I
+            particularly liked: programming and blockchain.
           </p>
-
           <h2 className="text-center mt-20 mb-32 max-w-[470px] xl:max-w-[650px] m-auto">
-            J'avais donc un nouvel objectif :{" "}
-            <span className="underline">Devenir développeur Solidity</span>
+            So I had a new goal:{" "}
+            <span className="underline">Become a Solidity developer</span>
           </h2>
         </div>
       </div>

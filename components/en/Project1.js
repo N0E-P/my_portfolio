@@ -5,24 +5,24 @@ export default function Project1() {
   return (
     <div className="w-full my-20 p-2 sm:p-8 items-center">
       <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-violet-300 rounded-3xl shadow-lg shadow-gray-400">
-        <h1>Projet #1 : Le tuto le plus long de ma vie</h1>
+        <h1>Project #1: The longest tutorial of my life</h1>
         <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
           <div className="col-span-2 xl:mr-8">
             <p className="py-2 text-gray-700 ">
-              Fin février 2022, je me suis lancé dans l'apprentissage de
-              Solidity. Le petit problème, c'est que je n'ai pas juste commencé
-              par un petit tutoriel comme ça... Mais par une énorme formation de{" "}
-              <span className="font-bold ">16 HEURES !!!</span>
+              At the end of February 2022, I started learning Solidity. The
+              little problem is that I didn't just start with a little
+              tutorial... But with a huge{" "}
+              <span className="font-bold ">16 HOURS TRAINING!!!</span>
             </p>
             <p className="py-2 text-gray-700">
-              C'est comme ça que j'ai passé 2 mois à réfléchir, comprendre,
-              résoudre des problèmes et recopier tout ce que Patrick, le
-              formateur, montrait. J'ai finalement réussi à aller jusqu'au bout
-              du cours. Et j'en ai énormément appris.
+              That's how I spent 2 months thinking, understanding, solving
+              problems and copying everything that Patrick, the trainer, was
+              showing. I finally managed to get to the end of the course. And I
+              learned a ton from it.
             </p>
             <p className="py-2 text-gray-700 ">
-              Après ça, il était temps pour moi d'utiliser mes nouvelles
-              compétences et d'essayer de faire mon tout premier projet !
+              After that, it was time for me to use my new skills and try my
+              first ever project!
             </p>
           </div>
           <div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
@@ -41,14 +41,14 @@ export default function Project1() {
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <AiOutlineGithub size={50} />
-              <p className="pl-2 py-3 text-lg">Mon code sur Github</p>
+              <p className="pl-2 py-3 text-lg">My code on Github</p>
             </a>
             <a
               href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py#table-of-contents"
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <BsBook size={50} />
-              <p className="pl-2 py-3  text-lg">Tout ce que j'ai appris</p>
+              <p className="pl-2 py-3  text-lg">Everything I've learned</p>
             </a>
           </div>
         </div>

@@ -1,13 +1,11 @@
-Nouvelle photo de profil (YT, telegram, linkedin, github)
-
 Version EN
 
     texte
     orthographe
     justification largeur des titres avec max-w-[500px]
-    redoubler vidéos NFT collection et NFT detector en EN
+    redoubler vidéos NFT collection
 
-Video NFT detector
+Video NFT detector en FR et EN
 
 github - linkedin => renvoyer vers mon site
 Faire rapide présentation et profil clean dessus

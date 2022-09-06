@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <div className="w-full my-20 p-2 sm:p-8 items-center">
       <div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-orange-200 rounded-3xl shadow-lg shadow-gray-400">
-        <h1>Projet #2 : Mes NFT complètement débiles</h1>
+        <h1>Project #2: My completely stupid NFTs</h1>
         <div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
           <div className="col-span-2 xl:mr-8">
             <p className="py-2 text-gray-700 ">

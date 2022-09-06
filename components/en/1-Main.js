@@ -5,13 +5,13 @@ import Link from "next/link";
 
 export default function Main() {
   const [changingText, changeText] = useState(
-    "La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport."
+    "The reason why I find myself a developer while I'm in sports college."
   );
   var words = [
-    "Les projets que j'ai conçus, avec toutes les galères que j'ai traversées.",
-    "Mes aventures dans les cryptos, et les erreurs stupides que j'ai fait.",
-    "Toutes mes compétences en programmation, et les outils que j'ai appris à utiliser.",
-    "La raison pour laquelle je me retrouve développeur, alors que je suis en fac de sport.",
+    "The projects I designed, with all the problems I went through.",
+    "My adventures in cryptos, and the stupid mistakes I made.",
+    "All my programming skills, and the tools I learned to use.",
+    "The reason why I find myself a developer while I'm in sports college.",
   ];
   var number = 0;
 
@@ -82,7 +82,7 @@ export default function Main() {
         </h1>
         <div className=" py-4 text-lg ">
           <p className="py-2 text-gray-700 text-center text-xl lg:text-2xl ">
-            J’ai fait ce portfolio pour présenter :
+            I made this portfolio to present :
           </p>
           <p className=" px-2 text-blue-700 text-center text-xl lg:text-2xl  ">
             {changingText}
