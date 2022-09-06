@@ -1,26 +1,21 @@
-Nouvelle photo de profil (sur YT, telegram, linkedin, github aussi)
-
-Video NFT detector
-
-github - linkedin => renvoyer vers mon site
-Faire rapide présentation et profil clean dessus
-
-Me promouvoir partout !
-
-# Plus tard :
-
 Version EN
 
     texte
     orthographe
-    justification de la largeur des titres avec max-w-[500px]
-    photo portfolio en EN
-    mettre index.js en anglais et français en /fr
-    lien depuis : portfolio / bouton qui saute / en / fr / ma tête / contact (tout restester)
-    redoubler vidéos NFT collection et NFT detector en EN
+    justification largeur des titres avec max-w-[500px]
+    redoubler vidéos NFT collection
+
+Video NFT detector en FR et EN
+
+github - linkedin => renvoyer vers mon site
+Faire rapide présentation et profil clean dessus
+
+Montrer aux copains
+
+Me promouvoir partout !
 
 Mode sombre
-enlever un drapeau et mettre une icone sombre/clair à le place ?
+enlever drapeau FR et mettre une icone sombre/clair à le place
 https://sreetamdas.com/blog/the-perfect-dark-mode
 https://search.brave.com/search?q=react+nextjs+dark+mode&source=desktop
 https://github.com/xeoneux/next-dark-mode

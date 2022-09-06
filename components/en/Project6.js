@@ -45,7 +45,7 @@ export default function Projects() {
               <p className="px-3 py-3 text-lg">Mon code sur Github</p>
             </a>
             <div className="p-2 cursor-pointer hover:text-blue-700">
-              <Link href="/fr">
+              <Link href="/">
                 <div className=" flex ">
                   <AiOutlineLaptop size={50} />
                   <p className="px-3 py-3 text-lg">Mon portfolio</p>
