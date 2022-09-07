@@ -48,3 +48,11 @@ héberger :
 
 my dns server on cloudfare :
 [https://dash.cloudflare.com/b8b6e5b6cea1bcef749379a4056f67e4/noe-pecci.com/dns]
+
+# Plus tard, quand j'aurais le temps de me faire chier :
+
+Mode sombre
+enlever drapeau FR et mettre une icone sombre/clair à le place
+https://sreetamdas.com/blog/the-perfect-dark-mode
+https://search.brave.com/search?q=react+nextjs+dark+mode&source=desktop
+https://github.com/xeoneux/next-dark-mode
