@@ -28,7 +28,7 @@ export default function Projects() {
             <div class="aspect-w-16 aspect-h-9">
               <iframe
                 className="rounded-xl"
-                src="https://www.youtube.com/embed/u4aM2DMDH20"
+                src="https://www.youtube.com/embed/C8ArrxXsA8c"
                 frameborder="0"
                 allow="autoplay; encrypted-media; picture-in-picture"
                 allowfullscreen
