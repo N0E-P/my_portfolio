@@ -73,22 +73,22 @@ export default function Main() {
         </div>
       </div>
       <div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
-        <h1 className="py-4 text-gray-800">
+        <h1 className="text-gray-800">
           Hello, I'm <span className="text-blue-700">Noé!</span> A French
         </h1>
-        <h1 className="py-3 text-gray-800 max-w-[400px] sm:max-w-[1500px] m-auto">
-          <span className="text-blue-700">Junior Developer </span>in Solidity &
-          Javascript
+        <h1 className="py-6 text-gray-800">
+          <span className="text-blue-700">Junior Developer </span>in
         </h1>
-        <div className=" py-4 text-lg ">
-          <p className="py-2 text-gray-700 text-center text-xl lg:text-2xl ">
+        <h1 className="text-gray-800">Solidity, Python & Javascript</h1>
+        <div className="py-7">
+          <p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
             I made this portfolio to present :
           </p>
-          <p className=" px-2 text-blue-700 text-center text-xl lg:text-2xl  ">
+          <p className=" px-2 text-blue-700 text-center text-lg md:text-xl lg:text-2xl  ">
             {changingText}
           </p>
         </div>
-        <div className="flex justify-center mt-20">
+        <div className="flex justify-center mt-12">
           <Link href="/#presentation">
             <div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
               <HiChevronDoubleDown className="text-blue-700" size={36} />
