@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Noé | Développeur Solidity</title>
+        <title>Noé | Développeur Blockchain</title>
         <meta name="description" content="Mon Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

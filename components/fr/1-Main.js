@@ -73,12 +73,8 @@ export default function Main() {
         </div>
       </div>
       <div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
-        <h1 className="text-gray-800">
-          Bien le bonjour, je suis <span className="text-blue-700">Noé</span>
-        </h1>
-        <h1 className="py-6 text-gray-800">
-          <span className="text-blue-700">Développeur junior</span> en
-        </h1>
+        <h1 className="text-gray-800">Bien le bonjour, je suis Noé !</h1>
+        <h1 className="py-6 text-blue-700">Développeur Backend en</h1>
         <h1 className="text-gray-800">Solidity, Python & Javascript</h1>
         <div className="py-7">
           <p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
