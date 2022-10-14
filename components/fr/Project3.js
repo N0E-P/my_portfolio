@@ -57,7 +57,7 @@ export default function Projects() {
               <p className="px-3 py-3 text-lg">Ma page Devpost</p>
             </a>
             <a
-              href="https://chain.link/hackathon"
+              href="https://chain.link/hackathon/hackathon-spring-2022"
               className=" flex p-2 cursor-pointer hover:text-blue-700"
             >
               <SiChainlink size={50} />
