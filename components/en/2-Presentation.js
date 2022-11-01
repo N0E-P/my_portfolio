@@ -52,7 +52,7 @@ export default function Presentation() {
           </div>
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
             <p className=" text-white text-lg">
-              One day, my father bought some Arduino. They are small cards that
+              One day, my father bought some Arduino. There are small cards that
               you can program and link with anything and everything. I had a lot
               of fun playing with them.
             </p>
