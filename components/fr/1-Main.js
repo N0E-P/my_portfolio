@@ -5,13 +5,13 @@ import Link from "next/link";
 
 export default function Main() {
   const [changingText, changeText] = useState(
-    "La raison pour laquelle je me retrouve développeur alors que je suis en fac de sport."
+    "La raison pour laquelle je suis devenimu développeur alors que j'étais en fac de sport."
   );
   var words = [
     "Les projets que j'ai conçus, avec toutes les galères que j'ai traversées.",
     "Mes aventures dans les cryptos, et les erreurs stupides que j'ai fait.",
     "Toutes mes compétences en programmation, et les outils que j'ai appris à utiliser.",
-    "La raison pour laquelle je me retrouve développeur, alors que je suis en fac de sport.",
+    "La raison pour laquelle je suis devenu développeur, alors que j'étais en fac de sport.",
   ];
   var number = 0;
 
