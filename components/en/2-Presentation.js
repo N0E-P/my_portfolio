@@ -98,17 +98,16 @@ export default function Presentation() {
             way to make some
           </h2>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
-            Then, around mid-February 2022, I helped my older sister to make{" "}
+            Then, around mid-February 2022, I participated in{" "}
             <span>
               <a
                 href="https://www.youtube.com/watch?v=nb471gm5Xeg"
                 className="cursor-pointer text-blue-700 underline"
               >
-                an Arduino project
+                the Arduino project
               </a>
             </span>{" "}
-            for her school. That's when I noticed that I really liked
-            programming, and that I was doing pretty well too!
+            that my older sister had to do for her engineering school. That's when I noticed that I really liked programming, and I was doing pretty well too! It was elected best project of the year by the jury.
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
             Not long before, I heard about the Solidity developer job. The

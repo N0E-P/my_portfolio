@@ -101,18 +101,16 @@ export default function Presentation() {
             rechercher un moyen d'en faire
           </h2>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
-            C'est alors que vers mi-février 2022, j'ai aidé ma grande sœur à
-            faire{" "}
+            C'est alors que vers mi-février 2022, j'ai participé{" "}
             <span>
               <a
                 href="https://www.youtube.com/watch?v=nb471gm5Xeg"
                 className="cursor-pointer text-blue-700 underline"
               >
-                un projet en Arduino
+                au projet Arduino
               </a>
             </span>{" "}
-            pour son école. C'est à ce moment-là que j'ai remarqué que j'aimais
-            beaucoup programmer, et que je me débrouillais assez bien en plus !
+            que ma grande soeur devait faire pour son école d'ingénieur. C'est à ce moment-là que j'ai remarqué que j'aimais beaucoup programmer, et que je me débrouillais assez bien en plus ! Il a été élu meilleur projet de la promotion par le jury.
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
             Peu de temps avant, j’ai entendu parler du métier de développeur
