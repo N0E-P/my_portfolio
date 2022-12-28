@@ -12,7 +12,8 @@ export default function Projects() {
 							Après avoir fait ces 5 premiers projets, il était temps pour moi
 							d'essayer de trouver du travail en montrant ce que j'avais appris,
 							construis et accomplis. En même temps, j'avais aussi envie de savoir
-							mieux faire des sites web. Alors j'ai décidé de créer mon portfolio.
+							mieux faire des sites web. Alors j'ai décidé de créer{" "}
+							<span className="font-bold">mon portfolio</span>.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							Mi-août, j'ai commencé la construction. Je l'ai fait avec React, NextJS
@@ -21,8 +22,8 @@ export default function Projects() {
 							apprendre plus dessus.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							Une fois terminé, il était désormais l'heure d'aller rechercher des
-							entreprises qui apprécieraient m'embaucher.
+							Une fois terminé, il était désormais l'heure d'aller trouver d'autres
+							personnes avec qui travailler.
 						</p>
 					</div>
 					<div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">

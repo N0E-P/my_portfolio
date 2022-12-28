@@ -10,7 +10,6 @@ import Project4 from "../components/fr/Project4";
 import Project5 from "../components/fr/Project5";
 import Project6 from "../components/fr/Project6";
 import Project7 from "../components/fr/Project7";
-import Project8 from "../components/fr/Project8";
 
 export default function Home() {
 	return (
@@ -29,7 +28,6 @@ export default function Home() {
 			<Project5 />
 			<Project6 />
 			<Project7 />
-			<Project8 />
 			<Tools />
 			<Contact />
 		</div>
