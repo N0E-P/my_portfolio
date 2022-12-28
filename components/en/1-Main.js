@@ -47,8 +47,8 @@ export default function Main() {
 							<p className="pl-3 py-2 font-bold text-2xl hidden lg:flex">
 								Contact me!
 							</p>
-							<span class="relative inline-flex rounded-full h-3 w-3 bg-sky-500">
-								<span class="relative animate-ping inline-flex rounded-full h-3 w-3 bg-sky-500"></span>
+							<span className="relative inline-flex rounded-full h-3 w-3 bg-sky-500">
+								<span className="relative animate-ping inline-flex rounded-full h-3 w-3 bg-sky-500"></span>
 							</span>
 						</div>
 					</Link>

@@ -11,23 +11,23 @@ import Project5 from "../components/en/Project5";
 import Project6 from "../components/en/Project6";
 
 export default function Home() {
-  return (
-    <div>
-      <Head>
-        <title>Noé | Blockchain Developer</title>
-        <meta name="description" content="My Portfolio" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <Main />
-      <Presentation />
-      <Project1 />
-      <Project2 />
-      <Project3 />
-      <Project4 />
-      <Project5 />
-      <Project6 />
-      <Tools />
-      <Contact />
-    </div>
-  );
+	return (
+		<div>
+			<Head>
+				<title>Noé | Blockchain Developer</title>
+				<meta name="description" content="My Portfolio" />
+				<link rel="icon" href="/favicon.ico" />
+			</Head>
+			<Main />
+			<Presentation />
+			<Project1 />
+			<Project2 />
+			<Project3 />
+			<Project4 />
+			<Project5 />
+			<Project6 />
+			<Tools />
+			<Contact />
+		</div>
+	);
 }
