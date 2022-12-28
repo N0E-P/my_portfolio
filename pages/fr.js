@@ -9,25 +9,29 @@ import Project3 from "../components/fr/Project3";
 import Project4 from "../components/fr/Project4";
 import Project5 from "../components/fr/Project5";
 import Project6 from "../components/fr/Project6";
+import Project7 from "../components/fr/Project7";
+import Project8 from "../components/fr/Project8";
 
 export default function Home() {
-  return (
-    <div>
-      <Head>
-        <title>Noé | Développeur Blockchain</title>
-        <meta name="description" content="Mon Portfolio" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <Main />
-      <Presentation />
-      <Project1 />
-      <Project2 />
-      <Project3 />
-      <Project4 />
-      <Project5 />
-      <Project6 />
-      <Tools />
-      <Contact />
-    </div>
-  );
+	return (
+		<div>
+			<Head>
+				<title>Noé | Développeur Blockchain</title>
+				<meta name="description" content="Mon Portfolio" />
+				<link rel="icon" href="/favicon.ico" />
+			</Head>
+			<Main />
+			<Presentation />
+			<Project1 />
+			<Project2 />
+			<Project3 />
+			<Project4 />
+			<Project5 />
+			<Project6 />
+			<Project7 />
+			<Project8 />
+			<Tools />
+			<Contact />
+		</div>
+	);
 }
