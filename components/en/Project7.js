@@ -49,8 +49,7 @@ export default function Projects() {
 							technology to the juries.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							MetaCare is a tool that puts and manages medical data on the blockchain
-							through digital twin NFTs assigned to each person.
+							MetaCare is a tool for gathering and managing all of a person's medical data in one place through a digital twin NFT linked to it.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							I built the smart contract, enabled to automatically retrieve someone's
