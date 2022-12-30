@@ -49,8 +49,7 @@ export default function Projects() {
 							et présenter notre technologie aux jurys.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							MetaCare est un outil permettant de mettre et de gérer des données
-							médicales sur la blockchain grâce à des NFTs attitrés à chaque personne.
+							MetaCare est un outil permettant de récupérer et de gérer toutes des données médicales d'une personne à un seul endroit grâce à un NFT spécial qui lui est lié.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							J'ai construit le smart contract, permis d'automatiquement récupérer les
