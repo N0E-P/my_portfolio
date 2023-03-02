@@ -15,9 +15,11 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Noé | Blockchain Developer</title>
-				<meta name="description" content="My Portfolio" />
+				<title>Noé's Portfolio</title>
 				<link rel="icon" href="/favicon.ico" />
+				<meta property="og:type" content="Noé's Portfolio" /> 
+				<meta property="og:description" content="Javascript & Solidity Developer" />
+				<meta property="og:image" content={"https://noe-pecci.com/me/profile-photo.jpg"}/>
 			</Head>
 			<Main />
 			<Presentation />
