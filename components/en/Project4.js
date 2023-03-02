@@ -7,7 +7,7 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							When I was a kid, I absolutely wanted to have a remote controlled car
+							When I was a kid, I absolutely wanted to have a remote-controlled car
 							made of Lego. Except that back then, I had absolutely no idea how to do
 							it.
 						</p>
