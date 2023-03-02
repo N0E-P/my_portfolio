@@ -33,7 +33,7 @@ export default function Projects() {
 									href="https://www.linkedin.com/in/luis-pedro-pinto"
 									className="cursor-pointer text-blue-700 underline"
 								>
-									Luìs
+									Luís
 								</a>
 							</span>
 							{" and "}
@@ -57,8 +57,8 @@ export default function Projects() {
 							based on the users' data.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							We managed to win Chainlink's Top Quality Projects award. I'm very proud
-							to have accomplished this even though this is only my 2nd Hackathon, and
+							We managed to win Chainlink's Top Quality Projects Award. I'm very proud
+							to have accomplished this, even though this is only my 2nd Hackathon, and
 							we don't plan to stop there!
 						</p>
 					</div>
