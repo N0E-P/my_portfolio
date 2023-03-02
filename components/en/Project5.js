@@ -26,7 +26,7 @@ export default function Projects() {
 							finished, I was damn proud of myself!
 						</p>
 						<p className="py-4 text-gray-700 italic">
-							<span className="underline">Fun fact :</span> As I write this, I am one
+							<span className="underline">Fun fact:</span> As I'm writing this, I am one
 							of only 40 people in the world to have finished the training and have
 							these 5 NFTs. Now I'm really confident in the business!{" "}
 							<span className=" not-italic">😁</span>
