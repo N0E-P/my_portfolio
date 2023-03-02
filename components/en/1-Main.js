@@ -78,7 +78,7 @@ export default function Main() {
 				<h1 className="text-gray-800">Javascript & Solidity</h1>
 				<div className="py-7">
 					<p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-						I made this portfolio to present :
+						I made this portfolio to present:
 					</p>
 					<p className=" px-2 text-blue-700 text-center text-lg md:text-xl lg:text-2xl  ">
 						{changingText}
