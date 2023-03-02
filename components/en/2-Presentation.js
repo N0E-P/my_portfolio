@@ -13,7 +13,7 @@ export default function Presentation() {
           <div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
             <p className=" text-white text-lg">
               I started with Lego. I used to stay in my garden shed all the
-              time, building cars and houses that I would end up blowing up.
+              time, building cars and houses that I would end up blowing.
             </p>
             <p className="mt-5 text-white text-lg">
               My dream was to work for them. But even though I was slowly
@@ -75,7 +75,7 @@ export default function Presentation() {
         <div className="max-w-[1325px] m-auto">
           <h2 className="text-center mt-48 my-2 max-w-[700px] xl:max-w-[825px] m-auto">
             On July 27, 2021, I had the misfortune to fall into the world of
-            crypto-currencies
+            cryptocurrencies
           </h2>
           <p className="sm:mx-10 my-2 md:text-center py-3 p-4">
             Usually, it's not something bad. But the problem is that I did
@@ -107,7 +107,7 @@ export default function Presentation() {
                 the Arduino project
               </a>
             </span>{" "}
-            that my older sister had to do for her engineering school. That's when I noticed that I really liked programming, and I was doing pretty well too! It was elected best project of the year by the jury.
+            that my older sister had to do for her engineering school. That's when I noticed that I really liked programming, and I was doing pretty well too! It was elected the best project of the year by the jury.
           </p>
           <p className="sm:mx-10 my-2 text-justify p-4 ">
             Not long before, I heard about the Solidity developer job. The
