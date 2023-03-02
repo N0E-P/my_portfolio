@@ -67,7 +67,7 @@ export default function Projects() {
 							className=" flex p-2 cursor-pointer hover:text-blue-700"
 						>
 							<BsBook size={50} />
-							<p className="px-3 py-3 text-lg">Everything I learned</p>
+							<p className="px-3 py-3 text-lg">Everything I've learned</p>
 						</a>
 					</div>
 				</div>
