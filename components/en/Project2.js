@@ -8,7 +8,7 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							In the beginning of April, I took a small one hour training to learn how
+							In the beginning of April, I took a small one-hour training to learn how
 							to make my own NFTs. I created 2500 of them myself, sent their metadata
 							to IPFS, chose all the parameters I wanted, and customized a dapp to
 							mint them.
