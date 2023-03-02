@@ -15,7 +15,7 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Noé | Développeur Blockchain</title>
+				<title>Portfolio de Noé</title>
 				<link rel="icon" href="/favicon.ico" />
 				<meta property="og:type" content="Portfolio de Noé" /> 
 				<meta property="og:description" content="Développeur Javascript & Solidity" />
