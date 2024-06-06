@@ -34,14 +34,14 @@ export default function Main() {
 				<Link href="/fr">
 					<img
 						className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
-						src={"me/profile-photo.jpg"}
+						src={"/me/profile-photo.jpg"}
 						alt="Noé Pecci"
 						width="200"
 						height="200"
 					/>
 				</Link>
 				<div className="sm:flex ">
-					<Link href="/fr#contact">
+					<Link href="/fr/programmation#contact">
 						<div className="bg-blue-100 m-3 justify-center hidden sm:flex rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
 							<AiOutlineMail size={50} className="pl-2" />
 							<p className="pl-3 py-2 font-bold text-2xl hidden lg:flex">
@@ -52,19 +52,19 @@ export default function Main() {
 							</span>
 						</div>
 					</Link>
-					<Link href="/fr">
+					<Link href="/fr/programmation">
 						<img
 							className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer ml-5"
-							src={"flags/fr.png"}
+							src={"/flags/fr.png"}
 							alt="Français"
 							width="100"
 							height="75"
 						/>
 					</Link>
-					<Link href="/en">
+					<Link href="/en/programming">
 						<img
 							className="m-4 sm:mr-8 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
-							src={"flags/en.png"}
+							src={"/flags/en.png"}
 							alt="English"
 							width="110"
 							height="75"
@@ -85,7 +85,7 @@ export default function Main() {
 					</p>
 				</div>
 				<div className="flex justify-center mt-12">
-					<Link href="/fr#presentation">
+					<Link href="/fr/programmation#presentation">
 						<div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
 							<HiChevronDoubleDown className="text-blue-700" size={36} />
 						</div>

@@ -17,16 +17,18 @@ export default function Contact() {
 						alt="/"
 					/>
 					<h2 className="py-2 sm:py-4 text-center mt-2 text-3xl sm:text-4xl">
-						Contact me!
+						Contactez-moi !
 					</h2>
 					<p className="pt-2 text-gray-700 xl:text-lg">
-						I am available for a freelance mission or to work full time.
+						Je suis disponible, aussi bien pour travailler sur des vélos que sur un
+						projet informatique ou électronique.
 					</p>
 					<p className="py-3 text-gray-700 xl:text-lg">
-						Of course, I plan to keep learning, to improve my skills over time.
+						Je compte évidemment continuer d'apprendre, pour améliorer mes compétences
+						avec le temps.
 					</p>
 					<p className="pb-2 text-gray-700 xl:text-lg">
-						Do not hesitate to contact me! 😊
+						N'hésitez pas à me contacter ! 😊
 					</p>
 					<div className="bg-[#ecf0f3] mt-3 rounded-full grid grid-cols-5 w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
 						<AiOutlineMail size={25} />

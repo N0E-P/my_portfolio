@@ -34,7 +34,7 @@ export default function Main() {
 				<Link href="/en">
 					<img
 						className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
-						src={"me/profile-photo.jpg"}
+						src={"/me/profile-photo.jpg"}
 						alt="Noé Pecci"
 						width="200"
 						height="200"
@@ -55,7 +55,7 @@ export default function Main() {
 					<Link href="/fr">
 						<img
 							className="m-4 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer ml-5"
-							src={"flags/fr.png"}
+							src={"/flags/fr.png"}
 							alt="Français"
 							width="100"
 							height="75"
@@ -64,7 +64,7 @@ export default function Main() {
 					<Link href="/en">
 						<img
 							className="m-4 sm:mr-8 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
-							src={"flags/en.png"}
+							src={"/flags/en.png"}
 							alt="English"
 							width="110"
 							height="75"

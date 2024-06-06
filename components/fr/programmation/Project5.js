@@ -51,7 +51,7 @@ export default function Projects() {
 						>
 							<img
 								className="rounded-xl"
-								src={"projets/NFTs.png"}
+								src={"/projets/NFTs.png"}
 								width="1462px"
 								height="423px"
 								alt="/"
