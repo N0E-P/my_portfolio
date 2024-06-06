@@ -20,7 +20,8 @@ export default function Contact() {
 						Contact me!
 					</h2>
 					<p className="pt-2 text-gray-700 xl:text-lg">
-						I am available for a freelance mission or to work full time.
+						I'm available to work on bicycles as well as on computer and electronics
+						projects.
 					</p>
 					<p className="py-3 text-gray-700 xl:text-lg">
 						Of course, I plan to keep learning, to improve my skills over time.

@@ -2,7 +2,7 @@ import Head from "next/head";
 import Main from "../../components/en/bike/1-Main";
 import Presentation from "../../components/en/bike/2-Presentation";
 import Tools from "../../components/en/bike/3-Tools";
-import Contact from "../../components/en/bike/4-Contact";
+import Contact from "../../components/en/Contact";
 
 export default function Home() {
 	return (
