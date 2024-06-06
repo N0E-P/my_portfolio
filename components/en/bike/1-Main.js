@@ -5,13 +5,13 @@ import Link from "next/link";
 
 export default function Main() {
 	const [changingText, changeText] = useState(
-		"La raison pour laquelle je suis devenimu développeur alors que j'étais en fac de sport."
+		"The reason I became a developer while I was in sports college."
 	);
 	var words = [
-		"Les projets que j'ai conçus, avec toutes les galères que j'ai traversées.",
-		"Mes aventures dans les cryptos, et les erreurs stupides que j'ai fait.",
-		"Toutes mes compétences en programmation, et les outils que j'ai appris à utiliser.",
-		"La raison pour laquelle je suis devenu développeur, alors que j'étais en fac de sport.",
+		"The projects I designed, with all the problems I went through.",
+		"My adventures in cryptos, and the stupid mistakes I made.",
+		"All my programming skills, and the tools I learned to use.",
+		"The reason I became a developer while I was in sports college.",
 	];
 	var number = 0;
 
@@ -31,7 +31,7 @@ export default function Main() {
 	return (
 		<div>
 			<div className="flex max-w-[1500px] m-auto justify-between items-center h-full">
-				<Link href="/fr">
+				<Link href="/en">
 					<img
 						className=" bg-blue-100 rounded-full m-2 mt-4 sm:m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300"
 						src={"me/profile-photo.jpg"}
@@ -41,11 +41,11 @@ export default function Main() {
 					/>
 				</Link>
 				<div className="sm:flex ">
-					<Link href="/fr#contact">
+					<Link href="/en#contact">
 						<div className="bg-blue-100 m-3 justify-center hidden sm:flex rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
 							<AiOutlineMail size={50} className="pl-2" />
 							<p className="pl-3 py-2 font-bold text-2xl hidden lg:flex">
-								Contactez-moi !
+								Contact me!
 							</p>
 							<span className="relative inline-flex rounded-full h-3 w-3 bg-sky-500">
 								<span className="relative animate-ping inline-flex rounded-full h-3 w-3 bg-sky-500"></span>
@@ -61,7 +61,7 @@ export default function Main() {
 							height="75"
 						/>
 					</Link>
-					<Link href="/">
+					<Link href="/en">
 						<img
 							className="m-4 sm:mr-8 rounded-xl hover:scale-110 ease-in duration-300 cursor-pointer "
 							src={"flags/en.png"}
@@ -73,19 +73,19 @@ export default function Main() {
 				</div>
 			</div>
 			<div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
-				<h1 className="text-gray-800">Bien le bonjour, je suis Noé !</h1>
-				<h1 className="py-6 text-blue-700">Développeur Backend en</h1>
+				<h1 className="text-gray-800">Hello, I'm Noé!</h1>
+				<h1 className="py-6 text-blue-700">A French Developer in</h1>
 				<h1 className="text-gray-800">Javascript & Solidity</h1>
 				<div className="py-7">
 					<p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-						J’ai fait ce portfolio pour présenter :
+						I made this portfolio to present:
 					</p>
 					<p className=" px-2 text-blue-700 text-center text-lg md:text-xl lg:text-2xl  ">
 						{changingText}
 					</p>
 				</div>
 				<div className="flex justify-center mt-12">
-					<Link href="/fr#presentation">
+					<Link href="/en#presentation">
 						<div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
 							<HiChevronDoubleDown className="text-blue-700" size={36} />
 						</div>
