@@ -1,153 +1,206 @@
 export default function Tools() {
 	return (
-		<div id="tools" className="w-full max-w-[1500px] m-auto h-full p-2 items-center py-32">
-			<h1 className="py-10 text-center underline">Les outils que j'utilise :</h1>
-			<div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8 ">
-				<a
-					href="https://docs.soliditylang.org/en/latest/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/solidity.png"} width="75px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/javascript.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://www.typescriptlang.org/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/typescript.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://www.python.org/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/python.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://www.java.com/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/java.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://www.arduino.cc/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/arduino.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://github.com/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/github.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://docs.ethers.io/v5/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/ethersjs.png"} width="100px" height="60px" alt="/" />
-				</a>
-				<a
-					href="https://hardhat.org/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/hardhat.png"} width="100px" height="70px" alt="/" />
-				</a>
-				<a
-					href="https://eth-brownie.readthedocs.io/en/stable/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/brownie.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://web3py.readthedocs.io/en/stable/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/web3py.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://moralis.io/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/moralis.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://trufflesuite.com/ganache/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/ganache.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://thegraph.com/en/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/thegraph.png"} width="100px" height="100px" alt="/" />
-				</a>
-
-				<a
-					href="https://usedapp.io/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/usedapp.png"} width="224px" height="72px" alt="/" />
-				</a>
-				<a
-					href="https://github.com/web3ui/web3uikit#web3uikit"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/web3uikit.png"} width="150px" height="64px" alt="/" />
-				</a>
-				<a
-					href="https://www.openzeppelin.com/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/openzeppelin.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://chain.link/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/chainlink.png"} width="85px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://infura.io/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/infura.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://reactjs.org/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/react.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://nextjs.org/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/nextjs.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://tailwindcss.com/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/tailwindcss.png"} width="130px" height="80px" alt="/" />
-				</a>
-				<a
-					href="https://ipfs.io/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/ipfs.png"} width="100px" height="100px" alt="/" />
-				</a>
-				<a
-					href="https://www.pinata.cloud/"
-					className="p-4 m-auto justify-center items-center shadow-xl rounded-xl hover:scale-105 ease-in duration-300"
-				>
-					<img src={"/tools/pinata.png"} width="100px" height="100px" alt="/" />
-				</a>
+		<div id="tools" className="w-full max-w-[1300px] m-auto h-full p-2 items-center py-32">
+			<h1 className="py-8 text-center underline">Qu'est ce que je sais faire ?</h1>
+			<div className="grid lg:grid-cols-2 gap-8 ">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">peugeot bleu / fixie (qui arrive)</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/16.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm"></p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">vélo ville Cyril</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Nakamura ville noir Edouard - Remplacement chambre à air arrière, shifter
+						arrière. Réglage freins et dérailleur arrière
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/13.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">VTT Rose Suisse</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">VTT Loulou</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/11.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Remplacement pédales, selle, axe arrière, cassette, vis usagées, cables
+						freins et vitesses. Réglage freins, dérailleurs avant et arrière. Nettoyage
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/10.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Remplacement pédales, potence, guidon, guidoline, manette de freins, selle.
+						Installation gardes boues. Réglage freins et dérailleurs avant et arrière.
+						Nettoyage
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/9.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Remplacement selle, guidon, potence, pédales, guidoline. Installation cales
+						pieds, barres aéro, gardes boues, lampe arrière, sacoche cadre. Réparation
+						roues voilées. Réglages freins, dérailleurs avant et arrière. Nettoyage
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Etyk bleu rouge et blanc Léo Remplacement pédalier, chaine et cassette.
+						Réglage dérailleurs avant et arrière. Nettoyage
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/7.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Réglage dérailleur arrière. Installation lampes avant et arrière, alarme
+						antivol
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/6.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Remplacement pneu avant et arrière. Passage en monoplateau et installation
+						d'un dérailleur arrière. Nettoyage
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/5.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm"></p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/4.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm"></p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/3.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm"></p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/2.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Remplacement pneus, patins de frein à disque, poignées grips, guidon, huile
+						de freinage. Installation garde boues, portes gourdes, compteur
+						kilométrique. Réglages dérailleurs avant et arrière, fourche, freins,
+						shifters. Nettoyage
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">premier vtt primaire</p>
+				</div>
 			</div>
 		</div>
 	);
