@@ -24,7 +24,7 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mr-4">
 						<p className=" text-white text-lg">
-							J'ai déjà quasiment tout monté et démonté : Le cambouis, la rouille et
+							J'ai déjà quasiment tout monté et démonté. Le cambouis, la rouille et
 							les roulements à bille qui se barrent ne me font plus peur.
 						</p>
 					</div>

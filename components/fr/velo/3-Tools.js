@@ -8,10 +8,14 @@ export default function Tools() {
 						src={"/bikes/bike.jpg"}
 						width="200px"
 						height="200px"
-						alt="/"
+						alt="Fixie"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">peugeot bleu / fixie (qui arrive)</p>
+					<p className="text-sm">
+						Démontage, nettoyage, sablage, graissage et remontage complet. Peinture du
+						cadre et de la fourche. Transformation de roue freewheel en fixie. Création
+						de stickers et personnalisation.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -21,29 +25,35 @@ export default function Tools() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm"></p>
+					<p className="text-sm">
+						Passage en tubeless. Changement de potence et de selle. Pose de stickers de
+						protection. Réglage des dérailleurs arrière et avant. Installation de
+						capteurs de puissance et d'équipements de base.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
 						height="200px"
-						alt="/"
-						className="rounded-xl"
-					/>
-					<p className="text-sm">vélo ville Cyril</p>
-				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-					<img
-						src={"/bikes/bike.jpg"}
-						width="200px"
-						height="200px"
-						alt="/"
+						alt="vélo ville Cyril"
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Nakamura ville noir Edouard - Remplacement chambre à air arrière, shifter
-						arrière. Réglage freins et dérailleur arrière
+						Changement de chambre à air et réglage des freins avant et arrière.
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/bike.jpg"}
+						width="200px"
+						height="200px"
+						alt="Nakamura ville noir Edouard"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Changement du shifter arrière et d'une chambre à air. Réglage des freins et
+						du dérailleur arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -54,17 +64,23 @@ export default function Tools() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">VTT Rose Suisse</p>
+					<p className="text-sm">
+						Décoincage de la chaine emmellée. Réglages des dérailleurs avant et arrière.
+						Ajout et retrait d'accessoires.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
 						height="200px"
-						alt="/"
+						alt="VTT Loulou"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">VTT Loulou</p>
+					<p className="text-sm">
+						Ré-alignement des roues voilées. Réglages des dérailleurs avant et arrière.
+						Changement de chambre à air.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -75,8 +91,9 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Remplacement pédales, selle, axe arrière, cassette, vis usagées, cables
-						freins et vitesses. Réglage freins, dérailleurs avant et arrière. Nettoyage
+						Remplacement des pédales, de la selle, de l'axe arrière, de la cassette, des
+						vis usagées, des cables de freins et de vitesses. Réglage des freins et
+						dérailleurs avant et arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -88,9 +105,9 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Remplacement pédales, potence, guidon, guidoline, manette de freins, selle.
-						Installation gardes boues. Réglage freins et dérailleurs avant et arrière.
-						Nettoyage
+						Remplacement des pédales, de la potence, du guidon, de la guidoline, des
+						manette de freins, de la selle. Installation de gardes boues. Réglage des
+						freins et dérailleurs avant et arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -102,22 +119,24 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Remplacement selle, guidon, potence, pédales, guidoline. Installation cales
-						pieds, barres aéro, gardes boues, lampe arrière, sacoche cadre. Réparation
-						roues voilées. Réglages freins, dérailleurs avant et arrière. Nettoyage
+						Remplacement de la selle, du guidon, de la potence, des pédales, de la
+						guidoline. Installation de cales pieds, de barres aéro, de gardes boues, et
+						d'accessoires. Réparation des roues voilées. Réglage des freins et
+						dérailleurs avant et arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/8.jpeg"}
 						width="200px"
 						height="200px"
 						alt="/"
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Etyk bleu rouge et blanc Léo Remplacement pédalier, chaine et cassette.
-						Réglage dérailleurs avant et arrière. Nettoyage
+						Remplacement du pédalier, de la chaine et de la cassette. Remplissage du
+						liquide de frein. Déblocage de la fourche. Réglage des dérailleurs avant et
+						arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -129,8 +148,8 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Réglage dérailleur arrière. Installation lampes avant et arrière, alarme
-						antivol
+						Réglage du dérailleur arrière et des freins. Installation d'un porte bagage
+						et d'accessoires.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -142,8 +161,9 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Remplacement pneu avant et arrière. Passage en monoplateau et installation
-						d'un dérailleur arrière. Nettoyage
+						Remplacement des pneus avant et arrière. Passage en monoplateau et
+						installation d'un dérailleur arrière. Réglage des freins et du dérailleur
+						arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -154,7 +174,10 @@ export default function Tools() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm"></p>
+					<p className="text-sm">
+						Peinture du guidon et des gaines. Changement du pneu arrière. Réglage des
+						freins et des dérailleurs avant et arrière.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -164,7 +187,9 @@ export default function Tools() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm"></p>
+					<p className="text-sm">
+						Passage en single speed. Installation d'accessoires et réglage des freins.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -174,7 +199,10 @@ export default function Tools() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm"></p>
+					<p className="text-sm">
+						Installation d'accessoires. Réglage des freins et des dérailleurs avant et
+						arrière.
+					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -185,21 +213,24 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Remplacement pneus, patins de frein à disque, poignées grips, guidon, huile
-						de freinage. Installation garde boues, portes gourdes, compteur
-						kilométrique. Réglages dérailleurs avant et arrière, fourche, freins,
-						shifters. Nettoyage
+						Remplacement du pédalier, du dérailleur arrière, de la chaine, de la
+						cassette, des pneus, des chambres à air, des patins de frein, des poignées,
+						des grips, du guidon et de l'huile de freinage. (Remplacement de tout en
+						fait) Démontage et déblocage de la fourche. Réglage des freins et des
+						dérailleurs avant et arrière. Installation d'accessoires.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/1.jpg"}
 						width="200px"
 						height="200px"
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">premier vtt primaire</p>
+					<p className="text-sm">
+						Réglage des freins et des dérailleurs avant et arrière.
+					</p>
 				</div>
 			</div>
 		</div>

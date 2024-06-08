@@ -24,7 +24,7 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mr-4">
 						<p className=" text-white text-lg">
-							I've already assembled and disassembled almost everything: Grease, rust,
+							I've already assembled and disassembled almost everything. Grease, rust,
 							and ball bearings that run away no longer scare me.
 						</p>
 					</div>

@@ -23,9 +23,9 @@ export default function Presentation() {
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto ">
 								<img
 									className="rounded-xl"
-									src="/me/lego.JPG"
-									width="2292px"
-									height="2788px"
+									src="/me/prog.JPG"
+									width="2769px"
+									height="1846px"
 									alt="/"
 								/>
 							</div>
@@ -45,9 +45,9 @@ export default function Presentation() {
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
 									className="rounded-xl"
-									src={"/me/minecraft.JPG"}
-									width="3072px"
-									height="2304px"
+									src={"/me/velo.JPG"}
+									width="4512px"
+									height="3008px"
 									alt="/"
 								/>
 							</div>
