@@ -1,33 +1,8 @@
-import { useState, useEffect } from "react";
 import { HiChevronDoubleDown } from "react-icons/hi";
 import { AiOutlineMail } from "react-icons/ai";
 import Link from "next/link";
 
 export default function Main() {
-	const [changingText, changeText] = useState(
-		"La raison pour laquelle je suis devenimu développeur alors que j'étais en fac de sport."
-	);
-	var words = [
-		"Les projets que j'ai conçus, avec toutes les galères que j'ai traversées.",
-		"Mes aventures dans les cryptos, et les erreurs stupides que j'ai fait.",
-		"Toutes mes compétences en programmation, et les outils que j'ai appris à utiliser.",
-		"La raison pour laquelle je suis devenu développeur, alors que j'étais en fac de sport.",
-	];
-	var number = 0;
-
-	useEffect(() => {
-		const interval = setInterval(() => {
-			changeText(words[number]);
-			if (number < 3) {
-				number = number + 1;
-			} else {
-				number = 0;
-			}
-		}, 5000);
-
-		return () => clearInterval(interval);
-	}, []);
-
 	return (
 		<div>
 			<div className="flex max-w-[1500px] m-auto justify-between items-center h-full">
@@ -74,16 +49,7 @@ export default function Main() {
 			</div>
 			<div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
 				<h1 className="text-gray-800">Bien le bonjour, je suis Noé !</h1>
-				<h1 className="py-6 text-blue-700">Développeur Backend en</h1>
-				<h1 className="text-gray-800">Javascript & Solidity</h1>
-				<div className="py-7">
-					<p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-						J’ai fait ce portfolio pour présenter :
-					</p>
-					<p className=" px-2 text-blue-700 text-center text-lg md:text-xl lg:text-2xl  ">
-						{changingText}
-					</p>
-				</div>
+				<h1 className="py-6 text-blue-700">Réparateur & Constructeur de Vélos</h1>
 				<div className="flex justify-center mt-12">
 					<Link href="/fr/velo#presentation">
 						<div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
