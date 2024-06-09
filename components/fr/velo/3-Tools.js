@@ -106,7 +106,7 @@ export default function Tools() {
 					/>
 					<p className="text-sm">
 						Remplacement des pédales, de la potence, du guidon, de la guidoline, des
-						manettes de freins, de la selle. Installation de garde-boues. Réglage des
+						manettes de freins et de la selle. Installation de garde-boues. Réglage des
 						freins et des dérailleurs avant et arrière.
 					</p>
 				</div>
