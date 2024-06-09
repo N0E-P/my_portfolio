@@ -12,9 +12,9 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Démontage, nettoyage, sablage, graissage et remontage complet. Peinture du
-						cadre et de la fourche. Transformation de roue freewheel en fixie. Création
-						de stickers et personnalisation.
+						Démontage, nettoyage, sablage, graissage et remontage de tout les
+						composants. Peinture du cadre et de la fourche. Transformation de roue
+						freewheel en fixie. Création de stickers et personnalisation.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -45,10 +45,10 @@ export default function Tools() {
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/14.jpg"}
 						width="200px"
 						height="200px"
-						alt="Nakamura ville noir Edouard"
+						alt="/"
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
