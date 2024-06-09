@@ -12,7 +12,7 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Démontage, nettoyage, sablage, graissage et remontage de tout les
+						Démontage, nettoyage, sablage, graissage et remontage de tous les
 						composants. Peinture du cadre et de la fourche. Transformation de roue
 						freewheel en fixie. Création de stickers et personnalisation.
 					</p>
@@ -65,7 +65,7 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Décoincage de la chaine emmellée. Réglages des dérailleurs avant et arrière.
+						Décoinçage de la chaine emmêlée. Réglages des dérailleurs avant et arrière.
 						Ajout et retrait d'accessoires.
 					</p>
 				</div>
@@ -78,7 +78,7 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Ré-alignement des roues voilées. Réglages des dérailleurs avant et arrière.
+						Réalignement des roues voilées. Réglages des dérailleurs avant et arrière.
 						Changement de chambre à air.
 					</p>
 				</div>
@@ -92,7 +92,7 @@ export default function Tools() {
 					/>
 					<p className="text-sm">
 						Remplacement des pédales, de la selle, de l'axe arrière, de la cassette, des
-						vis usagées, des cables de freins et de vitesses. Réglage des freins et
+						vis usagées, des câbles de freins et de vitesses. Réglage des freins et des
 						dérailleurs avant et arrière.
 					</p>
 				</div>
@@ -106,8 +106,8 @@ export default function Tools() {
 					/>
 					<p className="text-sm">
 						Remplacement des pédales, de la potence, du guidon, de la guidoline, des
-						manette de freins, de la selle. Installation de gardes boues. Réglage des
-						freins et dérailleurs avant et arrière.
+						manettes de freins, de la selle. Installation de garde-boues. Réglage des
+						freins et des dérailleurs avant et arrière.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -120,8 +120,8 @@ export default function Tools() {
 					/>
 					<p className="text-sm">
 						Remplacement de la selle, du guidon, de la potence, des pédales, de la
-						guidoline. Installation de cales pieds, de barres aéro, de gardes boues, et
-						d'accessoires. Réparation des roues voilées. Réglage des freins et
+						guidoline. Installation de cales pieds, de barres aéro, de gardes boues et
+						d'accessoires. Réparation des roues voilées. Réglage des freins et des
 						dérailleurs avant et arrière.
 					</p>
 				</div>
@@ -148,7 +148,7 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Réglage du dérailleur arrière et des freins. Installation d'un porte bagage
+						Réglage du dérailleur arrière et des freins. Installation d'un porte-bagage
 						et d'accessoires.
 					</p>
 				</div>
