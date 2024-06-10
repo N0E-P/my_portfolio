@@ -6,8 +6,8 @@ export default function Presentation() {
 				<div className="md:grid grid-cols-2">
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 md:mr-8 md:ml-4">
 						<p className=" text-white text-lg">
-							I'm young and stupid, but I've got experience: I've worked on over
-							twenty bikes, all of which run perfectly and are still in service.
+							I'm young but I've got experience: I've worked on over twenty bikes, all
+							of which run perfectly and are still in service.
 						</p>
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mt-0 md:mr-4">
