@@ -23,7 +23,7 @@ export default function Presentation() {
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto ">
 								<img
 									className="rounded-xl"
-									src="/me/prog.JPG"
+									src="/me/prog.jpg"
 									width="2769px"
 									height="1846px"
 									alt="/"
@@ -45,7 +45,7 @@ export default function Presentation() {
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
 									className="rounded-xl"
-									src={"/me/velo.JPG"}
+									src={"/me/velo.jpg"}
 									width="4512px"
 									height="3008px"
 									alt="/"
