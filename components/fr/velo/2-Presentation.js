@@ -12,8 +12,8 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mt-0 md:mr-4">
 						<p className=" text-white text-lg">
-							Mes vélos sont affinés au détail près, contrairement à ceux vendus mal
-							vissés chez Decathlon.
+							Mes vélos sont affinés au poil de cul près, contrairement à ceux vendus
+							mal vissés chez Decathlon.
 						</p>
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 md:mr-8 mt-8 md:ml-4">
