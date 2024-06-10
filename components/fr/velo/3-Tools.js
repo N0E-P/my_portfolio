@@ -3,7 +3,7 @@ export default function Tools() {
 		<div id="tools" className="w-full max-w-[1300px] m-auto h-full p-2 items-center py-32">
 			<h1 className="py-8 text-center underline">Qu'est ce que je sais faire ?</h1>
 			<div className="grid lg:grid-cols-2 gap-8 ">
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -17,7 +17,7 @@ export default function Tools() {
 						freewheel en fixie. Création de stickers et personnalisation.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/16.jpg"}
 						width="200px"
@@ -31,7 +31,7 @@ export default function Tools() {
 						capteurs de puissance et d'équipements de base.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -43,7 +43,7 @@ export default function Tools() {
 						Changement de chambre à air et réglage des freins avant et arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/14.jpg"}
 						width="200px"
@@ -56,7 +56,7 @@ export default function Tools() {
 						du dérailleur arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/13.jpg"}
 						width="200px"
@@ -69,7 +69,7 @@ export default function Tools() {
 						Ajout et retrait d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -82,7 +82,7 @@ export default function Tools() {
 						Changement de chambre à air.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/11.jpg"}
 						width="200px"
@@ -96,7 +96,7 @@ export default function Tools() {
 						dérailleurs avant et arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/10.jpg"}
 						width="200px"
@@ -110,7 +110,7 @@ export default function Tools() {
 						freins et des dérailleurs avant et arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/9.jpg"}
 						width="200px"
@@ -125,7 +125,7 @@ export default function Tools() {
 						dérailleurs avant et arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/8.jpeg"}
 						width="200px"
@@ -139,7 +139,7 @@ export default function Tools() {
 						arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/7.jpg"}
 						width="200px"
@@ -152,7 +152,7 @@ export default function Tools() {
 						et d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/6.jpg"}
 						width="200px"
@@ -166,7 +166,7 @@ export default function Tools() {
 						arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/5.jpg"}
 						width="200px"
@@ -179,7 +179,7 @@ export default function Tools() {
 						freins et des dérailleurs avant et arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/4.jpg"}
 						width="200px"
@@ -191,7 +191,7 @@ export default function Tools() {
 						Passage en single speed. Installation d'accessoires et réglage des freins.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/3.jpg"}
 						width="200px"
@@ -204,7 +204,7 @@ export default function Tools() {
 						arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/2.jpg"}
 						width="200px"
@@ -220,7 +220,7 @@ export default function Tools() {
 						dérailleurs avant et arrière. Installation d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/1.JPG"}
 						width="200px"

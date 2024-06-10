@@ -3,7 +3,7 @@ export default function Tools() {
 		<div id="tools" className="w-full max-w-[1300px] m-auto h-full p-2 items-center py-32">
 			<h1 className="py-8 text-center underline">What can I do?</h1>
 			<div className="grid lg:grid-cols-2 gap-8 ">
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -16,7 +16,7 @@ export default function Tools() {
 						painting. Freewheel to fixie conversion. Stickers and personalization.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/16.jpg"}
 						width="200px"
@@ -30,7 +30,7 @@ export default function Tools() {
 						power sensors and basic equipment.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -42,7 +42,7 @@ export default function Tools() {
 						Inner tube change and front and rear brakes adjustment.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/14.jpg"}
 						width="200px"
@@ -55,7 +55,7 @@ export default function Tools() {
 						adjustment.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/13.jpg"}
 						width="200px"
@@ -68,7 +68,7 @@ export default function Tools() {
 						removing accessories.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -81,7 +81,7 @@ export default function Tools() {
 						change.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/11.jpg"}
 						width="200px"
@@ -94,7 +94,7 @@ export default function Tools() {
 						replacement. Front and rear derailleurs and brakes adjustments.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/10.jpg"}
 						width="200px"
@@ -108,7 +108,7 @@ export default function Tools() {
 						adjustments.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/9.jpg"}
 						width="200px"
@@ -122,7 +122,7 @@ export default function Tools() {
 						repair. Front and rear derailleurs and brakes adjustments.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/8.jpeg"}
 						width="200px"
@@ -135,7 +135,7 @@ export default function Tools() {
 						unlocking. Front and rear derailleurs adjustments.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/7.jpg"}
 						width="200px"
@@ -148,7 +148,7 @@ export default function Tools() {
 						installation.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/6.jpg"}
 						width="200px"
@@ -161,7 +161,7 @@ export default function Tools() {
 						derailleur installation. Adjustment of the brakes and the rear derailleur.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/5.jpg"}
 						width="200px"
@@ -174,7 +174,7 @@ export default function Tools() {
 						derailleurs adjustments.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/4.jpg"}
 						width="200px"
@@ -186,7 +186,7 @@ export default function Tools() {
 						Switch to single-speed. Installation of accessories and brake adjustment.{" "}
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/3.jpg"}
 						width="200px"
@@ -199,7 +199,7 @@ export default function Tools() {
 						derailleurs.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/2.jpg"}
 						width="200px"
@@ -214,7 +214,7 @@ export default function Tools() {
 						adjustments. Installation of accessories.
 					</p>
 				</div>
-				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-1 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/1.JPG"}
 						width="200px"
