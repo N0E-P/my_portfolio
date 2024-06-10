@@ -8,7 +8,7 @@ export default function Tools() {
 						src={"/bikes/bike.jpg"}
 						width="200px"
 						height="200px"
-						alt="Fixie"
+						alt="/"
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
@@ -32,10 +32,10 @@ export default function Tools() {
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/15.jpg"}
 						width="200px"
 						height="200px"
-						alt="vélo ville Cyril"
+						alt="/"
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
@@ -73,7 +73,7 @@ export default function Tools() {
 						src={"/bikes/bike.jpg"}
 						width="200px"
 						height="200px"
-						alt="VTT Loulou"
+						alt="/"
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
