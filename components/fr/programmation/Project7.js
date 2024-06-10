@@ -4,7 +4,7 @@ import { SiDevpost, SiChainlink } from "react-icons/si";
 export default function Projects() {
 	return (
 		<div className="w-full my-20 p-2 sm:p-8 items-center">
-			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-sky-300 rounded-3xl shadow-lg shadow-gray-400">
+			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-violet-300 rounded-3xl shadow-lg shadow-gray-400">
 				<h1>Projet #7 : Ça devient sérieux</h1>
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
@@ -49,7 +49,9 @@ export default function Projects() {
 							et présenter notre technologie aux jurys.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							MetaCare est un outil permettant de récupérer et de gérer toutes des données médicales d'une personne à un seul endroit grâce à un NFT spécial qui lui est lié.
+							MetaCare est un outil permettant de récupérer et de gérer toutes des
+							données médicales d'une personne à un seul endroit grâce à un NFT
+							spécial qui lui est lié.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							J'ai construit le smart contract, permis d'automatiquement récupérer les

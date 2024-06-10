@@ -1,7 +1,10 @@
 export default function Tools() {
 	return (
 		<div id="tools" className="w-full max-w-[1500px] m-auto h-full p-2 items-center py-32">
-			<h1 className="py-10 text-center underline">The tools I use:</h1>
+			<h1 className="pt-10 pb-3 text-center underline">The tools I use:</h1>
+			<p className="text-center pb-8">
+				(Actually there is more, I didn't have the space to put it all)
+			</p>
 			<div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8 ">
 				<a
 					href="https://docs.soliditylang.org/en/latest/"

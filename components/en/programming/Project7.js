@@ -4,7 +4,7 @@ import { SiDevpost, SiChainlink } from "react-icons/si";
 export default function Projects() {
 	return (
 		<div className="w-full my-20 p-2 sm:p-8 items-center">
-			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-sky-300 rounded-3xl shadow-lg shadow-gray-400">
+			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-violet-300 rounded-3xl shadow-lg shadow-gray-400">
 				<h1>Projet #7: It's getting serious</h1>
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
@@ -49,7 +49,8 @@ export default function Projects() {
 							technology to the juries.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							MetaCare is a tool for gathering and managing all of a person's medical data in one place through a digital twin NFT linked to it.
+							MetaCare is a tool for gathering and managing all of a person's medical
+							data in one place through a digital twin NFT linked to it.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							I built the smart contract, enabled to automatically retrieve someone's
@@ -58,8 +59,8 @@ export default function Projects() {
 						</p>
 						<p className="py-2 text-gray-700 ">
 							We managed to win Chainlink's Top Quality Projects Award. I'm very proud
-							to have accomplished this, even though this is only my 2nd Hackathon, and
-							we don't plan to stop there!
+							to have accomplished this, even though this is only my 2nd Hackathon,
+							and we don't plan to stop there!
 						</p>
 					</div>
 					<div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">

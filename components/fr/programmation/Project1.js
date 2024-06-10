@@ -4,7 +4,7 @@ import { BsBook } from "react-icons/bs";
 export default function Project1() {
 	return (
 		<div className="w-full my-20 p-2 sm:p-8 items-center">
-			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-violet-300 rounded-3xl shadow-lg shadow-gray-400">
+			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-red-200 rounded-3xl shadow-lg shadow-gray-400">
 				<h1>Projet #1 : Le tuto le plus long de ma vie</h1>
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
