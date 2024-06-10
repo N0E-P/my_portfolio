@@ -222,7 +222,10 @@ export default function Tools() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">Front and rear brakes and derailleurs adjustments.</p>
+					<p className="text-sm">
+						Front and rear brakes and derailleurs adjustments. (Yes, that's me in the
+						picture)
+					</p>
 				</div>
 			</div>
 		</div>

@@ -229,7 +229,8 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Réglage des freins et des dérailleurs avant et arrière.
+						Réglage des freins et des dérailleurs avant et arrière. (Oui c'est moi sur
+						la photo)
 					</p>
 				</div>
 			</div>
