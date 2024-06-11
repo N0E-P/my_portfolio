@@ -127,7 +127,7 @@ export default function Tools() {
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/8.jpeg"}
+						src={"/bikes/8.jpg"}
 						width="200px"
 						height="200px"
 						alt="/"
