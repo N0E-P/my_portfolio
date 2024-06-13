@@ -5,7 +5,7 @@ export default function Tools() {
 			<div className="grid lg:grid-cols-2 gap-8 ">
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/17.jpg"}
 						width="200px"
 						height="200px"
 						alt="/"
@@ -103,9 +103,8 @@ export default function Tools() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Pedals, stem, handlebars, handlebar cage, brake levers and saddle
-						replacement. Mudguards installation. Front and rear derailleurs and brakes
-						adjustments.
+						Pedals, stem, handlebars, brake levers and saddle replacement. Mudguards
+						installation. Front and rear derailleurs and brakes adjustments.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
