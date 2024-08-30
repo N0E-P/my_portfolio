@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Main from "../../components/en/bike/1-Main";
 import Presentation from "../../components/en/bike/2-Presentation";
-import Tools from "../../components/en/bike/3-Tools";
+import Bikes from "../../components/en/bike/3-Bikes";
 import Contact from "../../components/en/Contact";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
 			</Head>
 			<Main />
 			<Presentation />
-			<Tools />
+			<Bikes />
 			<Contact />
 		</div>
 	);

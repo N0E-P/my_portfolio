@@ -6,7 +6,7 @@ export default function Presentation() {
 				<div className="md:grid grid-cols-2">
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 md:mr-8 md:ml-4">
 						<p className=" text-white text-lg">
-							Je suis jeune mais j'ai de l'expérience : Une vingtaine de vélos à mon
+							Je suis jeune mais j'ai de l'expérience : Une quarantaine de vélos à mon
 							actif, tous roulent nickel et sont en service.
 						</p>
 					</div>

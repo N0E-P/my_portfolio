@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Main from "../../components/fr/velo/1-Main";
 import Presentation from "../../components/fr/velo/2-Presentation";
-import Tools from "../../components/fr/velo/3-Tools";
+import Bikes from "../../components/fr/velo/3-Bikes";
 import Contact from "../../components/fr/Contact";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
 			</Head>
 			<Main />
 			<Presentation />
-			<Tools />
+			<Bikes />
 			<Contact />
 		</div>
 	);
