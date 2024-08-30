@@ -485,7 +485,7 @@ export default function Bikes() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">Réglages habituels. (Oui c'est moi sur la photo)</p>
+					<p className="text-sm">Réglages habituels. (Oui, c'est moi sur la photo)</p>
 				</div>
 			</div>
 		</div>
