@@ -9,7 +9,7 @@ export default function Bikes() {
 				</p>
 			</div>
 			<div className="grid lg:grid-cols-2 gap-8 ">
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -19,7 +19,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Coming soon...</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/38.jpg"}
 						width="200px"
@@ -32,7 +32,7 @@ export default function Bikes() {
 						Mudguards adjustment.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/37.jpg"}
 						width="200px"
@@ -42,7 +42,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. </p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/36.jpg"}
 						width="200px"
@@ -52,7 +52,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. </p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/35.jpg"}
 						width="200px"
@@ -62,7 +62,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Rear inner tube replacement.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/34.jpg"}
 						width="200px"
@@ -72,7 +72,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Rust scraping. Bell adjustment.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/33.jpg"}
 						width="200px"
@@ -82,7 +82,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Mudguards repair.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -95,9 +95,9 @@ export default function Bikes() {
 						bars and speaker installation. Internal cable routing.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/31.jpg"}
 						width="200px"
 						height="200px"
 						alt="/"
@@ -105,7 +105,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Rear caliper realignment.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/30.jpg"}
 						width="200px"
@@ -118,7 +118,7 @@ export default function Bikes() {
 						handlebar replacement.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/29.jpg"}
 						width="200px"
@@ -128,7 +128,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Surface rust scrapping.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/28.jpg"}
 						width="200px"
@@ -141,7 +141,7 @@ export default function Bikes() {
 						and pedals replacement.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/27.jpg"}
 						width="200px"
@@ -151,7 +151,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual settings. The rear light was reinstalled.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/26.jpg"}
 						width="200px"
@@ -163,7 +163,7 @@ export default function Bikes() {
 						Usual adjustments. Chain cleaning. Scrape rust off handlebars and rims.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/25.jpg"}
 						width="200px"
@@ -176,7 +176,7 @@ export default function Bikes() {
 						handlebars and cranks.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/24.jpg"}
 						width="200px"
@@ -189,7 +189,7 @@ export default function Bikes() {
 						from rims, mudguards and bottom bracket.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/23.jpg"}
 						width="200px"
@@ -199,7 +199,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Luggage rack removal.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/22.jpg"}
 						width="200px"
@@ -211,7 +211,7 @@ export default function Bikes() {
 						Usual adjustments. Complete rust removal. Bell and rear brake handle repair.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/21.jpg"}
 						width="200px"
@@ -225,7 +225,7 @@ export default function Bikes() {
 						Mudguards repositioned.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/20.jpg"}
 						width="200px"
@@ -235,7 +235,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. </p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/19.jpg"}
 						width="200px"
@@ -245,7 +245,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Rust scraped from handlebars.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/18.jpg"}
 						width="200px"
@@ -258,7 +258,7 @@ export default function Bikes() {
 						Automatic pedals installation.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/17.jpg"}
 						width="200px"
@@ -272,7 +272,7 @@ export default function Bikes() {
 						and personalization.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/16.jpg"}
 						width="200px"
@@ -285,7 +285,7 @@ export default function Bikes() {
 						of protective stickers. Installation of power sensors and basic equipment.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/15.jpg"}
 						width="200px"
@@ -295,7 +295,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Inner tube change.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/14.jpg"}
 						width="200px"
@@ -307,7 +307,7 @@ export default function Bikes() {
 						Usual adjustments. Rear shifter and inner tube replacement.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/13.jpg"}
 						width="200px"
@@ -320,7 +320,7 @@ export default function Bikes() {
 						accessories.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/12.jpg"}
 						width="200px"
@@ -332,7 +332,7 @@ export default function Bikes() {
 						Usual adjustments. Realign bent wheels. Inner tubes change.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/11.jpg"}
 						width="200px"
@@ -345,7 +345,7 @@ export default function Bikes() {
 						and gear cables replacement.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/10.jpg"}
 						width="200px"
@@ -358,7 +358,7 @@ export default function Bikes() {
 						replacement. Mudguards installation.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/9.jpg"}
 						width="200px"
@@ -372,7 +372,7 @@ export default function Bikes() {
 						accessories. Bent wheel repair.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/8.jpg"}
 						width="200px"
@@ -385,7 +385,7 @@ export default function Bikes() {
 						filling. Fork unlocking.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/7.jpg"}
 						width="200px"
@@ -397,7 +397,7 @@ export default function Bikes() {
 						Usual adjustments. Luggage rack and accessories installation.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/6.jpg"}
 						width="200px"
@@ -410,7 +410,7 @@ export default function Bikes() {
 						chain ring and rear derailleur installation.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/5.jpg"}
 						width="200px"
@@ -422,7 +422,7 @@ export default function Bikes() {
 						Usual adjustments. Painted handlebars and sheaths. Rear tire change.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/4.jpg"}
 						width="200px"
@@ -435,7 +435,7 @@ export default function Bikes() {
 						brake adjustment.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/3.jpg"}
 						width="200px"
@@ -445,7 +445,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Usual adjustments. Installation of accessories.</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/2.jpg"}
 						width="200px"
@@ -460,7 +460,7 @@ export default function Bikes() {
 						accessories.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[475px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/1.JPG"}
 						width="200px"
