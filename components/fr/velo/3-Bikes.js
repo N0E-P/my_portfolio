@@ -88,7 +88,7 @@ export default function Bikes() {
 				</div>
 				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
-						src={"/bikes/bike.jpg"}
+						src={"/bikes/32.jpg"}
 						width="200px"
 						height="200px"
 						alt="/"
