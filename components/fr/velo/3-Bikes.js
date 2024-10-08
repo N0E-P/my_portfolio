@@ -9,7 +9,7 @@ export default function Bikes() {
 				</p>
 			</div>
 			<div className="grid lg:grid-cols-2 gap-8 ">
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/bike.jpg"}
 						width="200px"
@@ -19,7 +19,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">En construction...</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/38.jpg"}
 						width="200px"
@@ -32,7 +32,7 @@ export default function Bikes() {
 						roues. Ajustement des garde-boues.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/37.jpg"}
 						width="200px"
@@ -42,7 +42,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. </p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/36.jpg"}
 						width="200px"
@@ -52,7 +52,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels.</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/35.jpg"}
 						width="200px"
@@ -64,7 +64,7 @@ export default function Bikes() {
 						Réglages habituels. Changement de la chambre à air arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/34.jpg"}
 						width="200px"
@@ -76,7 +76,7 @@ export default function Bikes() {
 						Réglages habituels. Grattage de la rouille. Réglage de la sonnette.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/33.jpg"}
 						width="200px"
@@ -86,7 +86,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. Réparation des garde-boues.</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/32.jpg"}
 						width="200px"
@@ -100,7 +100,7 @@ export default function Bikes() {
 						Passage des câbles en interne.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/31.jpg"}
 						width="200px"
@@ -110,7 +110,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. Réalignement de l'étrier arrière.</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/30.jpg"}
 						width="200px"
@@ -123,7 +123,7 @@ export default function Bikes() {
 						direction. Changement de la selle, de la potence et de la guidoline.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/29.jpg"}
 						width="200px"
@@ -135,7 +135,7 @@ export default function Bikes() {
 						Réglages habituels. Grattage de la rouille en surface.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/28.jpg"}
 						width="200px"
@@ -148,7 +148,7 @@ export default function Bikes() {
 						Remplacement de la guidoline et des pédales.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/27.jpg"}
 						width="200px"
@@ -160,7 +160,7 @@ export default function Bikes() {
 						Réglages habituels. Réinstallation de la lumière arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/26.jpg"}
 						width="200px"
@@ -173,7 +173,7 @@ export default function Bikes() {
 						guidon et des jantes.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/25.jpg"}
 						width="200px"
@@ -186,7 +186,7 @@ export default function Bikes() {
 						jantes, des garde-boues, du guidon et des manivelles.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/24.jpg"}
 						width="200px"
@@ -199,7 +199,7 @@ export default function Bikes() {
 						arrière. Grattage de la rouille des jantes, des garde-boues et du pédalier.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/23.jpg"}
 						width="200px"
@@ -209,7 +209,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. Démontage du porte-bagage.</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/22.jpg"}
 						width="200px"
@@ -222,7 +222,7 @@ export default function Bikes() {
 						sonnette et de la poignée du frein arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/21.jpg"}
 						width="200px"
@@ -237,7 +237,7 @@ export default function Bikes() {
 						Repositionnement des gardes boues.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/20.jpg"}
 						width="200px"
@@ -247,7 +247,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. </p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/19.jpg"}
 						width="200px"
@@ -257,7 +257,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. Grattage de la rouille du guidon.</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/18.jpg"}
 						width="200px"
@@ -270,7 +270,7 @@ export default function Bikes() {
 						Réorientation des barres aéro. Installation de pédales automatiques.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/17.jpg"}
 						width="200px"
@@ -284,7 +284,7 @@ export default function Bikes() {
 						roue freewheel en fixie. Création de stickers et personnalisation.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/16.jpg"}
 						width="200px"
@@ -298,7 +298,7 @@ export default function Bikes() {
 						d'équipements de base.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/15.jpg"}
 						width="200px"
@@ -310,7 +310,7 @@ export default function Bikes() {
 						Réglages habituels. Changement de la chambre à air arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/14.jpg"}
 						width="200px"
@@ -322,7 +322,7 @@ export default function Bikes() {
 						Réglages habituels. Changement du shifter arrière et d'une chambre à air.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/13.jpg"}
 						width="200px"
@@ -335,7 +335,7 @@ export default function Bikes() {
 						d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/12.jpg"}
 						width="200px"
@@ -348,7 +348,7 @@ export default function Bikes() {
 						air.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/11.jpg"}
 						width="200px"
@@ -361,7 +361,7 @@ export default function Bikes() {
 						de la cassette, des vis usagées, des câbles de freins et de vitesses.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/10.jpg"}
 						width="200px"
@@ -375,7 +375,7 @@ export default function Bikes() {
 						Installation de garde-boues et de portes gourdes. Réalignement des roues.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/9.jpg"}
 						width="200px"
@@ -389,7 +389,7 @@ export default function Bikes() {
 						gardes boues et d'accessoires. Réparation des roues voilées.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/8.jpg"}
 						width="200px"
@@ -402,7 +402,7 @@ export default function Bikes() {
 						cassette. Remplissage du liquide de frein. Déblocage de la fourche.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/7.jpg"}
 						width="200px"
@@ -414,7 +414,7 @@ export default function Bikes() {
 						Réglages habituels. Installation d'un porte-bagage et d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/6.jpg"}
 						width="200px"
@@ -427,7 +427,7 @@ export default function Bikes() {
 						monoplateau et installation d'un dérailleur arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/5.jpg"}
 						width="200px"
@@ -440,7 +440,7 @@ export default function Bikes() {
 						arrière.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/4.jpg"}
 						width="200px"
@@ -452,7 +452,7 @@ export default function Bikes() {
 						Réglages habituels. Passage en single speed. Installation d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/3.jpg"}
 						width="200px"
@@ -462,7 +462,7 @@ export default function Bikes() {
 					/>
 					<p className="text-sm">Réglages habituels. Installation d'accessoires.</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/2.jpg"}
 						width="200px"
@@ -477,7 +477,7 @@ export default function Bikes() {
 						fait) Démontage et déblocage de la fourche. Installation d'accessoires.
 					</p>
 				</div>
-				<div className="p-4 m-auto w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
 						src={"/bikes/1.JPG"}
 						width="200px"
