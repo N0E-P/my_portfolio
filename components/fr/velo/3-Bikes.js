@@ -21,6 +21,29 @@ export default function Bikes() {
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
+						src={"/bikes/40.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">Réglages habituels.</p>
+				</div>
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/39.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">
+						Réglages habituels. Changement d'un rayon et de sa vis. Redressement de la
+						roue arrière.
+					</p>
+				</div>
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
 						src={"/bikes/38.jpg"}
 						width="200px"
 						height="200px"
