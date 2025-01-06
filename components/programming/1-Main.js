@@ -40,10 +40,9 @@ export default function Main() {
 					/>
 				</Link>
 			</div>
-			<h1 className="text-gray-800">Hello, I'm Noé!</h1>
-			<h1 className="py-6 text-blue-700">A French Software Engineer in</h1>
-			<h1 className="text-gray-800">Javascript & Solidity</h1>
-			<div className="py-7">
+			<h1 className="text-gray-800">Hi, I'm Noé! 🇫🇷</h1>
+			<h1 className="py-6 text-blue-700">Versatile Software Engineer</h1>
+			<div>
 				<p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
 					I made this portfolio to present:
 				</p>

@@ -22,7 +22,7 @@ export default function Contact() {
 					</h2>
 					<p className="pt-2 text-gray-700 xl:text-lg text-center">
 						I'm open for business, friends, networking, training partners, and of course
-						to do cool stuff.
+						to do some cool stuff.
 					</p>
 					<p className="pb-2 text-gray-700 xl:text-lg text-center mt-4">
 						Contact me now, I'll answer you! 😊

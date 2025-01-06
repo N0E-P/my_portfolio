@@ -21,10 +21,10 @@ export default function Main() {
 			<h1 className="py-6">
 				<span className="text-blue-700">Businessman </span> & Software Engineer
 			</h1>
-			<h1 className="pb-5">
+			<h1 className="pb-8">
 				Bike Mechanic & <span className="text-blue-700">Cyclist</span>
 			</h1>
-			<p className="pb-9 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
+			<p className="text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
 				(I know, it's completely unrelated)
 			</p>
 			<div className="flex justify-center mt-12">

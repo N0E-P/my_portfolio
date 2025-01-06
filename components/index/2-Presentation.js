@@ -33,17 +33,17 @@ export default function Presentation() {
 					<Link href="/bikes">
 						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-6 mt-8 lg:mt-0  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
-								Bike Mecanic
+								Bike Mechanic
 							</h2>
 							<p className=" text-white text-lg">
 								I've been tinkering with bikes since I was a kid. I've always done
-								my own repairs, adjustments and assemblies. I've learned to do a lot
-								of other things since then. All the details are here.
+								my own repairs, adjustments and assemblies. I've learned how to do a
+								lot of other things since then. All the details are here.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
 									className="rounded-xl"
-									src={"/index/bike-mecanics.png"}
+									src={"/index/bike-mechanics.png"}
 									width="2754px"
 									height="1836px"
 									alt="/"
@@ -54,12 +54,12 @@ export default function Presentation() {
 					<Link href="/sport">
 						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-6 mt-8 lg:mt-12  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
-								Sport
+								Sports
 							</h2>
 							<p className=" text-white text-lg">
-								I've always liked individual sports. I've done Track and Field for
-								10 years. I tried a bunch of things and I'm now focusing on long
-								distance cycling. Click here to know more.
+								I've always liked individual sports. I've been passionate by Track
+								and Field for over 10 years now. I tried a bunch of things and I'm
+								now focusing on long distance cycling. Click here to know more.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
@@ -72,7 +72,7 @@ export default function Presentation() {
 							</div>
 						</div>
 					</Link>
-					<Link href="/sport">
+					<Link href="/business">
 						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-6 mt-8 lg:mt-12  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
 								Business
@@ -85,10 +85,10 @@ export default function Presentation() {
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
 									className="rounded-xl"
-									src={"/index/business.jpg"}
+									src={"/index/business.png"}
 									width="4500px"
 									height="3000px"
-									alt="/One day I'll need to find an image for this topic"
+									alt="/"
 								/>
 							</div>
 						</div>
