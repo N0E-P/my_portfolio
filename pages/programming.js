@@ -19,7 +19,7 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 				<meta property="og:title" content="Noé's Portfolio" />
 				<meta property="og:description" content="Software Engineer" />
-				<meta property="og:image" content={"https://noe-pecci.com/me/profile-photo.jpg"} />
+				<meta property="og:image" content={"https://noe-pecci.com/profile-photo.jpg"} />
 			</Head>
 			<Main />
 			<Presentation />

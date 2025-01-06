@@ -2,7 +2,7 @@ export default function Bikes() {
 	return (
 		<div id="tools" className="w-full max-w-[1300px] m-auto h-full p-2 items-center py-32">
 			<h1 className="py-8 text-center underline">What can I do?</h1>
-			<div classname="justify-center">
+			<div className="justify-center">
 				<p className="text-sm text-center pb-8">
 					Usual adjustments = Chain and transmission lubrication + Brakes and derailleurs
 					adjustments + Tire inflation + Overall cleaning

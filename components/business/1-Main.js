@@ -16,13 +16,12 @@ export default function Main() {
 				</Link>
 			</div>
 			<h1 className="text-gray-800">Hi, I'm Noé! 🇫🇷</h1>
-			<h1 className="py-6 text-blue-700">Aspiring Entrepreneur & Cyclist</h1>
-			<h1 className="pb-8">Bike Mechanic & Software Engineer</h1>
-			<p className="text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-				(I know, it's completely unrelated)
+			<h1 className="py-6 text-blue-700">Aspiring entrepreneur</h1>
+			<p className="text-center text-lg md:text-xl lg:text-2xl text-gray-700 pt-2">
+				Coming soon...
 			</p>
 			<div className="flex justify-center mt-12">
-				<Link href="/#presentation">
+				<Link href="/sports#presentation">
 					<div className="animate-bounce rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer">
 						<HiChevronDoubleDown className="text-blue-700" size={36} />
 					</div>

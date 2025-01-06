@@ -10,7 +10,7 @@ export default function Presentation() {
 			<div className="max-w-[1400px] m-auto ">
 				<div className="lg:grid grid-cols-2 px-4">
 					<Link href="/programming">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-6  hover:scale-105 ease-in duration-300">
+						<div className="p-8 bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:mr-6  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
 								Programming
 							</h2>
@@ -31,9 +31,9 @@ export default function Presentation() {
 						</div>
 					</Link>
 					<Link href="/bikes">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-6 mt-8 lg:mt-0  hover:scale-105 ease-in duration-300">
+						<div className="p-8 bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:ml-6 mt-8 lg:mt-0  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
-								Bike Mechanic
+								Bikes
 							</h2>
 							<p className=" text-white text-lg">
 								I've been tinkering with bikes since I was a kid. I've always done
@@ -51,8 +51,8 @@ export default function Presentation() {
 							</div>
 						</div>
 					</Link>
-					<Link href="/sport">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-6 mt-8 lg:mt-12  hover:scale-105 ease-in duration-300">
+					<Link href="/sports">
+						<div className="p-8 bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:mr-6 mt-8 lg:mt-12 hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
 								Sports
 							</h2>
@@ -73,7 +73,7 @@ export default function Presentation() {
 						</div>
 					</Link>
 					<Link href="/business">
-						<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-6 mt-8 lg:mt-12  hover:scale-105 ease-in duration-300">
+						<div className="p-8 bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:ml-6 mt-8 lg:mt-12  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
 								Business
 							</h2>

@@ -1,7 +1,7 @@
 export default function Goals() {
 	return (
-		<div className="w-full my-20 p-2 sm:p-8 items-center">
-			<div className="max-w-[1400px] m-auto p-4 sm:p-8 bg-red-200 rounded-3xl shadow-lg shadow-gray-400">
+		<div className="w-full p-8 pt-4 lg:pt-8 items-center">
+			<div className="max-w-[1400px] m-auto p-8 bg-red-200 rounded-3xl shadow-lg shadow-gray-400">
 				<h1 className="pb-5">My 2025 Goals:</h1>
 				<div className="grid-cols-3 lg:grid">
 					<p className="py-2 text-gray-700 ">
