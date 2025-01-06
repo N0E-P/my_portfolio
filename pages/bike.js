@@ -1,8 +1,8 @@
 import Head from "next/head";
-import Main from "../../components/en/bike/1-Main";
-import Presentation from "../../components/en/bike/2-Presentation";
-import Bikes from "../../components/en/bike/3-Bikes";
-import Contact from "../../components/en/Contact";
+import Main from "../components/bike/1-Main";
+import Presentation from "../components/bike/2-Presentation";
+import Bikes from "../components/bike/3-Bikes";
+import Contact from "../components/Contact";
 
 export default function Home() {
 	return (
