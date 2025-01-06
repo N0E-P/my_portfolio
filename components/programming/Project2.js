@@ -53,7 +53,12 @@ export default function Projects() {
 							href="https://testnets.opensea.io/collection/kevins-holidays"
 							className=" flex p-2 cursor-pointer hover:text-blue-700"
 						>
-							<img src={"/projets/opensea.png"} width="50px" height="50px" alt="/" />
+							<img
+								src={"/programming/opensea.png"}
+								width="50px"
+								height="50px"
+								alt="/"
+							/>
 							<p className="px-3 py-3 text-lg">The Opensea page of the NFT</p>
 						</a>
 						<a
@@ -61,7 +66,7 @@ export default function Projects() {
 							className=" flex p-2 cursor-pointer hover:text-blue-700"
 						>
 							<img
-								src={"/projets/kevin-logo.png"}
+								src={"/programming/kevin-logo.png"}
 								width="50px"
 								height="50px"
 								alt="/"

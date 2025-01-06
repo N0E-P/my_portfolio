@@ -10,7 +10,10 @@ export default function Home() {
 				<title>Noé's Portfolio</title>
 				<link rel="icon" href="/favicon.ico" />
 				<meta property="og:title" content="Noé's Portfolio" />
-				<meta property="og:description" content="Bike Mechanic & Developer" />
+				<meta
+					property="og:description"
+					content="Businessman, Software Engineer, Bike Mecanic & Cyclist"
+				/>
 				<meta property="og:image" content={"https://noe-pecci.com/me/profile-photo.jpg"} />
 			</Head>
 			<Main />

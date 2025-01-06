@@ -15,8 +15,8 @@ export default function Projects() {
 						</p>
 						<p className="py-2 text-gray-700 ">
 							I knew that it would take me a long time to follow it. But I also knew
-							that if I really wanted to become a developer, I had to know how to use
-							Javascript.
+							that if I really wanted to become a software engineer, I had to know how
+							to use Javascript.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							So I started at the beginning of July, and a month and a half of hard
@@ -49,7 +49,7 @@ export default function Projects() {
 						>
 							<img
 								className="rounded-xl"
-								src={"/projets/NFTs.png"}
+								src={"/programming/NFTs.png"}
 								width="1462px"
 								height="423px"
 								alt="/"

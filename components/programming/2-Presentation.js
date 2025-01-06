@@ -22,7 +22,7 @@ export default function Presentation() {
 						<div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto ">
 							<img
 								className="rounded-xl"
-								src="/me/lego.JPG"
+								src="/programming/lego.JPG"
 								width="2292px"
 								height="2788px"
 								alt="/"
@@ -42,7 +42,7 @@ export default function Presentation() {
 						<div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
 							<img
 								className="rounded-xl"
-								src={"/me/minecraft.JPG"}
+								src={"/programming/minecraft.JPG"}
 								width="3072px"
 								height="2304px"
 								alt="/"
@@ -62,7 +62,7 @@ export default function Presentation() {
 						<div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
 							<img
 								className="rounded-xl"
-								src={"/me/arduino.png"}
+								src={"/programming/arduino.png"}
 								width="900px"
 								height="675px"
 								alt="/"
