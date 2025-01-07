@@ -1,10 +1,6 @@
 import { AiOutlineMail } from "react-icons/ai";
 import { FaXTwitter } from "react-icons/fa6";
 import { RiTelegram2Line } from "react-icons/ri";
-/*
-		<div className="w-full p-2 flex items-center py-8 ">
-			<div className="max-w-[500px] pt-16 m-8 items-center gap-8">
-			*/
 
 export default function Contact() {
 	return (
@@ -34,12 +30,25 @@ export default function Contact() {
 							<RiTelegram2Line size={25} />
 						</div>
 					</a>
-					<div className="bg-[#ecf0f3] rounded-full grid grid-cols-5 w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
-						<AiOutlineMail size={25} />
-						<a href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
-							&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
-						</a>
-					</div>
+					<a
+						className="hidden sm:flex"
+						href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
+					>
+						<div className="bg-[#ecf0f3] flex rounded-full w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
+							<AiOutlineMail size={25} />
+							<p className="pl-2 xl:text-lg">
+								&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+							</p>
+						</div>
+					</a>
+					<a
+						className="sm:hidden"
+						href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
+					>
+						<div className="bg-[#ecf0f3] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
+							<AiOutlineMail size={25} />
+						</div>
+					</a>
 					<a href="https://x.com/noe_pecci">
 						<div className=" bg-[#ecf0f3] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
 							<FaXTwitter size={25} />
