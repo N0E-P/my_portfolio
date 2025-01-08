@@ -10,8 +10,8 @@ export default function Project1() {
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
 							At the end of February 2022, I started learning Solidity. The small
-							problem is that I didn't started with a small tutorial... But with a
-							huge <span className="font-bold ">16 HOURS TUTORIAL!!!</span>
+							problem is that I didn't start with a small tutorial... But with a huge{" "}
+							<span className="font-bold ">16 HOURS TUTORIAL!!!</span>
 						</p>
 						<p className="py-2 text-gray-700">
 							So I spent 2 months thinking, understanding, solving problems and

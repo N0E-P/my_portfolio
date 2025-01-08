@@ -13,7 +13,7 @@ export default function Presentation() {
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
 						<p className=" text-white text-lg">
 							I started with Lego. I used to stay in my garden shed all the time,
-							building cars and houses that I would end up blowing up.
+							building cars and houses that I would end up blowing.
 						</p>
 						<p className="mt-5 text-white text-lg">
 							My dream was to work for them. But even though I was slowly getting
@@ -51,7 +51,7 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
 						<p className=" text-white text-lg">
-							One day, my dad bought an Arduino. It's a microship that you can program
+							One day, my dad bought an Arduino. It's a microchip that you can program
 							and connect to anything and everything. I had a lot of fun playing with
 							it.
 						</p>
@@ -105,7 +105,7 @@ export default function Presentation() {
 						</span>{" "}
 						that my older sister had to do for her engineering school. That's when I
 						realized that I really liked programming, and I was pretty good at it! It
-						was voted best project of the year by the judges.
+						was voted the best project of the year by the judges.
 					</p>
 					<p className="sm:mx-10 my-2 text-justify p-4 ">
 						Not long before that, I heard about the Solidity developer job. The

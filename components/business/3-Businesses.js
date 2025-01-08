@@ -15,7 +15,7 @@ export default function Businesses() {
 				<h1 className="pb-5">🚲 Crappy Bikes 🚲</h1>
 				<p className="py-2 text-gray-700 ">
 					In August 2024, I bought a ton of used bikes. Some were in okay condition, and
-					some were really really bad. I then fixed them up during my holidays, set up a
+					some were really, really bad. I then fixed them up during my holidays, set up a
 					carefully written sales page for each one, and sold them, usually for around
 					100€ each. As a result: I got more money to invest, I learned a lot about bikes,
 					mechanics and especially about selling and negotiating.

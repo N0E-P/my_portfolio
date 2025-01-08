@@ -12,7 +12,7 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mt-0 md:mr-4">
 						<p className=" text-white text-lg">
-							My bikes are fine tuned to the last detail, unlike those sold at
+							My bikes are fine-tuned to the last detail, unlike those sold at
 							Decathlon, which are badly screwed together.
 						</p>
 					</div>

@@ -37,7 +37,7 @@ export default function Presentation() {
 							</h2>
 							<p className=" text-white text-lg">
 								I've been tinkering with bicycles since I was a kid. I've always
-								done my own repairs, adjustments and assemblies. Since then I've
+								done my own repairs, adjustments and assemblies. Since then, I've
 								learned how to do a lot of other things. All the details are here.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
@@ -58,7 +58,7 @@ export default function Presentation() {
 							</h2>
 							<p className=" text-white text-lg">
 								I've always liked individual sports. I've been passionate into
-								athletics for over 10 years now. I've tried a lot of things and I'm
+								athletics for over 10 years now. I've tried a lot of things, and I'm
 								concentrating on long distance cycling. Click here to learn more.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">

@@ -5,8 +5,8 @@ export default function Businesses() {
 				<h1 className="pb-5">Hurdles Overdose</h1>
 				<div className="grid grid-cols-1 lg:grid-cols-2 ">
 					<p className="py-2 text-gray-700 ">
-						When I was 12 years old I started with athletics, especially with the 60 and
-						110m hurdles. I was good enough to compete, but unfortunately not good
+						When I was 12 years old, I started with athletics, especially with the 60
+						and 110m hurdles. I was good enough to compete, but unfortunately not good
 						enough to win them. I stuck with it for 7 years and obviously got tired of
 						it. So I tried other events : 4x100m relay, 60m, 200m, 400m hurdles, triple
 						jump, high jump, pole vault, long jump, heptathlon. As I tried everything
@@ -91,8 +91,8 @@ export default function Businesses() {
 						next 3 days. Or hiking without knowing that I'm also gonna have to climb
 						over a mountain ridge before I get caught in the night. Kayaking against the
 						current is fun too, before I flip over, get the kayak stuck under a bridge,
-						and got myself carried away by the current. Also, I only swim in the
-						sea, because I sink in fresh water, which makes me a great prey for nature.
+						and got myself carried away by the current. Also, I only swim in the sea,
+						because I sink in fresh water, which makes me a great prey for nature.
 						Paddling is also great, as it is my last option after over-inflating my
 						inflatable kayak. And finally, weight training to show off the big muscles.
 					</p>
