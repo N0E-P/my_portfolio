@@ -3,11 +3,11 @@ import Link from "next/link";
 
 export default function Main() {
 	return (
-		<div className="w-full mt-5 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
+		<div className="w-full mt-5 2xl:mt-40 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
 			<div className="flex justify-center">
 				<Link href="/">
 					<img
-						className=" bg-blue-100 rounded-full m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300 "
+						className="cursor-pointer bg-blue-100 rounded-full m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300 "
 						src={"/profile-photo.jpg"}
 						alt="Noé Pecci"
 						width="225"

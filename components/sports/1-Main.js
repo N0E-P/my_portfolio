@@ -7,7 +7,7 @@ export default function Main() {
 			<div className="flex justify-center">
 				<Link href="/">
 					<img
-						className=" bg-blue-100 rounded-full m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300 "
+						className="cursor-pointer bg-blue-100 rounded-full m-5 shadow-lg shadow-gray-400 p-1 hover:scale-105 ease-in duration-300 "
 						src={"/profile-photo.jpg"}
 						alt="Noé Pecci"
 						width="225"
