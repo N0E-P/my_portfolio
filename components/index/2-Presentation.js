@@ -15,7 +15,7 @@ export default function Presentation() {
 								Programming
 							</h2>
 							<p className=" text-white text-lg">
-								I've been a Software Engineer for over {experience} years now. I've
+								I've been a software engineer for over {experience} years now. I've
 								worked on many projects, including websites, software and
 								electronics. For more information on my background, click here.
 							</p>
@@ -36,9 +36,9 @@ export default function Presentation() {
 								Bikes
 							</h2>
 							<p className=" text-white text-lg">
-								I've been tinkering with bikes since I was a kid. I've always done
-								my own repairs, adjustments and assemblies. I've learned how to do a
-								lot of other things since then. All the details are here.
+								I've been tinkering with bicycles since I was a kid. I've always
+								done my own repairs, adjustments and assemblies. Since then I've
+								learned how to do a lot of other things. All the details are here.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
@@ -57,9 +57,9 @@ export default function Presentation() {
 								Sports
 							</h2>
 							<p className=" text-white text-lg">
-								I've always liked individual sports. I've been passionate by Track
-								and Field for over 10 years now. I tried a bunch of things and I'm
-								now focusing on long distance cycling. Click here to know more.
+								I've always liked individual sports. I've been passionate into
+								athletics for over 10 years now. I've tried a lot of things and I'm
+								concentrating on long distance cycling. Click here to learn more.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
@@ -78,9 +78,9 @@ export default function Presentation() {
 								Business
 							</h2>
 							<p className=" text-white text-lg">
-								Since high school, I've made shitty Youtube channels and tried to
-								setup wacky businesses. But now is time to get serious, to work hard
-								and to get my hands dirty. More infos here.
+								I've been making shitty Youtube channels and trying to build
+								businesses since high school. But now it is time to get serious, to
+								work hard and to get my hands dirty. More info here.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img

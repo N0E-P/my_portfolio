@@ -9,7 +9,7 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							During the Fall 2022 Chainlink Hackathon, I joined{" "}
+							During the Fall 2022 Chainlink Hackathon, I teamed up with{" "}
 							<span>
 								<a
 									href="https://www.linkedin.com/in/albertomf85"
@@ -46,21 +46,21 @@ export default function Projects() {
 								</a>
 							</span>{" "}
 							to build MetaCare Health. We had 1 month to develop and present our
-							technology to the juries.
+							technology to the judges.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							MetaCare is a tool for gathering and managing all of a person's medical
-							data in one place through a digital twin NFT linked to it.
+							MetaCare is a tool to collect and manage all of a person's medical data
+							in one place through a connected digital twin NFT.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							I built the smart contract, enabled to automatically retrieve someone's
-							Google FIT data on a spreadsheet and managed the adaptation of the NFTs
-							based on the users' data.
+							I built the smart contract, enabled it to automatically pull someone's
+							Google FIT data into a spreadsheet, and managed the adaptation of the
+							NFTs based on the user's data.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							We managed to win Chainlink's Top Quality Projects Award. I'm very proud
-							to have accomplished this, even though this is only my 2nd Hackathon,
-							and we don't plan to stop there!
+							to have achieved this, even though this is only my 2nd hackathon, and we
+							don't plan to stop there!
 						</p>
 					</div>
 					<div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">

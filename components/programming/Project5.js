@@ -9,7 +9,7 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							Patrick Colins is the genius who did the 16H training I took. And on May
+							Patrick Colins is the genius who did the 16H training I did. And on May
 							26, 2022, he's sending out a new gigantic training on Solidity with
 							Javascript, of <span className="font-bold">32 HOURS!!!</span>
 						</p>
@@ -22,13 +22,13 @@ export default function Projects() {
 							So I started at the beginning of July, and a month and a half of hard
 							work later, I finally finished this endless course. Moreover, to prove
 							that we had finished it, we had to use all the knowledge of the course
-							to mint 5 NFT as puzzles. It was far from being simple, but once
-							finished, I was damn proud of myself!
+							to mint 5 NFT as puzzles. It was far from easy, but when I finished, I
+							was damn proud of myself!
 						</p>
 						<p className="py-4 text-gray-700 italic">
-							<span className="underline">Fun fact:</span> As I'm writing this, I am
-							one of only 40 people in the world to have finished the training and
-							have these 5 NFTs. Now I'm really confident in the business!{" "}
+							<span className="underline">Fun fact:</span> As I'm write this, I'm one
+							of only 40 people in the world to have completed the training and have
+							those 5 NFTs. Now I'm really confident in this business!{" "}
 							<span className=" not-italic">😁</span>
 						</p>
 					</div>

@@ -5,7 +5,7 @@ export default function Bikes() {
 			<div className="justify-center">
 				<p className="text-sm text-center pb-8">
 					Usual adjustments = Chain and transmission lubrication + Brakes and derailleurs
-					adjustments + Tire inflation + Overall cleaning
+					adjustments + Tire inflation + General cleaning
 				</p>
 			</div>
 			<div className="grid lg:grid-cols-2 gap-8 ">
@@ -28,7 +28,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. One spoke and screw replacement. Rear wheel straightening
+						Usual adjustments. Replacement of one spoke and its screw. Rear wheel
+						straightening
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -40,7 +41,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. A spoke and its screw replacement. Wheel alignment.
+						Usual adjustments. Replacement of one spoke and its bolt. Wheel alignment.
 						Mudguards adjustment.
 					</p>
 				</div>
@@ -103,8 +104,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. 2 hydraulic shifters, handlebars, automatic pedals, aero
-						bars and speaker installation. Internal cable routing.
+						Usual adjustments. 2 hydraulic shifters, handlebars, automatic pedals,
+						aerobars and speaker installation. Internal cable routing.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -138,7 +139,7 @@ export default function Bikes() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">Usual adjustments. Surface rust scrapping.</p>
+					<p className="text-sm">Usual adjustments. Surface rust removal.</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -149,8 +150,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Complete cockpit degreasing and lubrication. Handlebar
-						and pedals replacement.
+						Usual adjustments. Complete degreasing and lubrication of the cockpit.
+						Replacement of handlebars and pedals.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -161,7 +162,7 @@ export default function Bikes() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">Usual adjustments. The rear light was reinstalled.</p>
+					<p className="text-sm">Usual adjustments. Rear light reinstalled.</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -172,7 +173,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Chain cleaning. Scrape rust off handlebars and rims.
+						Usual adjustments. Clean the chain. Scrape rust off handlebars and rims.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -184,7 +185,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Spoke replacement. Rust removal from rims, mudguards,
+						Usual adjustments. Replace spokes. Remove rust from rims, mudguards,
 						handlebars and cranks.
 					</p>
 				</div>
@@ -197,7 +198,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Handlebars and rear inner tube replacement. Rust removal
+						Usual adjustments. Handlebar and rear inner tube replacement. Rust removal
 						from rims, mudguards and bottom bracket.
 					</p>
 				</div>
@@ -220,7 +221,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Complete rust removal. Bell and rear brake handle repair.
+						Usual adjustments. Complete rust removal. Repair of bell and rear brake
+						lever.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -232,9 +234,9 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Crank and left pedal installation. Crankset axle, saddle,
-						handlebar, right crank and chainring replacement. Rust removal from rims.
-						Mudguards repositioned.
+						Usual adjustments. Installation of crank and left pedal. Replacement of
+						crankset axle, saddle, handlebar, right crank and chainring. Rust removed
+						from rims. Mudguards repositioned.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -255,7 +257,7 @@ export default function Bikes() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">Usual adjustments. Rust scraped from handlebars.</p>
+					<p className="text-sm">Usual adjustments. Rust scraped off handlebars.</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
@@ -266,7 +268,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Complete check. Discs realigned. Aero bars reorientation.
+						Usual adjustments. Complete check. Discs realigned. Aerobars realigned.
 						Automatic pedals installation.
 					</p>
 				</div>
@@ -279,9 +281,9 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Dismantle, clean, sand, grease and reassemble all
-						components. Frame and fork painting. Freewheel to fixie conversion. Stickers
-						and personalization.
+						Usual adjustments. Disassembly, cleaning, sanding, greasing and reassembly
+						of all components. Frame and fork painting. Freewheel to fixie conversion.
+						Decals and customization.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -293,8 +295,9 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Conversion to tubeless. Stem and saddle change. Fitting
-						of protective stickers. Installation of power sensors and basic equipment.
+						Usual adjustments. Conversion to tubeless. Change of stem and saddle.
+						Application of protective stickers. Installation of power sensors and basic
+						equipment.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -328,8 +331,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Remove the tangled chain. Adding and removing
-						accessories.
+						Usual adjustments. Removing tangled chain. Adding and removing accessories.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -341,7 +343,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Realign bent wheels. Inner tubes change.
+						Usual adjustments. Realign bent wheels. Replacing inner tubes.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -353,8 +355,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Pedals, saddle, rear axle, cassette, worn screws, brake
-						and gear cables replacement.
+						Usual adjustments. Replace pedals, saddle, rear axle, cassette, worn screws,
+						brake and shift cables.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -379,8 +381,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Saddle, handlebars, stem, pedals and handlebars tape
-						replacement. Installation of footrests, aero bars, mudguards and
+						Usual adjustments. Replacement of saddle, handlebars, stem, pedals and
+						handlebar tape. Installation of footrests, aerobars, mudguards and
 						accessories. Bent wheel repair.
 					</p>
 				</div>
@@ -393,8 +395,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Crank set, chain and cassette replacement. Brake fluid
-						filling. Fork unlocking.
+						Usual adjustments. Replacement of crank set, chain and cassette. Brake fluid
+						refill. Fork unlocking.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -418,8 +420,8 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Front and rear tires replacement. Switch to a single
-						chain ring and rear derailleur installation.
+						Usual adjustments. Change front and rear tires. Switch to a single chainring
+						and rear derailleur installation.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -431,7 +433,7 @@ export default function Bikes() {
 						className="rounded-xl"
 					/>
 					<p className="text-sm">
-						Usual adjustments. Painted handlebars and sheaths. Rear tire change.
+						Usual adjustments. Painted handlebars and cables. Rear tire change.
 					</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
@@ -468,7 +470,7 @@ export default function Bikes() {
 					<p className="text-sm">
 						Usual adjustments. Crank set, rear derailleur, chain, cassette, tires,
 						tubes, brake pads, grips, handlebars and brake oil replacement. (Replacement
-						of everything, in fact) Fork disassemble and unlock. Installation of
+						of everything, in fact) Fork disassembly and unlocking. Installation of
 						accessories.
 					</p>
 				</div>

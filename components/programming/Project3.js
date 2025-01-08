@@ -9,22 +9,22 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							On May 10, 2022, I joined the Chainlink Hackathon. And I created{" "}
-							<span className="font-bold">NFT Detector</span>.
+							On May 10, 2022, I participated in the Chainlink Hackathon. And I
+							created <span className="font-bold">NFT Detector</span>.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							This is a Discord bot that gives a special role to people who own NFTs.
-							It allows you to make private channels for them and to give them bonuses
-							in the Discord server of this collection.
+							It allows you to create private channels for them and to give them
+							bonuses on the Discord server of that collection.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							At first, I had no idea how I could do this. But I thought it was a nice
+							At first, I had no idea how to do this. But I thought it was a nice
 							idea, so I started working on it.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							I created a bot discord to see the server members and give them roles. I
 							made a dapp to check the Metamask wallets. And I use Moralis, which is a
-							data-server linked to the blockchain, to be able to link the bot and the
+							data server connected to the blockchain, to connect the bot and the
 							dapp.
 						</p>
 					</div>

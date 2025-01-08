@@ -5,24 +5,24 @@ export default function Projects() {
 				<h1>What happened next...</h1>
 				<div className="mt-2 sm:mt-5 xl:mt-10">
 					<p className="py-2 text-gray-700 ">
-						In October 2022, I joined a computer science and electronics college. To
-						perfect and complement my skills in these two fields. Obviously, this gave
-						me less time for personal projects, but I did make progress on some, without
-						always finishing them all:
+						In October 2022, I enrolled in a college of computer science and
+						electronics. To perfect and complete my skills in these two fields. Of
+						course, this gave me less time for personal projects, but I made progress on
+						some, without always finishing them all:
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- A bot to receive and transmit information from the blockchain to a Discord
-						server.
+						- A bot that receives and sends information between the blockchain and a
+						Discord server.
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- Browser extension that automatically summarizes web pages using ChatGPT.
+						- A browser extension that automatically summarizes web pages using ChatGPT.
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- Drone and remote control designed entirely in Arduino, from an old drone
+						- A drone and remote control built entirely in Arduino, from an old drone
 						frame.
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- Metacare Health, a vital data management platform. (In partnership with
+						- Metacare Health, a platform for management platform. (In partnership with
 						Asus.)
 					</p>
 					<p className="py-2 text-gray-700 ">
@@ -34,8 +34,8 @@ export default function Projects() {
 					</p>
 
 					<p className="py-2 text-gray-700 ">
-						- A labyrinth game, with a program that can solve it all by itself with a
-						single click.
+						- A maze game, with a program that can solve it all by itself with a single
+						click.
 					</p>
 					<p className="py-2 text-gray-700 ">
 						- A creator of detailed reports on different gas prices in France, all in
@@ -50,8 +50,8 @@ export default function Projects() {
 						- A candy box that opens automatically when you put your hand near it.{" "}
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- An interaction simulator for a group of fireflies, each of which lights up
-						according to the brightness of the others.
+						- An interaction simulator for a group of fireflies, each glowing according
+						to the brightness of the others.
 					</p>
 				</div>
 			</div>

@@ -5,14 +5,13 @@ export default function Businesses() {
 				<h1 className="pb-5">Hurdles Overdose</h1>
 				<div className="grid grid-cols-1 lg:grid-cols-2 ">
 					<p className="py-2 text-gray-700 ">
-						At 12yo, I started track and field, focusing especially on the 60 and 110m
-						hurdles. I was good enough to join competitions, but unfortunately not good
-						enough to win them. I sticked to it for 7 years and obviously became sick of
-						it. So I tried other disciplines : 4x100m relays, 60m, 200m, 400m hurdles,
-						triple jump, high jump, pole vault, long jump, heptathlons. As I tried
-						everything (except throws, I didn't got the physique for the job) I became a
-						real swiss knife in track and field. But with time, I was getting more and
-						more distant.
+						When I was 12 years old I started with athletics, especially with the 60 and
+						110m hurdles. I was good enough to compete, but unfortunately not good
+						enough to win them. I stuck with it for 7 years and obviously got tired of
+						it. So I tried other events : 4x100m relay, 60m, 200m, 400m hurdles, triple
+						jump, high jump, pole vault, long jump, heptathlon. As I tried everything
+						(except throwing, I didn't have the physique for it) I became a real Swiss
+						knife in athletics. But as time went by, I became more and more distant.
 					</p>
 					<div className="bg-[#ecf0f3] shadow-md shadow-gray-400 rounded-3xl p-4 sm:p-6 lg:p-4 lg:ml-8">
 						<img
@@ -38,14 +37,14 @@ export default function Businesses() {
 						/>
 					</div>
 					<p className="py-2 text-gray-700 ">
-						I wanted to change and discover new sports, but not too far away from track
-						and field. So why not run, but for longer? And as we're at it, why not bike
-						and swim too? That's how I started triathlon in summer 2023. I liked it,
-						trained and did many races : S triathlon, Olympic distance triathlon, Raid,
-						10km runs, duathlons. But as time passes, I realised a small problem: I've
+						I wanted to change and discover new sports, but not too far away from
+						athletics. So why not run, but for longer? And while we're at it, why not
+						bike and swim too? That's how I started triathlon in the summer of 2023. I
+						liked it, trained and did many races : S triathlon, Olympic distance
+						triathlon, raid, 10km runs, duathlons. But I noticed a small problem: I've
 						always been used to sprinting, and I found that forcing myself to run slowly
-						was just not my thing at all. So after 10+ races, I finally realized that I
-						hate running.
+						was just wasn't my thing at all. So after 10+ races, I finally realized that
+						I hate running.
 					</p>
 				</div>
 			</div>
@@ -54,14 +53,15 @@ export default function Businesses() {
 
 				<div className="grid grid-cols-1 lg:grid-cols-2 ">
 					<p className="py-2 text-gray-700 ">
-						I always viewed road cycling as a boring activity, where you just pedal for
-						the sake of it. But as I had to try road cycling to train for triathlons, I
-						rediscovered that feeling I love: SPEEEED!! Sprinting, climbing, descending,
-						drafting, doing off road with a road bike, I love it! And I still cannot
-						describe how amazed I am by how efficient it is as a means of transportation
-						rather than to walk or to run. So I fell in love with the sport, and of
-						course did dumb things like rinding 1000km across France to then train a
-						whole week in the French Pyrenees, it's just normal cyclist stuff I guess.
+						I always thought of road cycling as a boring activity, where you just pedal
+						for the sake of pedaling. But when I had to try it to train for triathlons,
+						I rediscovered the feeling I love: SPEEEED!! Sprinting, climbing,
+						descending, drafting, off-roading with a road bike, I love it! And I still
+						cannot describe how amazed I am at how efficient it is as a means of
+						transportation instead of walking or running. So I fell in love with the
+						sport, and of course I've done dumb things like riding 1000km across France
+						to train for a whole week in the French Pyrenees, it's just normal cyclist
+						stuff I guess.
 					</p>
 					<div className="bg-[#ecf0f3] shadow-md shadow-gray-400 rounded-3xl p-4 sm:p-6 lg:p-4 lg:ml-8">
 						<img
@@ -88,13 +88,13 @@ export default function Businesses() {
 					</div>
 					<p className="py-2 text-gray-700 ">
 						I love other sports too. Like rock climbing until I can't hold a pen for the
-						next 3 days. Or hiking without knowing I'm also gonna have to climb over a
-						mountain ridge before getting caught up by the night. Kayaking against the
-						current is fun too, before tipping over, getting the kayak stuck under a
-						bridge and getting myself carried away by the current. Also, I only swim in
-						the sea, as I sink in fresh water, which makes me a great prey for nature.
-						Paddling is great too, as it becomes my last option after I over inflated my
-						inflatable kayak. And lastly, weight training to show the big muscles.
+						next 3 days. Or hiking without knowing that I'm also gonna have to climb
+						over a mountain ridge before I get caught in the night. Kayaking against the
+						current is fun too, before I flip over, get the kayak stuck under a bridge,
+						and got myself carried away by the current. Also, I only swim in the
+						sea, because I sink in fresh water, which makes me a great prey for nature.
+						Paddling is also great, as it is my last option after over-inflating my
+						inflatable kayak. And finally, weight training to show off the big muscles.
 					</p>
 				</div>
 			</div>

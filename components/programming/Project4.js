@@ -7,20 +7,19 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							When I was a kid, I absolutely wanted to have a remote-controlled car
-							made of Lego. Except that back then, I had absolutely no idea how to do
-							it.
+							When I was a kid, I really wanted to have a remote-controlled Lego car.
+							Except that back then, I just had no idea how to make it.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							So much later, in the summer vacations of 2020, I started building the
-							whole body and chassis. Then the following summer, I went back to
-							organize the Arduino part, make the calculations and order the pieces.
+							So much later, during the summer holidays of 2020, I started to build
+							the whole body and chassis. The following summer, I went back to
+							organize the Arduino part, did the calculations and ordered the parts.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							We arrive then at the end of June 2022. And while looking for a new
-							project to do, I remembered that I had the beginning of a remote control
-							car lying around in my closet. So I decided to start working on it
-							again, to finish it once and for all.
+							We arrive then at the end of June 2022. And while I was looking for a
+							new project to do, I remembered that I had the beginnings of a remote
+							control car lying around in my closet. So I decided to start working on
+							it again, to finish it once and for all.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							I programmed and assembled everything and finally finished my car in

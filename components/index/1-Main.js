@@ -19,7 +19,7 @@ export default function Main() {
 			<h1 className="py-6 text-blue-700">Aspiring Entrepreneur & Cyclist</h1>
 			<h1 className="pb-8">Bike Mechanic & Software Engineer</h1>
 			<p className="text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-				(I know, it's completely unrelated)
+				(I know, it's totally unrelated)
 			</p>
 			<div className="flex justify-center mt-12">
 				<Link href="/#presentation">

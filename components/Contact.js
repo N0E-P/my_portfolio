@@ -21,7 +21,7 @@ export default function Contact() {
 					I'm open for business, friends, networking, and of course to do some cool stuff.
 				</p>
 				<p className="pb-2 text-gray-700 xl:text-lg text-center mt-4">
-					Contact me now, I'll answer you! 😊
+					Contact me now, I'll get back to you! 😊
 				</p>
 				<div className="py-4 items-center justify-between flex w-[90%] m-auto ">
 					<a href="https://t.me/&#110;&#111;&#101;&#095;&#112;&#101;&#099;&#099;&#105;">

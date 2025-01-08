@@ -13,7 +13,7 @@ export default function Presentation() {
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:mr-4 ">
 						<p className=" text-white text-lg">
 							I started with Lego. I used to stay in my garden shed all the time,
-							building cars and houses that I would end up blowing.
+							building cars and houses that I would end up blowing up.
 						</p>
 						<p className="mt-5 text-white text-lg">
 							My dream was to work for them. But even though I was slowly getting
@@ -31,9 +31,9 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-2 lg:mr-2 mt-8 lg:mt-0">
 						<p className=" text-white text-lg">
-							Later, I discovered Minecraft. It was a whole new world of possibilities
-							and creations that had just opened up. I spent months and months on this
-							game.
+							Then I discovered Minecraft. It was a whole new world of possibilities
+							and creations that had just opened up. I spent months and months playing
+							that game.
 						</p>
 						<p className="mt-5 text-white text-lg">
 							I built houses, castles, farms, mansions and tons of other things. It
@@ -51,13 +51,13 @@ export default function Presentation() {
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 lg:ml-4 mt-8 lg:mt-0">
 						<p className=" text-white text-lg">
-							One day, my father bought some Arduino. There are small cards that you
-							can program and link with anything and everything. I had a lot of fun
-							playing with them.
+							One day, my dad bought an Arduino. It's a microship that you can program
+							and connect to anything and everything. I had a lot of fun playing with
+							it.
 						</p>
 						<p className="mt-5 text-white text-lg">
-							I was doing pretty well, even though I was just copying and pasting
-							code. I had even started to make my own remote control car.
+							I got pretty good at it, even though I was just copying and pasting
+							code. I had even started building my own remote control car.
 						</p>
 						<div className="mt-6 max-w-[450px] hover:scale-105 ease-in duration-300 w-full h-auto m-auto">
 							<img
@@ -73,10 +73,10 @@ export default function Presentation() {
 				<div className="max-w-[1325px] m-auto">
 					<h2 className="text-center mt-48 my-2 max-w-[700px] xl:max-w-[825px] m-auto">
 						On July 27, 2021, I had the misfortune to fall into the world of
-						cryptocurrencies
+						cryptocurrencies.
 					</h2>
 					<p className="sm:mx-10 my-2 md:text-center py-3 p-4">
-						Usually, it's not something bad. But the problem is that I did everything
+						Normally, that's not a bad thing. But the problem is that I did everything
 						wrong... 🤦‍♂️
 					</p>
 					<p className="sm:mx-10 my-2 p-4 ">
@@ -86,13 +86,12 @@ export default function Presentation() {
 						seeing anything coming!
 					</p>
 					<p className="sm:mx-10 my-2 p-4">
-						Fortunately, I was lucky enough not to have given up and got back into it 3
-						months later. That's when I really started to understand the ecosystem and
-						became interested in the whole technology aspect behind the blockchain.
+						Fortunately, I was lucky enough not to give up and got back into it 3 months
+						later. That's when I really started to understand the ecosystem and became
+						interested in the whole technology aspect behind the blockchain.
 					</p>
 					<h2 className="text-center mt-36 my-2 max-w-[620px] xl:max-w-[830px] m-auto">
-						But since I didn't make any more money, I continued to look for a way to
-						make some
+						But I wasn't making any money, so I kept looking for a way to make some.
 					</h2>
 					<p className="sm:mx-10 my-2 text-justify p-4 ">
 						Then, around mid-February 2022, I participated in{" "}
@@ -101,22 +100,22 @@ export default function Presentation() {
 								href="https://www.youtube.com/watch?v=nb471gm5Xeg"
 								className="cursor-pointer text-blue-700 underline"
 							>
-								the Arduino project
+								an Arduino project
 							</a>
 						</span>{" "}
 						that my older sister had to do for her engineering school. That's when I
-						noticed that I really liked programming, and I was doing pretty well too! It
-						was elected the best project of the year by the jury.
+						realized that I really liked programming, and I was pretty good at it! It
+						was voted best project of the year by the judges.
 					</p>
 					<p className="sm:mx-10 my-2 text-justify p-4 ">
-						Not long before, I heard about the Solidity developer job. The programming
-						language for creating smart contracts and interacting with the blockchain.
-						Then I realized that it mixed two things I particularly liked: programming
-						and blockchain.
+						Not long before that, I heard about the Solidity developer job. The
+						programming language for creating smart contracts and interacting with the
+						blockchain. Then I realized that it combined two things I really liked:
+						programming and blockchain.
 					</p>
 					<h2 className="text-center mt-20 mb-32 max-w-[333px] md:max-w-[412px] xl:max-w-[493px] m-auto">
 						So I had a new goal:{" "}
-						<span className="underline">Become a Solidity developer</span>
+						<span className="underline">Become a Solidity developer.</span>
 					</h2>
 				</div>
 			</div>

@@ -8,15 +8,14 @@ export default function Projects() {
 				<div className="xl:grid grid-cols-3 mt-2 sm:mt-5 xl:mt-10">
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
-							In the beginning of April, I took a small one-hour training to learn how
-							to make my own NFTs. I created 2500 of them myself, sent their metadata
-							to IPFS, chose all the parameters I wanted, and customized a dapp to
-							mint them.
+							In early April, I took a little one-hour class to learn how to create my
+							own NFTs. I created 2500 of them myself, sent their metadata to IPFS,
+							chose all the parameters I wanted, and customized a dapp to mint them.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							However, I still haven't learned to draw. So you really{" "}
+							However, I still haven't learned how to draw. So you really{" "}
 							<span className="underline">shouldn't</span> try to hire me as a
-							designer, or it will be a disaster. I'm only good at programming.
+							designer, or it will be a disaster. I'm only good at coding.
 						</p>
 						<p className="py-2 text-gray-700 ">
 							It was really fun to do this, but other than creating the images, I
@@ -71,7 +70,7 @@ export default function Projects() {
 								height="50px"
 								alt="/"
 							/>
-							<p className="px-3 py-3 text-lg">The NFT dapp</p>
+							<p className="px-3 py-3 text-lg">The NFT Dapp</p>
 						</a>
 					</div>
 				</div>

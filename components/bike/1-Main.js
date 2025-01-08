@@ -18,7 +18,7 @@ export default function Main() {
 			<h1 className="text-gray-800">Hi, I'm Noé! 🇫🇷</h1>
 			<h1 className="py-6 text-blue-700">Self-Taught Bike Mechanic</h1>
 			<p className="text-center text-lg md:text-xl lg:text-2xl text-gray-700 pt-2">
-				Othewise I coudn't ride, so I didn't really had the choice
+				I couldn't ride otherwise, so I didn't really have a choice.
 			</p>
 			<div className="flex justify-center mt-12">
 				<Link href="/bikes#presentation">

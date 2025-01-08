@@ -44,7 +44,7 @@ export default function Main() {
 			<h1 className="py-6 text-blue-700">Versatile Software Engineer</h1>
 			<div>
 				<p className="py-2 text-gray-700 text-center text-lg md:text-xl lg:text-2xl ">
-					I made this portfolio to present:
+					I made this portfolio to showcase:
 				</p>
 				<p className=" px-2 text-blue-700 text-center text-lg md:text-xl lg:text-2xl  ">
 					{changingText}

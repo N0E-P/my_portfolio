@@ -10,17 +10,17 @@ export default function Projects() {
 					<div className="col-span-2 xl:mr-8">
 						<p className="py-2 text-gray-700 ">
 							After doing these first 5 projects, it was time for me to try to find
-							work by showing what I had learned, built and accomplished. At the same
-							time, I also wanted to know how to make better websites. So I decided to
-							create <span className="font-bold">my portfolio</span>.
+							work by showing what I had learned, built, and accomplished. At the same
+							time, I also wanted to know how to build better websites. So I decided
+							to start building <span className="font-bold">my portfolio</span>.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							In mid-August, I started building. I did it with React, NextJS and
-							Tailwind, because I had already used them in the Solidity & Javascript
-							training. I also watched a 2H30 Youtube tutorial to learn more about it.
+							I started building in mid-August. I used React, NextJS and Tailwind,
+							because I had already used them in the Solidity & Javascript training. I
+							also watched a 2H30 Youtube tutorial to learn more about it.
 						</p>
 						<p className="py-2 text-gray-700 ">
-							Once finished, it was now time to find other people to work with.
+							Once that was done, it was now time to find other people to work with.
 						</p>
 					</div>
 					<div className="mt-6 xl:mt-0 sm:p-4 max-w-[550px] w-full bg-[#ecf0f3] h-auto m-auto shadow-xl shadow-gray-400 rounded-xl items-center justify-center p-4 hover:scale-105 ease-in duration-300">
