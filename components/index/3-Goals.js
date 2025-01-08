@@ -7,7 +7,7 @@ export default function Goals() {
 					<p className="py-2 text-gray-700 ">
 						<span className="font-bold">Myself:</span> <br />
 						- Stop wasting time <br />
-						- Try foreign countries <br />- Speak my mind
+						- Visit foreign countries <br />- Speak my mind
 					</p>
 					<p className="py-2 text-gray-700">
 						<span className="font-bold">Sports:</span>
