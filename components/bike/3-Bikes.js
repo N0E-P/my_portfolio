@@ -161,7 +161,7 @@ export default function Bikes() {
 						alt="/"
 						className="rounded-xl"
 					/>
-					<p className="text-sm">Usual settings. The rear light was reinstalled.</p>
+					<p className="text-sm">Usual adjustments. The rear light was reinstalled.</p>
 				</div>
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img

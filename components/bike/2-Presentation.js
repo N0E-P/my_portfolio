@@ -6,8 +6,8 @@ export default function Presentation() {
 				<div className="md:grid grid-cols-2">
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 md:mr-8 md:ml-4">
 						<p className=" text-white text-lg">
-							I'm young but I've got experience: I've worked on over forty bikes, all
-							of which run perfectly and are still in service.
+							I'm young but I've got experience: I've worked on over 40 bikes, all of
+							which run perfectly and are still in service.
 						</p>
 					</div>
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mt-0 md:mr-4">
@@ -25,7 +25,7 @@ export default function Presentation() {
 					<div className="p-8 bg-sky-600 rounded-3xl shadow-md shadow-gray-400 mt-8 md:mr-4">
 						<p className=" text-white text-lg">
 							I've already assembled and disassembled almost everything. Grease, rust,
-							and ball bearings that run away no longer scare me.
+							and ball bearings that runs away no longer scare me.
 						</p>
 					</div>
 				</div>

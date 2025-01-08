@@ -78,9 +78,9 @@ export default function Presentation() {
 								Business
 							</h2>
 							<p className=" text-white text-lg">
-								Since high school, I've made shitty Youtube channels and half-tried
-								to setup wacky businesses. But now it's time to get serious, to work
-								hard and to get my hands dirty. More infos here.
+								Since high school, I've made shitty Youtube channels and tried to
+								setup wacky businesses. But now is time to get serious, to work hard
+								and to get my hands dirty. More infos here.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img

@@ -10,7 +10,7 @@ export default function Contact() {
 				className="bg-blue-200 max-w-[500px] shadow-lg shadow-gray-400 rounded-3xl items-center justify-center p-5 grid grid-cols-1 "
 			>
 				<img
-					className="rounded-3xl"
+					className="rounded-3xl hover:scale-105 ease-in duration-300"
 					src={"/profile-photo.jpg"}
 					width="500px"
 					height="500px"
@@ -18,8 +18,7 @@ export default function Contact() {
 				/>
 				<h2 className="py-2 sm:py-4 text-center text-3xl sm:text-4xl">Don't hesitate!</h2>
 				<p className="pt-2 text-gray-700 xl:text-lg text-center">
-					I'm open for business, friends, networking, training partners, and of course to
-					do some cool stuff.
+					I'm open for business, friends, networking, and of course to do some cool stuff.
 				</p>
 				<p className="pb-2 text-gray-700 xl:text-lg text-center mt-4">
 					Contact me now, I'll answer you! 😊

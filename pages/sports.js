@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Main from "../components/sports/1-Main";
 import Contact from "../components/Contact";
+import Sports from "../components/sports/2-Sports";
 
 export default function Home() {
 	return (
@@ -13,6 +14,7 @@ export default function Home() {
 				<meta property="og:image" content={"https://noe-pecci.com/profile-photo.jpg"} />
 			</Head>
 			<Main />
+			<Sports />
 			<Contact />
 		</div>
 	);

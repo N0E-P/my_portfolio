@@ -19,7 +19,7 @@ export default function Main() {
 			<h1 className="py-6 text-blue-700">Track & Field Athlete</h1>
 			<h1 className="pb-6 text-gray-800">Long Distance Cyclist</h1>
 			<p className="text-center text-lg md:text-xl lg:text-2xl text-gray-700 pt-2">
-				Coming soon...
+				And a lot of stupid activities in between
 			</p>
 			<div className="flex justify-center mt-12">
 				<Link href="/sports#presentation">
