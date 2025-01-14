@@ -75,12 +75,12 @@ export default function Businesses() {
 				</div>
 			</div>
 			<div className="max-w-[1000px] m-auto p-8 bg-green-200 rounded-3xl shadow-lg shadow-gray-400 mb-10 ">
-				<h1 className="pb-5">Type 6 Fun</h1>
+				<h1 className="pb-5">Type 2 Fun</h1>
 				<div className="grid grid-cols-1 lg:grid-cols-2 ">
 					<div className="bg-[#ecf0f3] shadow-md shadow-gray-400 rounded-3xl p-4 sm:p-6 lg:p-4 lg:mr-8">
 						<img
 							className="rounded-3xl hover:scale-105 ease-in duration-300"
-							src={"/sports/arc.jpg"}
+							src={"/sports/marche.jpg"}
 							width="1000px"
 							height="1000px"
 							alt="/"

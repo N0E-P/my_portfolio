@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Main() {
 	return (
-		<div className="w-full mt-5 2xl:mt-40 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
+		<div className="w-full mt-5 2xl:mt-20 sm:mt-15 md:mt-10 text-center h-screen max-w-[1240px] mx-auto p-2 justify-center">
 			<div className="flex justify-center">
 				<Link href="/">
 					<img
