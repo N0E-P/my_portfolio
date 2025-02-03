@@ -11,6 +11,26 @@ export default function Bikes() {
 			<div className="grid lg:grid-cols-2 gap-8 ">
 				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
 					<img
+						src={"/bikes/42.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">Usual adjustments.</p>
+				</div>
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
+						src={"/bikes/41.jpg"}
+						width="200px"
+						height="200px"
+						alt="/"
+						className="rounded-xl"
+					/>
+					<p className="text-sm">Usual adjustments.</p>
+				</div>
+				<div className="p-4 m-auto max-w-[450px] xl:w-[550px] justify-center items-center grid grid-cols-2 gap-2 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+					<img
 						src={"/bikes/40.jpg"}
 						width="200px"
 						height="200px"
