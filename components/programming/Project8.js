@@ -7,8 +7,8 @@ export default function Projects() {
 					<p className="py-2 text-gray-700 ">
 						In October 2022, I enrolled in a college of computer science and
 						electronics. To perfect and complete my skills in these two fields. Of
-						course, this gave me less time for personal projects, but I made progress on
-						some, without always finishing them all:
+						course, this left me with less time for personal projects, but I still made
+						progress on some:
 					</p>
 					<p className="py-2 text-gray-700 ">
 						- A bot that receives and sends information between the blockchain and a
@@ -24,6 +24,10 @@ export default function Projects() {
 					<p className="py-2 text-gray-700 ">
 						- Metacare Health, a platform for management platform. (In partnership with
 						Asus.)
+					</p>
+					<p className="py-2 text-gray-700 ">
+						- A service to run any AI generation model remotely without requiring a
+						subscription
 					</p>
 					<p className="py-2 text-gray-700 ">
 						- RC Car 2.0, more powerful, faster and stronger than the first version.
