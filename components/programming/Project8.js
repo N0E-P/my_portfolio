@@ -22,7 +22,7 @@ export default function Projects() {
 						frame.
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- Metacare Health, a platform for management platform. (In partnership with
+						- Metacare Health, a health data management platform. (In partnership with
 						Asus.)
 					</p>
 					<p className="py-2 text-gray-700 ">
