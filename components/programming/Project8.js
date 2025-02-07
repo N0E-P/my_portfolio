@@ -26,10 +26,6 @@ export default function Projects() {
 						Asus.)
 					</p>
 					<p className="py-2 text-gray-700 ">
-						- A service to run any AI generation model remotely without requiring a
-						subscription
-					</p>
-					<p className="py-2 text-gray-700 ">
 						- RC Car 2.0, more powerful, faster and stronger than the first version.
 					</p>
 					<p className="py-2 text-gray-700 ">
@@ -48,7 +44,7 @@ export default function Projects() {
 					<p className="py-2 text-gray-700 ">
 						- A <span className="underline font-bold">fake</span> website to learn how
 						to scam people on the Internet, to do something fun, for a project in
-						English.
+						English class.
 					</p>
 					<p className="py-2 text-gray-700 ">
 						- A candy box that opens automatically when you put your hand near it.{" "}
@@ -56,6 +52,10 @@ export default function Projects() {
 					<p className="py-2 text-gray-700 ">
 						- An interaction simulator for a group of fireflies, each glowing according
 						to the brightness of the others.
+					</p>
+					<p className="py-2 text-gray-700 ">
+						- A service to run any AI generation model remotely without requiring a
+						subscription
 					</p>
 				</div>
 			</div>
