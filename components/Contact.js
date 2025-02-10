@@ -1,6 +1,4 @@
-import { AiOutlineMail } from "react-icons/ai";
-import { FaXTwitter } from "react-icons/fa6";
-import { RiTelegram2Line } from "react-icons/ri";
+import { RiTelegram2Fill, RiLinkedinFill, RiMailUnreadFill } from "react-icons/ri";
 
 export default function Contact() {
 	return (
@@ -26,7 +24,7 @@ export default function Contact() {
 				<div className="py-4 items-center justify-between flex w-[90%] m-auto ">
 					<a href="https://t.me/&#110;&#111;&#101;&#095;&#112;&#101;&#099;&#099;&#105;">
 						<div className="bg-[#ecf0f3] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
-							<RiTelegram2Line size={25} />
+							<RiTelegram2Fill size={25} />
 						</div>
 					</a>
 					<a
@@ -34,7 +32,7 @@ export default function Contact() {
 						href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
 					>
 						<div className="bg-[#ecf0f3] flex rounded-full w-[250px] m-auto shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
-							<AiOutlineMail size={25} />
+							<RiMailUnreadFill size={25} />
 							<p className="pl-2 xl:text-lg">
 								&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
 							</p>
@@ -45,12 +43,12 @@ export default function Contact() {
 						href="mailto:&#112;&#101;&#099;&#099;&#105;&#046;&#110;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
 					>
 						<div className="bg-[#ecf0f3] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300">
-							<AiOutlineMail size={25} />
+							<RiMailUnreadFill size={25} />
 						</div>
 					</a>
-					<a href="https://x.com/noe_pecci">
-						<div className=" bg-[#ecf0f3] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
-							<FaXTwitter size={25} />
+					<a href="https://www.linkedin.com/in/no%C3%A9-pecci/">
+						<div className="bg-[#ecf0f3] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+							<RiLinkedinFill size={25} />
 						</div>
 					</a>
 				</div>
