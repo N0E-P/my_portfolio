@@ -20,9 +20,9 @@ export default function Goals() {
 					<p className="py-2 text-gray-700 ">
 						<span className="font-bold">Business:</span>
 						<br />
-						- Live from my own business
+						- Have a fun job
 						<br />
-						- Try out AI videos full time
+						- Stay up to date on AI
 						<br />- Network and make new friends
 					</p>
 				</div>
