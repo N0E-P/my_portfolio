@@ -13,7 +13,7 @@ export default function Home() {
 				<meta property="og:title" content="Noé's Portfolio" />
 				<meta
 					property="og:description"
-					content="Aspiring Entrepreneur, Software Engineer, Bike Mechanic & Cyclist"
+					content="Aspiring Builder, Software Engineer, Bike Mechanic & Cyclist"
 				/>
 				<meta property="og:image" content={"https://noe-pecci.com/profile-photo.jpg"} />
 			</Head>

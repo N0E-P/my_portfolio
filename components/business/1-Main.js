@@ -16,7 +16,7 @@ export default function Main() {
 				</Link>
 			</div>
 			<h1 className="text-gray-800">Hi, I'm Noé! 🇫🇷</h1>
-			<h1 className="py-6 text-blue-700">Aspiring entrepreneur</h1>
+			<h1 className="py-6 text-blue-700">Aspiring Builder</h1>
 			<p className="text-center text-lg md:text-xl lg:text-2xl text-gray-700 pt-2">
 				And on the right track!
 			</p>
