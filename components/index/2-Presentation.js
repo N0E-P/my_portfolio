@@ -30,15 +30,16 @@ export default function Presentation() {
 							</div>
 						</div>
 					</Link>
-					<Link href="/bikes">
+					<a href="https://pecci-bikes.com" target="_blank" rel="noreferrer">
 						<div className="p-8 cursor-pointer bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:ml-6 mt-8 lg:mt-0  hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
 								Bikes
 							</h2>
 							<p className=" text-white text-lg">
-								I've been tinkering with bicycles since I was a kid. I've always
-								done my own repairs, adjustments and assemblies. Since then, I've
-								learned how to do a lot of other things. All the details are here.
+								I'm launching a new bike business. Click here to see the website.
+								<br />
+								<br />
+								<br />
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
@@ -50,7 +51,7 @@ export default function Presentation() {
 								/>
 							</div>
 						</div>
-					</Link>
+					</a>
 					<Link href="/sports">
 						<div className="p-8 cursor-pointer bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:mr-6 mt-8 lg:mt-12 hover:scale-105 ease-in duration-300">
 							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
