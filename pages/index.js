@@ -2,7 +2,6 @@ import Head from "next/head";
 import Main from "../components/index/1-Main";
 import Contact from "../components/Contact";
 import Presentation from "../components/index/2-Presentation";
-import Goals from "../components/index/3-Goals";
 
 export default function Home() {
 	return (
@@ -19,7 +18,6 @@ export default function Home() {
 			</Head>
 			<Main />
 			<Presentation />
-			<Goals />
 			<Contact />
 		</div>
 	);
