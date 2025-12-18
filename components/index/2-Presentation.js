@@ -11,7 +11,7 @@ export default function Presentation() {
 				<div className="lg:grid grid-cols-2 px-4">
 					<Link href="/programming">
 						<div className="p-8 cursor-pointer bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:mr-6  hover:scale-105 ease-in duration-300">
-							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
+							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white underline">
 								Programming
 							</h2>
 							<p className=" text-white text-lg">
@@ -32,11 +32,13 @@ export default function Presentation() {
 					</Link>
 					<a href="https://pecci-bikes.com" target="_blank" rel="noreferrer">
 						<div className="p-8 cursor-pointer bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:ml-6 mt-8 lg:mt-0  hover:scale-105 ease-in duration-300">
-							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
+							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white underline">
 								Bikes
 							</h2>
 							<p className=" text-white text-lg">
-								I'm launching a new bike business. Click here to see the website.
+								I like to mess arround and get my hands dirty with bikes. I often
+								clean, modify and sell them. Click here to see my dedicated website
+								with all the work I've done.
 								<br />
 								<br />
 								<br />
@@ -54,13 +56,13 @@ export default function Presentation() {
 					</a>
 					<Link href="/sports">
 						<div className="p-8 cursor-pointer bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:mr-6 mt-8 lg:mt-12 hover:scale-105 ease-in duration-300">
-							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
+							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white underline">
 								Sports
 							</h2>
 							<p className=" text-white text-lg">
-								I've always liked individual sports. I've been passionate into
-								athletics for over 10 years now. I've tried a lot of things, and I'm
-								concentrating on long distance cycling. Click here to learn more.
+								I've always liked individual sports. I've been passionate by track &
+								field for over 10 years, and I'm always trying new stuff. Click here
+								to learn more.
 							</p>
 							<div className="mt-6 max-w-[450px] w-full h-auto m-auto">
 								<img
@@ -75,7 +77,7 @@ export default function Presentation() {
 					</Link>
 					<Link href="/business">
 						<div className="p-8 cursor-pointer bg-sky-600 rounded-3xl shadow-lg shadow-gray-400 lg:ml-6 mt-8 lg:mt-12  hover:scale-105 ease-in duration-300">
-							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white">
+							<h2 className="text-center mb-5 max-w-[300px] sm:max-w-[1400px] m-auto text-white underline">
 								Business
 							</h2>
 							<p className=" text-white text-lg">
