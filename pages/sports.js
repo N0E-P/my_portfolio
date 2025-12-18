@@ -11,7 +11,7 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 				<meta property="og:title" content="Noé Pecci's Portfolio" />
 				<meta property="og:description" content="Cyclist and Track & Field Athlete" />
-				<meta property="og:image" content={"https://noe-pecci.com/profile-photo.jpg"} />
+				<meta property="og:image" content={"https://noe-pecci.com/profile-picture.jpg"} />
 			</Head>
 			<Main />
 			<Sports />

@@ -14,7 +14,7 @@ export default function Home() {
 					property="og:description"
 					content="Content Creator, Strategist, Bike Mechanic & Software Engineer"
 				/>
-				<meta property="og:image" content={"https://noe-pecci.com/profile-photo.jpg"} />
+				<meta property="og:image" content={"https://noe-pecci.com/profile-picture.jpg"} />
 			</Head>
 			<Main />
 			<Presentation />

@@ -9,7 +9,7 @@ export default function Contact() {
 			>
 				<img
 					className="rounded-3xl hover:scale-105 ease-in duration-300"
-					src={"/profile-photo.jpg"}
+					src={"/profile-picture.jpg"}
 					width="500px"
 					height="500px"
 					alt="/"
