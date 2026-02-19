@@ -85,7 +85,7 @@ export default function Presentation() {
 								Bikes
 							</h2>
 							<p className=" text-white text-lg">
-								I like to mess arround and get my hands dirty with bikes. I often
+								I like to mess around and get my hands dirty with bikes. I often
 								clean, modify and sell them. Click here to see my dedicated website
 								with all the work I've done.
 							</p>
