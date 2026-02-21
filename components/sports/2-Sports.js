@@ -49,7 +49,7 @@ export default function Businesses() {
 				</div>
 			</div>
 			<div className="max-w-[1000px] m-auto p-8 bg-yellow-200 rounded-3xl shadow-lg shadow-gray-400 mb-10 ">
-				<h1 className="pb-5">Stupid Cyclists</h1>
+				<h1 className="pb-5">Speed!</h1>
 
 				<div className="grid grid-cols-1 lg:grid-cols-2 ">
 					<p className="py-2 text-gray-700 ">
